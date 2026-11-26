@@ -30,7 +30,17 @@ Implemented:
 | Release | Phase A = free check build; Phase B = paid version later |
 | UI | Reference-like layout for now; re-skin in Phase B |
 
-## Build
+## APK download (GitHub Actions)
+
+Har push par debug APK banta hai:
+
+- **Latest successful run:** https://github.com/pushparaj9749/Rve/actions/runs/45769928186
+- **APK artifact:** `AnkitMotion-plus-debug` (run page → Artifacts section)
+- Direct: https://github.com/pushparaj9749/Rve/actions/runs/45769928186/artifacts/15093895987
+
+Artifact download karke zip unlock karein → `app-debug.apk` → phone me install karein (unknown sources allow karna hoga).
+
+## Build locally
 
 Java 17 + Android SDK required. This agent sandbox has no JDK/Gradle, so the code was written but **not compiled here**.
 
