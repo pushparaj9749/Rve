@@ -50,14 +50,24 @@ object KeyframeEvaluator {
         Easing.ELASTIC -> elastic(t)
     }
 
-    private fun bounce(t: Float): Float {
+    private fun bounce(input: Float): Float {
         val n1 = 7.5625f
         val d1 = 2.75f
+        val t = input
         return when {
             t < 1f / d1 -> n1 * t * t
-            t < 2f / d1 -> n1 * (t -= 1.5f / d1) * t + 0.75f
-            t < 2.5f / d1 -> n1 * (t -= 2.25f / d1) * t + 0.9375f
-            else -> n1 * (t -= 2.625f / d1) * t + 0.984375f
+            t < 2f / d1 -> {
+                val x = t - 1.5f / d1
+                n1 * x * x + 0.75f
+            }
+            t < 2.5f / d1 -> {
+                val x = t - 2.25f / d1
+                n1 * x * x + 0.9375f
+            }
+            else -> {
+                val x = t - 2.625f / d1
+                n1 * x * x + 0.984375f
+            }
         }
     }
 
