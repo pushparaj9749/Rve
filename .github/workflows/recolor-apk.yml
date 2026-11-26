@@ -1,0 +1,60 @@
+name: Recolor base.apk
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - research/base.apk
+      - scripts/recolor_colors.py
+      - .github/workflows/recolor-apk.yml
+
+permissions:
+  contents: read
+
+jobs:
+  recolor:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up JDK 17
+        uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: '17'
+
+      - name: Prepare Android build tools
+        run: |
+          echo "ANDROID_HOME=${ANDROID_HOME:-$ANDROID_SDK_ROOT}" >> "$GITHUB_ENV"
+          ls -d "${ANDROID_HOME:-$ANDROID_SDK_ROOT}"/build-tools/* | sort -V | tail -1
+
+      - name: Download apktool
+        run: curl -L --fail -o apktool.jar https://github.com/iBotPeaches/Apktool/releases/download/v2.11.0/apktool_2.11.0.jar
+
+      - name: Decode reference APK
+        run: java -jar apktool.jar d -f research/base.apk -o apk_out
+
+      - name: Change color palette only
+        run: python3 scripts/recolor_colors.py apk_out
+
+      - name: Rebuild APK
+        run: java -jar apktool.jar b apk_out -o patched_unsigned.apk
+
+      - name: Align and sign
+        run: |
+          BUILD_TOOLS=$(ls -d "${ANDROID_HOME}"/build-tools/* | sort -V | tail -1)
+          "$BUILD_TOOLS/zipalign" -f -p 4 patched_unsigned.apk aligned.apk
+          keytool -genkeypair -keystore color.keystore -storepass ankit123 -keypass ankit123 \
+            -alias color -dname "CN=Ankit Motion Recolor" -validity 10000 -keyalg RSA -keysize 2048
+          "$BUILD_TOOLS/apksigner" sign --ks color.keystore \
+            --ks-pass pass:ankit123 --key-pass pass:ankit123 \
+            --out AnkitMotion-plus-recolor.apk aligned.apk
+          "$BUILD_TOOLS/apksigner" verify AnkitMotion-plus-recolor.apk
+
+      - name: Upload recolored APK
+        uses: actions/upload-artifact@v4
+        with:
+          name: AnkitMotion-plus-recolor
+          path: AnkitMotion-plus-recolor.apk
+          if-no-files-found: error
