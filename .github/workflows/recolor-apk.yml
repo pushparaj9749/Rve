@@ -14,7 +14,7 @@ on:
       - .github/workflows/recolor-apk.yml
 
 permissions:
-  contents: read
+  contents: write
 
 jobs:
   recolor:
@@ -56,7 +56,19 @@ jobs:
         run: cp brand/lottie_loading_spinner.json apk_out/res/raw/lottie_loading_spinner.json
 
       - name: Rebuild APK
-        run: java -jar apktool.jar b apk_out -o patched_unsigned.apk
+        run: |
+          set +e
+          java -jar apktool.jar b apk_out -o patched_unsigned.apk 2>&1 | tee rebuild.log
+          exit ${PIPESTATUS[0]}
+
+      - name: Commit rebuild log on failure
+        if: failure()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -f rebuild.log || true
+          git commit -m "ci: rebuild log [skip ci]" || true
+          git push origin HEAD:"$GITHUB_REF_NAME" || true
 
       - name: Align and sign
         run: |
