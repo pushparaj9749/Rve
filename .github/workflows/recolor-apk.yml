@@ -6,6 +6,8 @@ on:
     paths:
       - research/base.apk
       - scripts/recolor_colors.py
+      - scripts/apply_branding.py
+      - brand/**
       - .github/workflows/recolor-apk.yml
 
 permissions:
@@ -37,6 +39,9 @@ jobs:
 
       - name: Change color palette only
         run: python3 scripts/recolor_colors.py apk_out
+
+      - name: Set app name and launcher logo
+        run: python3 scripts/apply_branding.py apk_out
 
       - name: Rebuild APK
         run: java -jar apktool.jar b apk_out -o patched_unsigned.apk
