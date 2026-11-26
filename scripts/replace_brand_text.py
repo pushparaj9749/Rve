@@ -28,6 +28,34 @@ REPLACEMENTS = [
 
 
 TEXT_RE = re.compile(r"(<(?:string|item)[^>]*>)(.*?)(</(?:string|item)>)", re.S)
+REF_RE = re.compile(r"@[A-Za-z_][\w.]*/[A-Za-z_][\w.]*")
+
+
+def replace_outside_refs(value: str) -> tuple[str, int]:
+    """Only replace text outside @style/Foo style resource references."""
+    segments: list[tuple[bool, str]] = []
+    last = 0
+    for match in REF_RE.finditer(value):
+        if match.start() > last:
+            segments.append((False, value[last:match.start()]))
+        segments.append((True, match.group(0)))
+        last = match.end()
+    if last < len(value):
+        segments.append((False, value[last:]))
+
+    count = 0
+    output = []
+    for is_ref, segment in segments:
+        if is_ref:
+            output.append(segment)
+            continue
+        for old, new in REPLACEMENTS:
+            hits = segment.count(old)
+            if hits:
+                count += hits
+                segment = segment.replace(old, new)
+        output.append(segment)
+    return "".join(output), count
 
 
 def patch(path: pathlib.Path) -> int:
@@ -40,12 +68,8 @@ def patch(path: pathlib.Path) -> int:
 
     def replace_value(match: re.Match) -> str:
         nonlocal count
-        value = match.group(2)
-        for old, new in REPLACEMENTS:
-            hits = value.count(old)
-            if hits:
-                count += hits
-                value = value.replace(old, new)
+        value, hits = replace_outside_refs(match.group(2))
+        count += hits
         return match.group(1) + value + match.group(3)
 
     patched = TEXT_RE.sub(replace_value, text)
