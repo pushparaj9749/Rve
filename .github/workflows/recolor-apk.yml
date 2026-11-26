@@ -7,6 +7,7 @@ on:
       - research/base.apk
       - scripts/recolor_colors.py
       - scripts/apply_branding.py
+      - scripts/change_package.py
       - brand/**
       - .github/workflows/recolor-apk.yml
 
@@ -42,6 +43,9 @@ jobs:
 
       - name: Set app name and launcher logo
         run: python3 scripts/apply_branding.py apk_out
+
+      - name: Use a separate app package id
+        run: python3 scripts/change_package.py apk_out
 
       - name: Rebuild APK
         run: java -jar apktool.jar b apk_out -o patched_unsigned.apk
