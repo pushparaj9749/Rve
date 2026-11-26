@@ -27,18 +27,31 @@ REPLACEMENTS = [
 ]
 
 
+TEXT_RE = re.compile(r"(<(?:string|item)[^>]*>)(.*?)(</(?:string|item)>)", re.S)
+
+
 def patch(path: pathlib.Path) -> int:
     try:
         text = path.read_text(encoding="utf-8")
     except (UnicodeDecodeError, OSError):
         return 0
-    original = text
-    for old, new in REPLACEMENTS:
-        text = text.replace(old, new)
-    if text != original:
-        path.write_text(text, encoding="utf-8")
-        return sum(original.count(old) for old, _ in REPLACEMENTS)
-    return 0
+
+    count = 0
+
+    def replace_value(match: re.Match) -> str:
+        nonlocal count
+        value = match.group(2)
+        for old, new in REPLACEMENTS:
+            hits = value.count(old)
+            if hits:
+                count += hits
+                value = value.replace(old, new)
+        return match.group(1) + value + match.group(3)
+
+    patched = TEXT_RE.sub(replace_value, text)
+    if count:
+        path.write_text(patched, encoding="utf-8")
+    return count
 
 
 def main() -> None:
