@@ -344,7 +344,7 @@ fun EditorScreen(
                 verticalArrangement = Arrangement.Top
             ) {
                 RailButton(Icons.Filled.Image, "Preview mode") { showGrid.value = !showGrid.value }
-                RailButton(Icons.Filled.GridView, "Grid") { showGrid.value = !showGrid.value }
+                RailButton(Icons.Filled.Dashboard, "Grid") { showGrid.value = !showGrid.value }
                 RailButton(Icons.Filled.Layers, "Layers") { showProperties.value = !showProperties.value }
                 RailButton(Icons.Filled.CameraAlt, "Camera") { showCamera.value = true }
                 RailButton(Icons.Filled.ZoomIn, "Zoom") { showZoomGuide.value = !showZoomGuide.value }
