@@ -46,7 +46,7 @@ def patch_file(path: pathlib.Path) -> int:
 
     def repl(match: re.Match) -> str:
         nonlocal count
-        raw = match.group(1).lstrip("#").lower()
+        raw = match.group(0).lstrip("#").lower()
         # accept #AARRGGBB or #RRGGBB
         if len(raw) == 6:
             raw = "ff" + raw
