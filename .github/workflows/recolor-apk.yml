@@ -8,6 +8,8 @@ on:
       - scripts/recolor_colors.py
       - scripts/apply_branding.py
       - scripts/change_package.py
+      - scripts/replace_brand_text.py
+      - scripts/make_opening_animation.py
       - brand/**
       - .github/workflows/recolor-apk.yml
 
@@ -46,6 +48,12 @@ jobs:
 
       - name: Use a separate app package id
         run: python3 scripts/change_package.py apk_out
+
+      - name: Replace old brand names
+        run: python3 scripts/replace_brand_text.py apk_out
+
+      - name: Install our opening animation
+        run: cp brand/lottie_loading_spinner.json apk_out/res/raw/lottie_loading_spinner.json
 
       - name: Rebuild APK
         run: java -jar apktool.jar b apk_out -o patched_unsigned.apk
