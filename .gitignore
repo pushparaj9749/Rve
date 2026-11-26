@@ -1,0 +1,19 @@
+# Only raw/binary analysis inputs stay out of Git.
+google_drive/*.apk
+analysis/unpacked/
+analysis/*.apk
+analysis/*.dex
+.venv/
+*.jks
+keystore/
+.env
+*.log
+
+# Gradle / Android build outputs
+.gradle/
+local.properties
+**/build/
+*.iml
+.idea/
+captures/
+.clone/

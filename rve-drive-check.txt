@@ -1,0 +1,7 @@
+Rve connectivity check
+======================
+Created: 2026-11-25 (UTC)
+Purpose: Verify which Google Drive is connected to this Arena session.
+
+If you can see this file in your Drive, this is the account connected here.
+You can delete it after checking.

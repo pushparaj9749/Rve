@@ -1,0 +1,14 @@
+idx	file	classes	strings	code_methods
+0	classes.dex	553	5014	1481
+1	classes10.dex	5	691	6
+2	classes11.dex	92	668	180
+3	classes2.dex	7943	38623	12859
+4	classes3.dex	9552	33308	2778
+5	classes4.dex	8778	47210	3684
+6	classes5.dex	10203	31487	0
+7	classes6.dex	7730	34760	0
+8	classes7.dex	3495	21944	28
+9	classes8.dex	8267	24259	0
+10	classes9.dex	66	472	128
+
+TOTAL classes=56684 strings=238436 code_methods=21144 indexed_methods=22273

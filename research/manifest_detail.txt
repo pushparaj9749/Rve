@@ -1,0 +1,139 @@
+--- APPLICATION ATTRS ---
+  {http://schemas.android.com/apk/res/android}allowBackup = true
+  {http://schemas.android.com/apk/res/android}appCategory = 0
+  {http://schemas.android.com/apk/res/android}extractNativeLibs = true
+  {http://schemas.android.com/apk/res/android}hardwareAccelerated = true
+  {http://schemas.android.com/apk/res/android}icon = @7F100000
+  {http://schemas.android.com/apk/res/android}isGame = true
+  {http://schemas.android.com/apk/res/android}label = @7F14009F
+  {http://schemas.android.com/apk/res/android}largeHeap = true
+  {http://schemas.android.com/apk/res/android}name = com.pairip.application.Application
+  {http://schemas.android.com/apk/res/android}supportsRtl = true
+  {http://schemas.android.com/apk/res/android}theme = @7F150031
+
+--- INTENT FILTERS (app components) ---
+
+[activity] com.alightcreative.app.motion.activities.DeviceMismatchNoticeActivity
+  attrs={'{http://schemas.android.com/apk/res/android}name': 'com.alightcreative.app.motion.activities.DeviceMismatchNoticeActivity'}
+
+[activity] com.alightcreative.monetization.stackedintro.StackedOffersPaywallActivity
+  attrs={'{http://schemas.android.com/apk/res/android}theme': '@7F1502D9', '{http://schemas.android.com/apk/res/android}name': 'com.alightcreative.monetization.stackedintro.StackedOffersPaywallActivity', '{http://schemas.android.com/apk/res/android}exported': 'false'}
+
+[activity] com.alightcreative.app.motion.activities.main.MainActivity
+  attrs={'{http://schemas.android.com/apk/res/android}theme': '@7F1502D0', '{http://schemas.android.com/apk/res/android}label': '@7F14009F', '{http://schemas.android.com/apk/res/android}name': 'com.alightcreative.app.motion.activities.main.MainActivity', '{http://schemas.android.com/apk/res/android}exported': 'true', '{http://schemas.android.com/apk/res/android}launchMode': '2', '{http://schemas.android.com/apk/res/android}screenOrientation': '1', '{http://schemas.android.com/apk/res/android}windowSoftInputMode': '0x00000020'}
+  filter: actions=['android.intent.action.MAIN'] cats=['android.intent.category.LAUNCHER'] data=[]
+  filter: actions=['android.intent.action.VIEW'] cats=['android.intent.category.DEFAULT', 'android.intent.category.BROWSABLE'] data=[{'{http://schemas.android.com/apk/res/android}scheme': 'https', '{http://schemas.android.com/apk/res/android}host': 'alight.to'}, {'{http://schemas.android.com/apk/res/android}scheme': 'http', '{http://schemas.android.com/apk/res/android}host': 'alight.to'}]
+  filter: actions=['android.intent.action.VIEW'] cats=['android.intent.category.DEFAULT', 'android.intent.category.BROWSABLE'] data=[{'{http://schemas.android.com/apk/res/android}scheme': 'https', '{http://schemas.android.com/apk/res/android}host': 'alightcreative.page.link'}, {'{http://schemas.android.com/apk/res/android}scheme': 'http', '{http://schemas.android.com/apk/res/android}host': 'alightcreative.page.link'}]
+  filter: actions=['android.intent.action.VIEW'] cats=['android.intent.category.DEFAULT', 'android.intent.category.BROWSABLE'] data=[{'{http://schemas.android.com/apk/res/android}scheme': 'https', '{http://schemas.android.com/apk/res/android}host': '@7F14091E'}, {'{http://schemas.android.com/apk/res/android}scheme': 'http', '{http://schemas.android.com/apk/res/android}host': '@7F14091E'}]
+  filter: actions=['android.intent.action.VIEW'] cats=['android.intent.category.DEFAULT', 'android.intent.category.BROWSABLE'] data=[{'{http://schemas.android.com/apk/res/android}scheme': 'https', '{http://schemas.android.com/apk/res/android}host': '@7F14091D', '{http://schemas.android.com/apk/res/android}pathPrefix': '/am/share/u/'}, {'{http://schemas.android.com/apk/res/android}scheme': 'http', '{http://schemas.android.com/apk/res/android}host': '@7F14091D', '{http://schemas.android.com/apk/res/android}pathPrefix': '/am/share/u/'}]
+  filter: actions=['android.intent.action.VIEW'] cats=['android.intent.category.BROWSABLE', 'android.intent.category.DEFAULT'] data=[{'{http://schemas.android.com/apk/res/android}scheme': 'https'}, {'{http://schemas.android.com/apk/res/android}host': 'alight-creative-staging.firebaseapp.com'}, {'{http://schemas.android.com/apk/res/android}host': 'alight-creative.firebaseapp.com'}, {'{http://schemas.android.com/apk/res/android}pathPrefix': '/__/auth/links'}]
+
+[activity] com.alightcreative.app.motion.activities.EditActivity
+  attrs={'{http://schemas.android.com/apk/res/android}theme': '@7F150031', '{http://schemas.android.com/apk/res/android}label': '@7F140CBA', '{http://schemas.android.com/apk/res/android}name': 'com.alightcreative.app.motion.activities.EditActivity', '{http://schemas.android.com/apk/res/android}screenOrientation': '1', '{http://schemas.android.com/apk/res/android}windowSoftInputMode': '0x00000020', '{http://schemas.android.com/apk/res/android}parentActivityName': 'com.alightcreative.app.motion.activities.main.MainActivity'}
+
+[activity] com.alightcreative.app.motion.activities.AboutActivity
+  attrs={'{http://schemas.android.com/apk/res/android}name': 'com.alightcreative.app.motion.activities.AboutActivity', '{http://schemas.android.com/apk/res/android}screenOrientation': '1'}
+
+[activity] com.alightcreative.app.motion.activities.SaveToStorageActivity
+  attrs={'{http://schemas.android.com/apk/res/android}theme': '@7F150341', '{http://schemas.android.com/apk/res/android}name': 'com.alightcreative.app.motion.activities.SaveToStorageActivity'}
+
+[activity] com.alightcreative.app.motion.activities.ColorPickerActivity
+  attrs={'{http://schemas.android.com/apk/res/android}name': 'com.alightcreative.app.motion.activities.ColorPickerActivity', '{http://schemas.android.com/apk/res/android}screenOrientation': '1'}
+
+[activity] com.alightcreative.app.motion.activities.main.newfeature.NewFeaturePagerActivity
+  attrs={'{http://schemas.android.com/apk/res/android}name': 'com.alightcreative.app.motion.activities.main.newfeature.NewFeaturePagerActivity', '{http://schemas.android.com/apk/res/android}screenOrientation': '1'}
+
+[activity] com.alightcreative.app.motion.activities.SettingsActivity
+  attrs={'{http://schemas.android.com/apk/res/android}name': 'com.alightcreative.app.motion.activities.SettingsActivity', '{http://schemas.android.com/apk/res/android}screenOrientation': '1'}
+
+[activity] com.alightcreative.app.motion.activities.mediabrowser.MediaBrowser
+  attrs={'{http://schemas.android.com/apk/res/android}name': 'com.alightcreative.app.motion.activities.mediabrowser.MediaBrowser', '{http://schemas.android.com/apk/res/android}screenOrientation': '1'}
+
+[activity] com.alightcreative.app.motion.activities.audiobrowser.AudioBrowserActivity
+  attrs={'{http://schemas.android.com/apk/res/android}name': 'com.alightcreative.app.motion.activities.audiobrowser.AudioBrowserActivity', '{http://schemas.android.com/apk/res/android}screenOrientation': '1'}
+
+[activity] com.alightcreative.importer.xml.ui.ImportActivity
+  attrs={'{http://schemas.android.com/apk/res/android}name': 'com.alightcreative.importer.xml.ui.ImportActivity', '{http://schemas.android.com/apk/res/android}exported': 'true', '{http://schemas.android.com/apk/res/android}screenOrientation': '1'}
+  filter: actions=['android.intent.action.VIEW'] cats=['android.intent.category.DEFAULT', 'android.intent.category.BROWSABLE'] data=[{'{http://schemas.android.com/apk/res/android}scheme': 'alightmotion'}]
+  filter: actions=['android.intent.action.SEND'] cats=['android.intent.category.DEFAULT'] data=[]
+  filter: actions=['android.intent.action.SEND', 'android.intent.action.VIEW'] cats=['android.intent.category.DEFAULT'] data=[{'{http://schemas.android.com/apk/res/android}scheme': 'file', '{http://schemas.android.com/apk/res/android}host': '*', '{http://schemas.android.com/apk/res/android}pathPattern': '.*\\.amproj'}]
+  filter: actions=['android.intent.action.SEND', 'android.intent.action.VIEW'] cats=['android.intent.category.DEFAULT'] data=[{'{http://schemas.android.com/apk/res/android}scheme': 'content', '{http://schemas.android.com/apk/res/android}host': '*', '{http://schemas.android.com/apk/res/android}pathPattern': '.*\\.amproj'}]
+  filter: actions=['android.intent.action.SEND'] cats=['android.intent.category.DEFAULT'] data=[{'{http://schemas.android.com/apk/res/android}mimeType': 'application/zip'}, {'{http://schemas.android.com/apk/res/android}mimeType': 'application/xml'}, {'{http://schemas.android.com/apk/res/android}mimeType': 'text/xml'}]
+  filter: actions=['android.intent.action.SEND', 'android.intent.action.VIEW'] cats=['android.intent.category.DEFAULT'] data=[{'{http://schemas.android.com/apk/res/android}mimeType': '*/*', '{http://schemas.android.com/apk/res/android}scheme': 'file', '{http://schemas.android.com/apk/res/android}host': '*', '{http://schemas.android.com/apk/res/android}pathPattern': '.*\\.amproj'}]
+  filter: actions=['android.intent.action.SEND', 'android.intent.action.VIEW'] cats=['android.intent.category.DEFAULT'] data=[{'{http://schemas.android.com/apk/res/android}mimeType': '*/*', '{http://schemas.android.com/apk/res/android}scheme': 'content', '{http://schemas.android.com/apk/res/android}host': '*', '{http://schemas.android.com/apk/res/android}pathPattern': '.*\\.amproj'}]
+
+[activity] com.alightcreative.app.motion.activities.MyAccountActivity
+  attrs={'{http://schemas.android.com/apk/res/android}name': 'com.alightcreative.app.motion.activities.MyAccountActivity', '{http://schemas.android.com/apk/res/android}screenOrientation': '1'}
+
+[activity] com.alightcreative.app.motion.tutorial.TutorialActivity
+  attrs={'{http://schemas.android.com/apk/res/android}name': 'com.alightcreative.app.motion.tutorial.TutorialActivity', '{http://schemas.android.com/apk/res/android}screenOrientation': '1'}
+
+[activity] com.alightcreative.app.motion.activities.ManageAccountActivity
+  attrs={'{http://schemas.android.com/apk/res/android}name': 'com.alightcreative.app.motion.activities.ManageAccountActivity', '{http://schemas.android.com/apk/res/android}screenOrientation': '1'}
+
+[activity] com.alightcreative.app.motion.activities.AgreeDeleteAccountActivity
+  attrs={'{http://schemas.android.com/apk/res/android}name': 'com.alightcreative.app.motion.activities.AgreeDeleteAccountActivity', '{http://schemas.android.com/apk/res/android}screenOrientation': '1'}
+
+[activity] com.alightcreative.export.preview.ExportPreviewActivity
+  attrs={'{http://schemas.android.com/apk/res/android}name': 'com.alightcreative.export.preview.ExportPreviewActivity', '{http://schemas.android.com/apk/res/android}screenOrientation': '1'}
+
+[activity] com.alightcreative.app.motion.activities.DevSettingsActivity
+  attrs={'{http://schemas.android.com/apk/res/android}name': 'com.alightcreative.app.motion.activities.DevSettingsActivity', '{http://schemas.android.com/apk/res/android}screenOrientation': '1'}
+
+[activity] com.alightcreative.app.motion.activities.effectbrowser.EffectBrowserActivity
+  attrs={'{http://schemas.android.com/apk/res/android}name': 'com.alightcreative.app.motion.activities.effectbrowser.EffectBrowserActivity', '{http://schemas.android.com/apk/res/android}screenOrientation': '1', '{http://schemas.android.com/apk/res/android}windowSoftInputMode': '0x00000030'}
+
+[activity] com.alightcreative.app.motion.activities.FontBrowserActivity
+  attrs={'{http://schemas.android.com/apk/res/android}name': 'com.alightcreative.app.motion.activities.FontBrowserActivity', '{http://schemas.android.com/apk/res/android}screenOrientation': '1'}
+
+[activity] com.alightcreative.importer.projectpackage.ElementDownloadActivity
+  attrs={'{http://schemas.android.com/apk/res/android}name': 'com.alightcreative.importer.projectpackage.ElementDownloadActivity', '{http://schemas.android.com/apk/res/android}screenOrientation': '1'}
+
+[activity] com.alightcreative.monetization.ui.PaywallActivity
+  attrs={'{http://schemas.android.com/apk/res/android}name': 'com.alightcreative.monetization.ui.PaywallActivity', '{http://schemas.android.com/apk/res/android}screenOrientation': '1', '{http://schemas.android.com/apk/res/android}windowSoftInputMode': '0x00000010'}
+
+[activity] com.alightcreative.app.motion.activities.survey.SurveyActivity
+  attrs={'{http://schemas.android.com/apk/res/android}name': 'com.alightcreative.app.motion.activities.survey.SurveyActivity', '{http://schemas.android.com/apk/res/android}screenOrientation': '1', '{http://schemas.android.com/apk/res/android}windowSoftInputMode': '0x00000010'}
+
+[activity] com.alightcreative.onboarding.ui.OnboardingActivity
+  attrs={'{http://schemas.android.com/apk/res/android}name': 'com.alightcreative.onboarding.ui.OnboardingActivity', '{http://schemas.android.com/apk/res/android}screenOrientation': '1', '{http://schemas.android.com/apk/res/android}windowSoftInputMode': '0x00000010'}
+
+[activity] com.alightcreative.template.importpreview.ui.TemplateImportPreviewActivity
+  attrs={'{http://schemas.android.com/apk/res/android}name': 'com.alightcreative.template.importpreview.ui.TemplateImportPreviewActivity', '{http://schemas.android.com/apk/res/android}screenOrientation': '1', '{http://schemas.android.com/apk/res/android}windowSoftInputMode': '0x00000010'}
+
+[activity] com.alightcreative.maineditor.presetpreview.ui.PresetPreviewActivity
+  attrs={'{http://schemas.android.com/apk/res/android}name': 'com.alightcreative.maineditor.presetpreview.ui.PresetPreviewActivity', '{http://schemas.android.com/apk/res/android}screenOrientation': '1', '{http://schemas.android.com/apk/res/android}windowSoftInputMode': '0x00000010'}
+
+[activity] com.alightcreative.app.motion.activities.creatorprogram.rewardlist.CreatorRewardListActivity
+  attrs={'{http://schemas.android.com/apk/res/android}name': 'com.alightcreative.app.motion.activities.creatorprogram.rewardlist.CreatorRewardListActivity', '{http://schemas.android.com/apk/res/android}screenOrientation': '1'}
+
+[activity] com.alightcreative.app.motion.activities.creatorprogram.redeem.RedeemTokensActivity
+  attrs={'{http://schemas.android.com/apk/res/android}name': 'com.alightcreative.app.motion.activities.creatorprogram.redeem.RedeemTokensActivity', '{http://schemas.android.com/apk/res/android}screenOrientation': '1'}
+
+[activity] com.alightcreative.app.motion.activities.creatorprogram.qas.ui.QAsActivity
+  attrs={'{http://schemas.android.com/apk/res/android}name': 'com.alightcreative.app.motion.activities.creatorprogram.qas.ui.QAsActivity', '{http://schemas.android.com/apk/res/android}screenOrientation': '1'}
+
+[activity] com.alightcreative.app.motion.ranking.ui.editprofile.EditProfileActivity
+  attrs={'{http://schemas.android.com/apk/res/android}name': 'com.alightcreative.app.motion.ranking.ui.editprofile.EditProfileActivity', '{http://schemas.android.com/apk/res/android}screenOrientation': '1', '{http://schemas.android.com/apk/res/android}noHistory': 'true'}
+
+[receiver] com.alightcreative.share.ChooserResultReceiver
+  attrs={'{http://schemas.android.com/apk/res/android}name': 'com.alightcreative.share.ChooserResultReceiver'}
+
+--- META-DATA ---
+  {'{http://schemas.android.com/apk/res/android}name': 'firebase_crashlytics_collection_enabled', '{http://schemas.android.com/apk/res/android}value': 'true'}
+  {'{http://schemas.android.com/apk/res/android}name': 'com.google.android.gms.ads.DELAY_APP_MEASUREMENT_INIT', '{http://schemas.android.com/apk/res/android}value': 'true'}
+  {'{http://schemas.android.com/apk/res/android}name': 'applovin.sdk.key', '{http://schemas.android.com/apk/res/android}value': 'CP6wULIVzxoRdrEz130IlL7mRDBDktcW4qq0FhFvMkwPOoHmOdaAO3dQpT7kAA4MV8aUK7RLkNmWAzowzoVAtQ'}
+  {'{http://schemas.android.com/apk/res/android}name': 'firebase_analytics_collection_enabled', '{http://schemas.android.com/apk/res/android}value': 'false'}
+  {'{http://schemas.android.com/apk/res/android}name': 'google_analytics_default_allow_analytics_storage', '{http://schemas.android.com/apk/res/android}value': 'false'}
+  {'{http://schemas.android.com/apk/res/android}name': 'google_analytics_default_allow_ad_storage', '{http://schemas.android.com/apk/res/android}value': 'false'}
+  {'{http://schemas.android.com/apk/res/android}name': 'google_analytics_default_allow_ad_personalization_signals', '{http://schemas.android.com/apk/res/android}value': 'false'}
+  {'{http://schemas.android.com/apk/res/android}name': 'google_analytics_default_allow_ad_user_data', '{http://schemas.android.com/apk/res/android}value': 'false'}
+  {'{http://schemas.android.com/apk/res/android}name': 'com.google.android.gms.ads.APPLICATION_ID', '{http://schemas.android.com/apk/res/android}value': 'ca-app-pub-6708589877934833~7430066441'}
+  {'{http://schemas.android.com/apk/res/android}name': 'com.facebook.sdk.ClientToken', '{http://schemas.android.com/apk/res/android}value': '@7F1407C1'}
+  {'{http://schemas.android.com/apk/res/android}name': 'com.google.android.gms.ads.flag.OPTIMIZE_INITIALIZATION', '{http://schemas.android.com/apk/res/android}value': 'true'}
+  {'{http://schemas.android.com/apk/res/android}name': 'com.google.android.gms.ads.flag.OPTIMIZE_AD_LOADING', '{http://schemas.android.com/apk/res/android}value': 'true'}
+  {'{http://schemas.android.com/apk/res/android}name': 'com.google.android.gms.ads.AD_MANAGER_APP', '{http://schemas.android.com/apk/res/android}value': 'true'}
+  {'{http://schemas.android.com/apk/res/android}name': 'com.google.android.gms.version', '{http://schemas.android.com/apk/res/android}value': '@7F0B000E'}
+  {'{http://schemas.android.com/apk/res/android}name': 'com.facebook.sdk.ApplicationId', '{http://schemas.android.com/apk/res/android}value': '@7F1407C0'}
+  {'{http://schemas.android.com/apk/res/android}name': 'com.google.android.play.billingclient.version', '{http://schemas.android.com/apk/res/android}value': '7.1.1'}
+  {'{http://schemas.android.com/apk/res/android}name': 'com.facebook.soloader.enabled', '{http://schemas.android.com/apk/res/android}value': 'false'}

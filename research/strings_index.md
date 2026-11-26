@@ -1,0 +1,494 @@
+# String index (auto-categorized)
+
+Total printable filtered strings: 17130
+
+## urls (179)
+
+- `http://alightcreative.com/am/share/u/`
+- `http://dashif.org/guidelines/last-segment-number`
+- `http://dashif.org/guidelines/thumbnail_tile`
+- `http://dashif.org/guidelines/trickmode`
+- `http://dashif.org/thumbnail_tile`
+- `http://instagram.com/_u/`
+- `http://localhost`
+- `http://ns.adobe.com/xap/1.0/`
+- `http://play.google.com/store/apps/details?id=`
+- `http://schemas.android.com/apk/res-auto`
+- `http://schemas.android.com/apk/res/android`
+- `http://schemas.applovin.com/android/1.0`
+- `http://schemas.microsoft.com/DRM/2007/03/protocols/AcquireLicense`
+- `http://www.android.com/`
+- `http://www.example.com`
+- `http://www.fyber.com`
+- `http://www.google.com`
+- `http://www.w3.org/ns/ttml#parameter`
+- `http://xmlpull.org/v1/doc/features.html#indent-output`
+- `http://xmlpull.org/v1/doc/features.html#process-namespaces`
+- `https://%1$s-%2$s.cloudfunctions.net/%3$s`
+- `https://%s/%s/%s`
+- `https://.facebook.com`
+- `https://a.applovin.com/`
+- `https://a.applvn.com/`
+- `https://accounts.google.com`
+- `https://accounts.google.com/o/oauth2/revoke?token=`
+- `https://admob-gmats.uc.r.appspot.com/`
+- `https://adx.ads.vungle.com/api/ads`
+- `https://alight-creative-staging.firebaseapp.com/appdata/am/`
+- `https://alight-creative-staging.firebaseapp.com/appdata/am/elements/recommendations.json`
+- `https://alight-creative-staging.firebaseapp.com/appdata/am/tutorial-data/android.json`
+- `https://alight-creative-staging.firebaseapp.com/elements?embed=true`
+- `https://alight-fonts.firebaseapp.com/appdata/fontthumbs/20180905A/webp/`
+- `https://alight-motion.bendingspoons.com`
+- `https://alightcreative.com`
+- `https://alightcreative.com/amhelpcenter`
+- `https://alightcreative.com/amsampleprojects`
+- `https://alightcreative.com/amuserguide`
+- `https://alightcreative.com/appdata/am/`
+- `https://alightcreative.com/appdata/am/elements/recommendations.json`
+- `https://alightcreative.com/appdata/am/tutorial-data/android.json`
+- `https://alightcreative.com/elements?embed=true`
+- `https://alightcreative.com/privacy/`
+- `https://alightcreative.com/tos/`
+- `https://alightmotionandroid.oracle.bendingspoonsapps.com/`
+- `https://aomedia.org/emsg/ID3`
+- `https://api.pico.bendingspoonsapps.com`
+- `https://api.picox.bendingspoons.com/v1/events`
+- `https://api.staging.pico.bendingspoonsapps.com`
+- `https://api.taboola.com/`
+- `https://app-measurement.com/a`
+- `https://app-measurement.com/s/d`
+- `https://appassets.androidplatform.net/injet/`
+- `https://assets.applovin.com/gdpr/flow_v1/gdpr-flow-1.html`
+- `https://builds.mosaic-matrix.bendingspoons.com/AlightMotionAndroid/versioning.json`
+- `https://cdn2.inner-active.mobi/IA-JSTag/Production/centering_v1.css`
+- `https://cdn2.inner-active.mobi/IA-JSTag/Production/centering_v1.js`
+- `https://cdn2.inner-active.mobi/app-detail-page-v0/[BUNDLE_ID].html`
+- `https://cdn2.inner-active.mobi/client/fyber-i-icon/index.html`
+- `https://cdn2.inner-active.mobi/client/ia-js-tags/dt-mraid-video-controller.js`
+- `https://cdn2.inner-active.mobi/client/ia-js-tags/omsdk/`
+- `https://cdn2.inner-active.mobi/client/ia-js-tags/omsdk/dt-omsdk-mraid-video-tracker.js`
+- `https://cdn2.inner-active.mobi/client/ia-js-tags/omsdk/omid-session-client-`
+- `https://cdn2.inner-active.mobi/ia-sdk-config/config_android.json`
+- `https://cdn2.inner-active.mobi/ia-sdk-config/features_config.json`
+- `https://config.ads.vungle.com/`
+- `https://console.firebase.google.com`
+- `https://csi.gstatic.com/csi`
+- `https://d.applovin.com/`
+- `https://d.applvn.com/`
+- `https://dash.applovin.com/documentation/mediation/android/getting-started/integration#enabling-max-built-in-consent-flow`
+- `https://dash.applovin.com/documentation/mediation/unity/getting-started/integration#max-built-in-consent-flow`
+- `https://default.url`
+- `https://developer.apple.com/streaming/emsg-id3`
+- `https://developers.is.com/ironsource-mobile/air/ironsource-mobile-privacy-policy/`
+- `https://events.ads.vungle.com/rtadebugging`
+- `https://facebook.com`
+- `https://facebook.com/device?user_code=%1$s&qr=1`
+- `https://firebase-settings.crashlytics.com/spi/v2/platforms/android/gmp/%s/settings`
+- `https://firebaseappcheck.googleapis.com/v1/projects/%s/apps/%s:exchangeDebugToken?key=%s`
+- `https://firebaseappcheck.googleapis.com/v1/projects/%s/apps/%s:exchangePlayIntegrityToken?key=%s`
+- `https://firebaseappcheck.googleapis.com/v1/projects/%s/apps/%s:generatePlayIntegrityChallenge?key=%s`
+- `https://firebaseremoteconfig.googleapis.com/v1/projects/%s/namespaces/%s:fetch`
+- `https://firebaseremoteconfigrealtime.googleapis.com/v1/projects/%s/namespaces/%s:streamFetchInvalidations`
+- `https://firebasestorage.googleapis.com/v0`
+- `https://fundingchoicesmessages.google.com/a/consent`
+- `https://github.com`
+- `https://github.com/L-JINBIN/ApkSignatureKillerEx`
+- `https://github.com/firebase/FirebaseUI-Android/releases/tag/6.2.0`
+- `https://google.com/search?`
+- `https://googleads.g.doubleclick.net`
+- `https://googleads.g.doubleclick.net/mads/static/mad/sdk/native/native_ads.html`
+- `https://googleads.g.doubleclick.net/mads/static/mad/sdk/native/production/mraid/v3/mraid_app_banner.js`
+- `https://googleads.g.doubleclick.net/mads/static/mad/sdk/native/production/mraid/v3/mraid_app_expanded_banner.js`
+- `https://googleads.g.doubleclick.net/mads/static/mad/sdk/native/production/mraid/v3/mraid_app_interstitial.js`
+- `https://googleads.g.doubleclick.net/mads/static/mad/sdk/native/production/sdk-core-v40-impl.html`
+- `https://googleads.g.doubleclick.net/mads/static/mad/sdk/native/sdk-core-v40-loader.html`
+- `https://graph-video.%s`
+- `https://graph.%s`
+- `https://guide.alightmotion.com/effects/`
+- `https://imasdk.googleapis.com/admob/sdkloader/native_video.html`
+- `https://init-mp.fyber.com/init`
+- `https://login.live.com`
+- `https://login.yahoo.com`
+- `https://logs.ads.vungle.com/sdk/error_logs`
+- `https://logs.ads.vungle.com/sdk/metrics`
+- `https://mobilefuse.com/privacy-policy`
+- `https://ms.applovin.com/`
+- `https://ms.applovin.com/1.0/sdk/error`
+- `https://ms.applvn.com/`
+- `https://pagead2.googlesyndication.com/pagead/gen_204?id=gmob-apps`
+- `https://pagead2.googlesyndication.com/pagead/ping?e=2&f=1`
+- `https://phone.firebase`
+- `https://play.google.com/`
+- `https://play.google.com/d`
+- `https://play.google.com/store/account/subscriptions`
+- `https://play.google.com/store/account/subscriptions?sku=`
+- `https://play.google.com/store/apps/details?id=`
+- `https://plus.google.com/`
+- `https://policies.google.com/privacy`
+- `https://prod-a.applovin.com,https://rt.applovin.com/4.0/pix, https://rt.applvn.com/4.0/pix,https://ms.applovin.com/,https://ms.applvn.com/`
+- `https://pubnative.net/privacy-notice/`
+- `https://rt.applovin.com/`
+- `https://rt.applvn.com/`
+- `https://spidersense.bendingspoons.com`
+- `https://support.google.com/dfp_premium/answer/7160685#push`
+- `https://twitter.com`
+- `https://twitter.com/`
+- `https://unity.com/legal/game-player-and-app-user-privacy-policy`
+- `https://vungle.com/privacy/`
+- `https://www.`
+- `https://www.adjust.com/terms/privacy-policy/`
+- `https://www.adjust.com/terms/privacy-policy/,https://www.appsflyer.com/legal/privacy-policy/,https://branch.io/policies/privacy-policy/`
+- `https://www.alightcreative.com/creator_program_pp.pdf`
+- `https://www.alightcreative.com/creator_program_tos.pdf`
+- `https://www.alightcreative.com/performanceguide`
+- `https://www.alightcreative.com/ranking_program_pp.pdf`
+- `https://www.alightcreative.com/ranking_program_tos.pdf`
+- `https://www.applovin.com/privacy/`
+- `https://www.digitalturbine.com/fyber-services-privacy-statement`
+- `https://www.facebook.com`
+- `https://www.facebook.com/adnw_logging/`
+- `https://www.facebook.com/privacy/policy`
+- `https://www.google.com`
+- `https://www.google.com/dfp/debugSignals`
+- `https://www.google.com/dfp/inAppPreview`
+- `https://www.google.com/dfp/linkDevice`
+- `https://www.google.com/dfp/sendDebugData`
+- `https://www.googleadservices.com/pagead/conversion/app/deeplink?id_type=adid&sdk_version=%s&rdid=%s&bundleid=%s&retry=%s`
+- `https://www.googleapis.com/auth/appstate`
+- `https://www.googleapis.com/auth/datastoremobile`
+- `https://www.googleapis.com/auth/drive`
+- `https://www.googleapis.com/auth/drive.appdata`
+- `https://www.googleapis.com/auth/drive.apps`
+- `https://www.googleapis.com/auth/drive.file`
+- `https://www.googleapis.com/auth/games`
+- `https://www.googleapis.com/auth/games.firstparty`
+- `https://www.googleapis.com/auth/games_lite`
+- `https://www.googleapis.com/auth/plus.login`
+- `https://www.googleapis.com/auth/plus.me`
+- `https://www.googleapis.com/auth/userinfo.email`
+- `https://www.googleapis.com/auth/userinfo.profile`
+- `https://www.inmobi.com/privacy-policy`
+- `https://www.instagram.com/`
+- `https://www.linkedin.com`
+- `https://www.mintegral.com/en/privacy#privacy-policy-of-the-mintegral-services`
+- `https://www.pangleglobal.com/privacy`
+- `https://www.paypal.com`
+- `https://www.recaptcha.net/recaptcha/api3`
+- `https://www.smaato.com/privacy/`
+- `https://www.tiktok.com/@`
+- `https://www.youtube.com/@`
+- `https://www.youtube.com/c/`
+- `https://www.youtube.com/channel/`
+- `https://www.youtube.com/channel/UCjObfxm37TU7zwqmuNXuamg`
+- `https://www.youtube.com/playlist?list=`
+- `https://www.youtube.com/watch?v=`
+- `https://www.youtube.com/watch?v=yLTEp_GEJqI`
+
+## endpoints (170)
+
+- `()Lcom/alightcreative/app/motion/activities/main/maintabs/templates/models/TemplateFiltersItem$Content;`
+- `(LVC/V;LTV/n;Lcom/alightcreative/app/motion/activities/main/maintabs/templates/models/TemplateFiltersItem$Content;I)V`
+- `(Lcom/alightcreative/app/motion/activities/main/maintabs/templates/models/TemplateFiltersItem$Content;)V`
+- `(Lcom/alightcreative/app/motion/scene/Keyable;Ljava/lang/Object;Ljava/lang/String;Lorg/xmlpull/v1/XmlSerializer;Ljava/lang/String;Ljava/util/Map;)V`
+- `(Lcom/alightcreative/app/motion/scene/KeyableTransform;Ljava/lang/String;Lorg/xmlpull/v1/XmlSerializer;Ljava/lang/String;)V`
+- `(Lcom/alightcreative/app/motion/scene/SceneElement;Ljava/lang/String;Ljava/lang/String;Lorg/xmlpull/v1/XmlPullParser;Z)Lcom/alightcreative/app/motion/scene/SceneElement;`
+- `(Lcom/alightcreative/app/motion/scene/SceneElement;Ljava/lang/String;Lorg/xmlpull/v1/XmlSerializer;)V`
+- `(Lcom/alightcreative/app/motion/scene/SceneElementType;Ljava/lang/String;Lorg/xmlpull/v1/XmlPullParser;)Lcom/alightcreative/app/motion/scene/SceneElement;`
+- `(Lcom/alightcreative/app/motion/scene/Stroke;Ljava/lang/String;Lorg/xmlpull/v1/XmlSerializer;)V`
+- `(Lcom/alightcreative/app/motion/scene/userparam/KeyableUserParameterValue;Ljava/lang/String;Lorg/xmlpull/v1/XmlSerializer;Ljava/lang/String;)V`
+- `(Lcom/alightcreative/app/motion/scene/visualeffect/KeyableVisualEffectRef;Ljava/lang/String;Lorg/xmlpull/v1/XmlSerializer;)V`
+- `(Lcom/alightcreative/app/motion/templates/Template;)LaQP/soy;`
+- `(Lcom/alightcreative/app/motion/templates/Template;)V`
+- `(Ljava/lang/String;Lcom/alightcreative/app/motion/activities/main/maintabs/templates/models/TemplateFiltersItem$Content;I)V`
+- `(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;ILjava/util/List;)Lcom/alightcreative/app/motion/templates/Template;`
+- `(Ljava/lang/String;Lorg/xmlpull/v1/XmlPullParser;)Lcom/alightcreative/app/motion/scene/Stroke;`
+- `(Ljava/lang/String;Lorg/xmlpull/v1/XmlPullParser;Ljava/lang/String;Ljava/lang/Object;Z)Lcom/alightcreative/app/motion/scene/Keyable;`
+- `(Ljava/lang/String;Lorg/xmlpull/v1/XmlPullParser;Ljava/lang/String;Z)Lcom/alightcreative/app/motion/scene/Keyable;`
+- `(Ljava/lang/String;Lorg/xmlpull/v1/XmlPullParser;Z)Lcom/alightcreative/app/motion/scene/KeyableTransform;`
+- `(Ljava/lang/String;Lorg/xmlpull/v1/XmlPullParser;Z)Lcom/alightcreative/app/motion/scene/SceneElement;`
+- `(Ljava/lang/String;Lorg/xmlpull/v1/XmlPullParser;Z)Lcom/alightcreative/app/motion/scene/visualeffect/KeyableVisualEffectRef;`
+- `(Ljava/lang/String;Lorg/xmlpull/v1/XmlPullParser;Z)Lkotlin/Pair;`
+- `(Lorg/xmlpull/v1/XmlPullParser;Ljava/lang/String;)Lcom/alightcreative/app/motion/scene/visualeffect/ShaderInfo;`
+- `(Lorg/xmlpull/v1/XmlPullParser;Ljava/lang/String;)Ljava/util/List;`
+- `(Lorg/xmlpull/v1/XmlPullParser;Ljava/lang/String;Landroid/net/Uri;LVbv/c;)Lcom/alightcreative/app/motion/scene/visualeffect/VisualEffect;`
+- `(Lorg/xmlpull/v1/XmlPullParser;Ljava/lang/String;Ljava/lang/String;)Ljava/util/List;`
+- `//alight.link/`
+- `//alight.page.link/`
+- `//pagead2.googlesyndication.com/pagead/gen_204`
+- `/Alight Motion`
+- `/FirebaseCore-Android`
+- `/FirebaseUI-Android`
+- `/injet/`
+- `/v1/public/setup/{bspId}`
+- `/v1/templates/public-templates/`
+- `/v1/templates/public-templates?limit=`
+- `/v2/public/apps/{bspId}/events`
+- `/v4/events`
+- `Could not collect Google Advertising ID - this will negatively impact your eCPMs! Please integrate the Google Play Services SDK into your application. More info can be found online at http://developer.android.com/google/play-services/setup.html. If you're sure you've integrated the SDK and are still seeing this message, you may need to add a ProGuard exception: -keep public class com.google.android.gms.** { public protected *; }`
+- `Could not collect Google Advertising ID - this will negatively impact your eCPMs! Please integrate the Google Play Services SDK into your application. More info can be found online at http://developer.android.com/google/play-services/setup.html. If you're sure you've integrated the SDK and are still seeing this message, you may need to add a ProGuard exception: -keep public class com.google.android.gms.** { public protected *; }: collection timeout`
+- `Landroid/support/v4/app/RemoteActionCompatParcelizer;`
+- `Landroid/support/v4/graphics/drawable/IconCompatParcelizer;`
+- `Landroid/support/v4/media/A$xfY;`
+- `Landroid/support/v4/media/A;`
+- `Landroid/support/v4/media/MediaBrowserCompat$CustomActionResultReceiver;`
+- `Landroid/support/v4/media/MediaBrowserCompat$ItemReceiver;`
+- `Landroid/support/v4/media/MediaBrowserCompat$MediaItem$xfY;`
+- `Landroid/support/v4/media/MediaBrowserCompat$MediaItem;`
+- `Landroid/support/v4/media/MediaBrowserCompat$SearchResultReceiver;`
+- `Landroid/support/v4/media/MediaDescriptionCompat$A;`
+- `Landroid/support/v4/media/MediaDescriptionCompat$xfY;`
+- `Landroid/support/v4/media/MediaDescriptionCompat;`
+- `Landroid/support/v4/media/MediaMetadataCompat$xfY;`
+- `Landroid/support/v4/media/MediaMetadataCompat;`
+- `Landroid/support/v4/media/RatingCompat$xfY;`
+- `Landroid/support/v4/media/RatingCompat;`
+- `Landroid/support/v4/media/session/A;`
+- `Landroid/support/v4/media/session/MediaControllerCompat$MediaControllerImplApi21$ExtraBinderRequestResultReceiver;`
+- `Landroid/support/v4/media/session/MediaSessionCompat$QueueItem$xfY;`
+- `Landroid/support/v4/media/session/MediaSessionCompat$QueueItem;`
+- `Landroid/support/v4/media/session/MediaSessionCompat$ResultReceiverWrapper$xfY;`
+- `Landroid/support/v4/media/session/MediaSessionCompat$ResultReceiverWrapper;`
+- `Landroid/support/v4/media/session/MediaSessionCompat$Token$xfY;`
+- `Landroid/support/v4/media/session/MediaSessionCompat$Token;`
+- `Landroid/support/v4/media/session/MediaSessionCompat;`
+- `Landroid/support/v4/media/session/ParcelableVolumeInfo$xfY;`
+- `Landroid/support/v4/media/session/ParcelableVolumeInfo;`
+- `Landroid/support/v4/media/session/PlaybackStateCompat$CustomAction$xfY;`
+- `Landroid/support/v4/media/session/PlaybackStateCompat$CustomAction;`
+- `Landroid/support/v4/media/session/PlaybackStateCompat$xfY;`
+- `Landroid/support/v4/media/session/PlaybackStateCompat;`
+- `Landroid/support/v4/media/session/xfY;`
+- `Landroid/support/v4/media/xfY$xfY;`
+- `Landroid/support/v4/media/xfY;`
+- `Landroid/support/v4/os/ResultReceiver$A;`
+- `Landroid/support/v4/os/ResultReceiver$CU;`
+- `Landroid/support/v4/os/ResultReceiver$xfY;`
+- `Landroid/support/v4/os/ResultReceiver;`
+- `Landroid/support/v4/os/xfY$A;`
+- `Landroid/support/v4/os/xfY$xfY$xfY;`
+- `Landroid/support/v4/os/xfY$xfY;`
+- `Landroid/support/v4/os/xfY;`
+- `Lcom/alightcreative/app/motion/activities/main/maintabs/templates/models/TemplateFiltersItem$Content$AllTemplates$A;`
+- `Lcom/alightcreative/app/motion/activities/main/maintabs/templates/models/TemplateFiltersItem$Content$AllTemplates$xfY;`
+- `Lcom/alightcreative/app/motion/activities/main/maintabs/templates/models/TemplateFiltersItem$Content$AllTemplates;`
+- `Lcom/alightcreative/app/motion/activities/main/maintabs/templates/models/TemplateFiltersItem$Content$Saved$A;`
+- `Lcom/alightcreative/app/motion/activities/main/maintabs/templates/models/TemplateFiltersItem$Content$Saved$xfY;`
+- `Lcom/alightcreative/app/motion/activities/main/maintabs/templates/models/TemplateFiltersItem$Content$Saved;`
+- `Lcom/alightcreative/app/motion/activities/main/maintabs/templates/models/TemplateFiltersItem$Content$Tag$A;`
+- `Lcom/alightcreative/app/motion/activities/main/maintabs/templates/models/TemplateFiltersItem$Content$Tag$xfY;`
+- `Lcom/alightcreative/app/motion/activities/main/maintabs/templates/models/TemplateFiltersItem$Content$Tag;`
+- `Lcom/alightcreative/app/motion/activities/main/maintabs/templates/models/TemplateFiltersItem$Content;`
+- `Lcom/alightcreative/app/motion/activities/main/maintabs/templates/models/TemplateFiltersItem$LoadingPlaceholder$xfY;`
+- `Lcom/alightcreative/app/motion/activities/main/maintabs/templates/models/TemplateFiltersItem$LoadingPlaceholder;`
+- `Lcom/alightcreative/app/motion/activities/main/maintabs/templates/models/TemplateFiltersItem;`
+- `Lcom/alightcreative/app/motion/activities/main/maintabs/templates/models/xfY;`
+- `Lcom/alightcreative/app/motion/templates/A$xfY;`
+- `Lcom/alightcreative/app/motion/templates/A;`
+- `Lcom/alightcreative/app/motion/templates/CU$A;`
+- `Lcom/alightcreative/app/motion/templates/CU$xfY;`
+- `Lcom/alightcreative/app/motion/templates/CU;`
+- `Lcom/alightcreative/app/motion/templates/Template$A;`
+- `Lcom/alightcreative/app/motion/templates/Template$Tag$A;`
+- `Lcom/alightcreative/app/motion/templates/Template$Tag$CU;`
+- `Lcom/alightcreative/app/motion/templates/Template$Tag$xfY;`
+- `Lcom/alightcreative/app/motion/templates/Template$Tag;`
+- `Lcom/alightcreative/app/motion/templates/Template$xfY;`
+- `Lcom/alightcreative/app/motion/templates/Template;`
+- `Lcom/alightcreative/app/motion/templates/h$xfY;`
+- `Lcom/alightcreative/app/motion/templates/h;`
+- `Lcom/alightcreative/app/motion/templates/xfY$xfY;`
+- `Lcom/alightcreative/app/motion/templates/xfY;`
+- `Lorg/xmlpull/v1/XmlPullParser;`
+- `Lorg/xmlpull/v1/XmlPullParserException;`
+- `Lorg/xmlpull/v1/XmlPullParserFactory;`
+- `Lorg/xmlpull/v1/XmlSerializer;`
+- `[Landroid/support/v4/media/MediaBrowserCompat$MediaItem;`
+- `[Landroid/support/v4/media/MediaDescriptionCompat;`
+- `[Landroid/support/v4/media/MediaMetadataCompat;`
+- `[Landroid/support/v4/media/RatingCompat;`
+- `[Landroid/support/v4/media/session/MediaSessionCompat$QueueItem;`
+- `[Landroid/support/v4/media/session/MediaSessionCompat$ResultReceiverWrapper;`
+- `[Landroid/support/v4/media/session/MediaSessionCompat$Token;`
+- `[Landroid/support/v4/media/session/ParcelableVolumeInfo;`
+- `[Landroid/support/v4/media/session/PlaybackStateCompat$CustomAction;`
+- `[Landroid/support/v4/media/session/PlaybackStateCompat;`
+- `[Landroid/support/v4/os/ResultReceiver;`
+- `[Lcom/alightcreative/app/motion/activities/main/maintabs/templates/models/TemplateFiltersItem$Content$AllTemplates;`
+- `[Lcom/alightcreative/app/motion/activities/main/maintabs/templates/models/TemplateFiltersItem$Content$Saved;`
+- `[Lcom/alightcreative/app/motion/activities/main/maintabs/templates/models/TemplateFiltersItem$Content$Tag;`
+- `[Lcom/alightcreative/app/motion/activities/main/maintabs/templates/models/TemplateFiltersItem$Content;`
+- `[Lcom/alightcreative/app/motion/activities/main/maintabs/templates/models/TemplateFiltersItem$LoadingPlaceholder;`
+- `[Lcom/alightcreative/app/motion/templates/A;`
+- `[Lcom/alightcreative/app/motion/templates/Template$Tag$CU;`
+- `[Lcom/alightcreative/app/motion/templates/Template$Tag;`
+- `[Lcom/alightcreative/app/motion/templates/Template;`
+- `[Lcom/alightcreative/app/motion/templates/xfY;`
+- `acquirePlayer(Lcom/alightcreative/app/motion/activities/main/maintabs/templates/models/TemplatesShowcaseItem$Content;)Landroidx/media3/common/Player;`
+- `acquirePlayer(Lcom/alightcreative/app/motion/templates/Template;)Landroidx/media3/common/Player;`
+- `adsbynimbus.com/rta/v1`
+- `http://xmlpull.org/v1/doc/features.html#indent-output`
+- `http://xmlpull.org/v1/doc/features.html#process-namespaces`
+- `https://alight-creative-staging.firebaseapp.com/appdata/am/`
+- `https://alight-creative-staging.firebaseapp.com/appdata/am/elements/recommendations.json`
+- `https://alight-creative-staging.firebaseapp.com/appdata/am/tutorial-data/android.json`
+- `https://alight-fonts.firebaseapp.com/appdata/fontthumbs/20180905A/webp/`
+- `https://alightcreative.com/appdata/am/`
+- `https://alightcreative.com/appdata/am/elements/recommendations.json`
+- `https://alightcreative.com/appdata/am/tutorial-data/android.json`
+- `https://api.picox.bendingspoons.com/v1/events`
+- `https://events.ads.vungle.com/rtadebugging`
+- `https://firebase-settings.crashlytics.com/spi/v2/platforms/android/gmp/%s/settings`
+- `https://firebaseappcheck.googleapis.com/v1/projects/%s/apps/%s:exchangeDebugToken?key=%s`
+- `https://firebaseappcheck.googleapis.com/v1/projects/%s/apps/%s:exchangePlayIntegrityToken?key=%s`
+- `https://firebaseappcheck.googleapis.com/v1/projects/%s/apps/%s:generatePlayIntegrityChallenge?key=%s`
+- `https://firebaseremoteconfig.googleapis.com/v1/projects/%s/namespaces/%s:fetch`
+- `https://firebaseremoteconfigrealtime.googleapis.com/v1/projects/%s/namespaces/%s:streamFetchInvalidations`
+- `https://firebasestorage.googleapis.com/v0`
+- `https://googleads.g.doubleclick.net/mads/static/mad/sdk/native/production/mraid/v3/mraid_app_banner.js`
+- `https://googleads.g.doubleclick.net/mads/static/mad/sdk/native/production/mraid/v3/mraid_app_expanded_banner.js`
+- `https://googleads.g.doubleclick.net/mads/static/mad/sdk/native/production/mraid/v3/mraid_app_interstitial.js`
+- `identitytoolkit.googleapis.com/v2`
+- `onFilterClicked(Lcom/alightcreative/app/motion/activities/main/maintabs/templates/models/TemplateFiltersItem$Content;)V`
+- `onSaveClicked(Lcom/alightcreative/app/motion/templates/Template;)V`
+- `onUseTemplateClicked(Lcom/alightcreative/app/motion/templates/Template;)V`
+- `securetoken.googleapis.com/v1`
+- `toViewState()Lcom/alightcreative/app/motion/activities/main/maintabs/templates/TemplatesViewState;`
+- `unserializeElement(Ljava/lang/String;Lorg/xmlpull/v1/XmlPullParser;Z)Lcom/alightcreative/app/motion/scene/SceneElement;`
+- `v2/users/setup`
+- `www.googleapis.com/identitytoolkit/v3/relyingparty`
+
+## intent_actions (41)
+
+- `Device cannot resolve intent for: android.intent.action.VIEW`
+- `android.intent.action.ACTION_POWER_CONNECTED`
+- `android.intent.action.ACTION_POWER_DISCONNECTED`
+- `android.intent.action.AIRPLANE_MODE`
+- `android.intent.action.BATTERY_CHANGED`
+- `android.intent.action.BATTERY_LOW`
+- `android.intent.action.BATTERY_OKAY`
+- `android.intent.action.CONFIGURATION_CHANGED`
+- `android.intent.action.DEVICE_STORAGE_LOW`
+- `android.intent.action.DEVICE_STORAGE_OK`
+- `android.intent.action.DIAL`
+- `android.intent.action.EDIT`
+- `android.intent.action.INSERT`
+- `android.intent.action.MAIN`
+- `android.intent.action.OPEN_DOCUMENT`
+- `android.intent.action.PACKAGE_ADDED`
+- `android.intent.action.PROCESS_TEXT`
+- `android.intent.action.SCREEN_OFF`
+- `android.intent.action.SCREEN_ON`
+- `android.intent.action.SEND`
+- `android.intent.action.SENDTO`
+- `android.intent.action.TIMEZONE_CHANGED`
+- `android.intent.action.TIME_SET`
+- `android.intent.action.TIME_TICK`
+- `android.intent.action.USER_PRESENT`
+- `android.intent.action.USER_UNLOCKED`
+- `android.intent.action.VIEW`
+- `android.intent.category.BROWSABLE`
+- `android.intent.category.DEFAULT`
+- `android.intent.category.OPENABLE`
+- `android.intent.extra.ALLOW_MULTIPLE`
+- `android.intent.extra.CC`
+- `android.intent.extra.EMAIL`
+- `android.intent.extra.INITIAL_INTENTS`
+- `android.intent.extra.MIME_TYPES`
+- `android.intent.extra.PROCESS_TEXT_READONLY`
+- `android.intent.extra.REFERRER_NAME`
+- `android.intent.extra.STREAM`
+- `android.intent.extra.SUBJECT`
+- `android.intent.extra.TEXT`
+- `android.intent.extra.TITLE`
+
+## mime_types (1)
+
+- `application/x-camera-motion`
+
+## file_extensions (13)
+
+- `No Client Token found, please set the Client Token. Please follow https://developers.facebook.com/docs/android/getting-started/#client-access-token to get the token and fill it in AndroidManifest.xml`
+- `https://alight-creative-staging.firebaseapp.com/appdata/am/elements/recommendations.json`
+- `https://alight-creative-staging.firebaseapp.com/appdata/am/tutorial-data/android.json`
+- `https://alightcreative.com/appdata/am/elements/recommendations.json`
+- `https://alightcreative.com/appdata/am/tutorial-data/android.json`
+- `https://builds.mosaic-matrix.bendingspoons.com/AlightMotionAndroid/versioning.json`
+- `https://cdn2.inner-active.mobi/ia-sdk-config/config_android.json`
+- `https://cdn2.inner-active.mobi/ia-sdk-config/features_config.json`
+- `https://www.alightcreative.com/creator_program_pp.pdf`
+- `https://www.alightcreative.com/creator_program_tos.pdf`
+- `https://www.alightcreative.com/ranking_program_pp.pdf`
+- `https://www.alightcreative.com/ranking_program_tos.pdf`
+- `injet/dist.zip`
+
+## cloud_functions (1)
+
+- `https://%1$s-%2$s.cloudfunctions.net/%3$s`
+
+## log_messages (60)
+
+- `Error getting Firebase Installation ID. Skipping this Session Event.`
+- `Error getting Firebase authentication token.`
+- `Error getting Firebase installation id .`
+- `Error getting Firebase installation id.`
+- `Error parsing in-app purchase/subscription data.`
+- `Error when communicating with the Firebase Installations server API. HTTP response: [%d %s: %s]`
+- `Failed to add custom template ad listener`
+- `Failed to find class for name: com.applovin.sdk.AppLovinSdk. Please ensure proguard rules have not been omitted from the build.`
+- `Failed to invoke Firebase method. `
+- `Failed to invoke the Firebase static method.`
+- `Failed to load template: `
+- `Failed to log ad_impression to Firebase`
+- `Failed to obtain Firebase Analytics instance`
+- `Failed to parse contentads.contributor.direct.serving.appswitchboard.proto.ApplicationGdprResponse.Action.ActionTypefrom: `
+- `Failed to parse contentads.contributor.direct.serving.appswitchboard.proto.ApplicationGdprResponse.ConsentSignalfrom: `
+- `Failed to parse contentads.contributor.direct.serving.appswitchboard.proto.ApplicationGdprResponse.PrivacyOptionsRequirementStatusfrom: `
+- `Failed to prepare null vmURL or templateURL for downloading.`
+- `Failed to query subscription product purchases.`
+- `Failed to retrieve Firebase Instance Id`
+- `Failed to retrieve details of the subscription product with the given id from local storage cache.`
+- `Failed to retrieve details of the subscription products with the given ids.`
+- `Failed(exportFormat=`
+- `Failed(firstPaywallSetupError=`
+- `IAP: computeActiveLicenses: activeAccountLicenses:`
+- `IAP: computeActiveLicenses: activeLocalLicenses:`
+- `IAP: computeActiveLicenses: allActiveLicenses:`
+- `IAP: computeActiveLicenses: localLicenses:`
+- `IAP: computeActiveLicenses: validLocalPurchases:`
+- `IAP: getAccountStatusAndLicenses: Calling middleware`
+- `IAP: getAccountStatusAndLicenses: GOT RESULT (`
+- `IAP: loadAccountLicensesFromCache`
+- `IAP: verifyPurchases: VerifyPurchaseResult.InvalidToken`
+- `INVALID_TEMPLATE_URL`
+- `INVALID_TEMPLATE_URL_VALUE`
+- `Invalid configuration. Ensure your app's SHA1 is correct in the Firebase console.`
+- `Invalid google_app_id. Firebase Analytics disabled. See https://goo.gl/NAOOOI. provided id`
+- `Invalid mediation provider detected. Please set AppLovin SDK mediation provider to MAX via AppLovinSdk.getInstance(context).setMediationProvider( AppLovinMediationProvider.MAX )`
+- `Invalid motion easing type: `
+- `Invalid template ID: `
+- `Invalid template: `
+- `Unable download store promo template, error: `
+- `Unable to build AppLovinAdView: no context provided. Please use a different constructor for this view.`
+- `Unable to export postbacks to disk: `
+- `Unable to fetch the latest version of the template.`
+- `Unable to find AppLovin SDK key. Please add  meta-data android:name="applovin.sdk.key" android:value="YOUR_SDK_KEY_HERE" into AndroidManifest.xml.`
+- `Unable to forward to template`
+- `Unable to initialize AppLovin SDK: SDK object not created`
+- `Unable to load HTML template`
+- `Unable to load next ad: AppLovinAdView is not initialized.`
+- `Unable to notify AppLovinPostbackListener about postback URL (`
+- `Unable to open Firebase Storage stream.`
+- `Unable to parse consent flow data! Please ensure that the AppLovin SDK resources are bundled correctly!`
+- `Unable to process ad click - AppLovinAdView destroyed prematurely`
+- `Unable to render AppLovin ad (`
+- `Unable to render ad: AppLovinAdView is not initialized.`
+- `Unable to retrieve consent flow data! Please ensure that the AppLovin SDK resources are bundled correctly!`
+- `Unable to serialize Firebase Analytics event to breadcrumb.`
+- `Unable to write export metadata file!`
+- `debug.firebase.analytics.app`
+- `invalid key format: missing KEK URI or DEK template`
+
+## deep_links (1)
+
+- `//alight.page.link/`
+
