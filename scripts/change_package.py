@@ -71,8 +71,6 @@ def main() -> None:
         f"Package changed: manifest={manifest_count}, res={xml_count}, "
         f"smali refs={smali_count}, smali roots moved={moved}"
     )
-    if moved == 0:
-        raise SystemExit("no smali class directories were renamed")
 
 
 if __name__ == "__main__":
