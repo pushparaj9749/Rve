@@ -11,14 +11,14 @@ Implemented:
 - Core models: `Scene`, `SceneElement`, `Keyable*`, `EffectDefinition`, `EffectInstance`, `ReverseSettings`
 - Room persistence + `ProjectRepository` (`.db` local, no cloud)
 - Effect registry stub (`Blur`, `Glow`, `Pixelate`) — extensible to 1,200+ effects
-- Home screen: project list + new-project dialog (ratio, fps)
-- Editor: real photo/video picker, thumbnail preview, layers (add/delete), effect chips, timeline
-- Reverse UI panel (toggle video/audio/duration) — worker aage ke slice me
+- Home screen: reference-like 3-tab layout (Home / Projects / My Elements), drawer, full-screen Create Project page
+- Editor: reference-like project bar, canvas tool rail, info/play bar, timeline and layer property panel
+- Real photo/video picker, keyframes, effect browser, reverse panel, project import/export
 - App icon + theme (`Ankit motion+` branding)
 
 **Implemented:** After Motion Z+ local feature parity — text/shape/drawing/audio layers, keyframes + easing, blending/fill/shadow/speed controls, searchable effect browser (**1,120 effects**), project import/export, templates, settings, real local video+audio reverse, Media3 H.264/AAC export + Gallery save. See `FEATURE_PARITY.md`.
 
-**Still pending:** GPU shader preview wiring, camera capture, nested-scene merge, GIF/image/M4A exporters, foreground service for long jobs, cloud (never), paid version (later).
+**Still pending:** real GPU shader passes (preview is a ColorMatrix approximation), full nested-scene export flattening, GIF/image/M4A exporters, foreground service for long jobs, cloud (never), paid version (later). Camera capture and nested scenes have basic support.
 
 ## Decisions
 
@@ -28,15 +28,15 @@ Implemented:
 | Stack | Kotlin + Jetpack Compose + Room + Media3 planned |
 | Network | **None** — no INTERNET permission, no cloud/account/ads |
 | Release | Phase A = free check build; Phase B = paid version later |
-| UI | Reference-like layout for now; re-skin in Phase B |
+| UI | Restored to the reverse-engineered reference layout/flow; no re-skin until explicitly approved |
 
 ## APK download (GitHub Actions)
 
 Har push par debug APK banta hai:
 
-- **Latest successful run:** https://github.com/pushparaj9749/Rve/actions/runs/45769928186
+- **Latest successful run:** https://github.com/pushparaj9749/Rve/actions/runs/45776957155
 - **APK artifact:** `AnkitMotion-plus-debug` (run page → Artifacts section)
-- Direct: https://github.com/pushparaj9749/Rve/actions/runs/45769928186/artifacts/15093895987
+- Direct: https://github.com/pushparaj9749/Rve/actions/runs/45776957155/artifacts/15096348152
 
 Artifact download karke zip unlock karein → `app-debug.apk` → phone me install karein (unknown sources allow karna hoga).
 

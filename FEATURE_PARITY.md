@@ -9,6 +9,7 @@ Standing decisions still active: **no cloud, no account/ads/paywall**, Phase A f
 | Reference feature | Humari app me | Status |
 | --- | --- | --- |
 | Multi-layer scene + timeline | IMAGE / VIDEO / AUDIO / TEXT / SHAPE / DRAWING layers | ✅ |
+| Reference UI layout / flow | 3-tab home + full-screen create-page; editor project bar, canvas tool rail, info/play bar, timeline (28dp rows), 11-item Add menu, property panel | ✅ restored to reference structure |
 | Keyframes + easing | `KeyframeEvaluator` — LINEAR, EASE_IN, EASE_OUT, EASE_IN_OUT, BOUNCE, ELASTIC, STEP; playhead UI | ✅ |
 | Motion path editor | 2D path canvas → X/Y keyframes (LINEAR) | ✅ basic (Bezier handles pending) |
 | Text layers + fonts | styled text dialog (text, size, color, bold/italic, align, font name) | ✅ basic |
