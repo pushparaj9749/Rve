@@ -1,0 +1,1 @@
+<merge xmlns:android="http://schemas.android.com/apk/res/android"><Button android:id="@id/ALT" android:singleLine="false" style="@?/ExoStyledControls.Button.Center.RewWithAmount"/></merge>

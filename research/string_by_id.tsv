@@ -1,0 +1,3603 @@
+0x7f1400dc	Arka Fon
+0x7f14027e	Süre
+0x7f1407e6	Yazı tipi
+0x7f1408fb	Yükseklik
+0x7f14095d	path(M 0,0 C 0.05, 0, 0.133333, 0.06, 0.166666, 0.4 C 0.208333, 0.82, 0.25, 1, 1, 1)
+0x7f14095e	cubic-bezier(0.3, 0, 0.8, 0.2)
+0x7f14095f	cubic-bezier(0.1, 0.7, 0.1, 1)
+0x7f140964	cubic-bezier(0, 0, 1, 1)
+0x7f140965	cubic-bezier(0.2, 0, 0, 1)
+0x7f140966	cubic-bezier(0.3, 0, 1, 1)
+0x7f140967	cubic-bezier(0, 0, 0, 1)
+0x7f140030	Projeler
+0x7f1409b7	:
+0x7f140b6d	Satın Alma Seçenekleri
+0x7f140000	Daha fazla ön ayar keşfedin
+0x7f140001	Cihazından bir XML dosyası yükle
+0x7f140002	Yükle
+0x7f140003	Tüm %1$d dosyalarınız başarıyla yüklendi!
+0x7f140004	Üzgünüz, bu dosyaları yükleyemedik. Format doğru değil ya da dosyalar bozuk.
+0x7f140005	Üzgünüz, bu dosyayı yükleyemedik. Format doğru değil ya da dosya bozuk. Lütfen farklı bir dosya ile tekrar dene.
+0x7f140006	Yükleme tamamlandı
+0x7f140007	Yükleme başarısız
+0x7f140008	Yükleme eksik
+0x7f140009	XML yükleniyor
+0x7f14000a	1080p 30fps
+0x7f14000b	‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‏‏‏‏‎‏‎‎‏‎‏‏‏‏‎‎‎‏‎‎‏‎‎‏‎‏‎‎‎‎‏‏‎‏‎‏‏‎‎‏‎‎‎‏‎‏‎‏‏‏‎‏‎‎‎‎‏‏‎‏‏‏‏‏‏‎‎Navigate home‎‏‎‎‏‎
+0x7f14000c	‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‏‏‏‏‏‏‎‏‎‎‎‏‏‎‏‎‎‎‏‏‎‎‎‏‏‏‏‎‏‎‎‎‎‏‏‎‏‏‎‏‎‎‏‎‎‏‎‎‎‎‎‎‏‎‏‎‎‎‎‏‏‏‎‎‎‎‎Navigate up‎‏‎‎‏‎
+0x7f14000d	‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‏‏‎‏‏‎‏‏‎‏‎‏‎‎‏‎‎‎‎‏‎‎‎‏‎‏‎‏‎‏‏‏‏‏‏‏‎‏‏‎‎‏‏‎‏‏‎‎‎‎‏‎‎‏‎‏‏‏‏‏‎‏‎‎‏‎More options‎‏‎‎‏‎
+0x7f14000e	‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‏‏‏‏‎‎‎‎‎‏‎‎‎‏‏‏‏‎‎‎‎‎‎‎‎‎‎‏‏‎‏‏‏‎‎‏‏‎‏‎‎‏‏‏‎‎‎‎‏‎‎‎‏‏‏‎‎‏‎‎‎‏‎‎‎‎‎Done‎‏‎‎‏‎
+0x7f14000f	‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‏‎‏‏‎‎‎‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‏‎‎‎‎‏‏‎‏‏‏‎‎‎‎‏‏‏‎‎‏‎‎‎‎‏‏‏‎‏‏‎‏‎‏‎‏‎‎‎‎‏‎See all‎‏‎‎‏‎
+0x7f140010	‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‏‎‏‏‏‏‏‎‎‎‎‎‏‏‏‎‎‏‏‎‎‏‎‏‎‎‏‏‎‏‏‎‏‏‏‏‏‏‎‎‏‎‎‏‏‎‎‏‎‏‎‎‏‎‏‎‎‎‎‎‎‎‎‎‎Choose an app‎‏‎‎‏‎
+0x7f140011	‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‏‏‎‏‏‏‎‏‎‏‎‎‎‎‎‏‎‎‎‏‏‏‎‏‏‎‎‏‏‎‏‏‎‏‎‎‎‎‎‏‏‎‏‎‏‏‎‏‏‏‎‎‏‎‎‏‏‎‎‏‏‏‎‏‏‎OFF‎‏‎‎‏‎
+0x7f140012	‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‏‎‎‏‏‎‎‎‏‎‎‏‎‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‏‎‎‎‎‎‎‎‏‎‎‎‎‏‎‎‎‏‏‏‏‏‎‎‏‏‎‏‏‎‎‎‎ON‎‏‎‎‏‎
+0x7f140013	‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‏‏‏‏‏‏‏‎‏‎‏‎‎‏‎‏‏‎‎‏‏‎‏‎‏‏‎‎‎‎‎‎‎‎‎‎‏‏‏‏‏‎‏‏‏‎‏‎‎‎‏‎‏‎‎‏‏‎‎‏‏‏‏‎‏‎‎Alt+‎‏‎‎‏‎
+0x7f140014	‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‏‎‏‏‏‏‏‎‏‏‎‏‏‎‏‎‏‏‎‎‎‎‎‏‎‏‎‏‎‎‏‏‏‏‎‎‏‎‎‎‏‎‎‏‎‏‎‎‎‎‎‏‎‏‎‎‏‎‏‎‏‎‏‎‎Ctrl+‎‏‎‎‏‎
+0x7f140015	‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‏‎‎‏‎‏‏‏‎‏‎‎‎‎‏‎‎‏‎‏‏‎‏‏‎‏‎‏‏‏‏‏‎‏‏‎‎‏‎‏‎‎‏‏‏‎‏‏‏‏‏‏‎‎‎‎‏‏‏‎‏‎‎‎delete‎‏‎‎‏‎
+0x7f140016	‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‏‏‏‏‏‎‏‏‏‎‏‏‎‏‎‏‎‏‏‏‎‏‎‏‏‏‏‏‏‏‎‏‏‎‎‎‎‏‏‎‎‏‏‎‏‏‎‏‏‏‏‏‎‏‏‏‎‏‎‏‎‎‎‎‏‏‎enter‎‏‎‎‏‎
+0x7f140017	‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‎‏‏‏‎‏‎‎‏‏‎‏‎‏‎‎‎‎‎‏‏‏‏‎‎‎‎‎‏‏‎‎‎‏‏‎‎‏‎‎‏‏‎‎‏‎‎‏‎‎‎‏‏‎‎‏‎‎‎‏‏‏‎Function+‎‏‎‎‏‎
+0x7f140018	‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‏‏‎‏‏‏‎‏‎‎‎‏‎‏‏‎‏‏‎‏‏‏‎‎‎‏‎‎‎‏‎‎‎‎‏‏‏‏‎‎‏‏‎‎‏‎‎‎‎‎‏‎‏‎‎‏‎‎‏‏‏‏‏‏‎‎Meta+‎‏‎‎‏‎
+0x7f140019	‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‏‏‏‏‎‎‎‎‎‏‏‏‎‎‏‏‎‏‎‏‏‎‎‎‎‎‏‏‎‎‎‎‏‎‎‎‏‏‎‎‎‎‎‎‎‎‎‎‏‏‎‏‎‎‏‎‎‎‏‏‎‎‎‎‏‏‎Shift+‎‏‎‎‏‎
+0x7f14001a	‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‏‏‏‏‎‎‏‎‏‏‏‏‏‏‎‏‏‏‎‎‎‏‎‎‏‏‏‎‏‏‎‎‎‎‎‎‎‏‏‎‏‏‎‎‎‏‏‎‎‏‎‎‎‏‏‎‏‎‎‎‎‏‎‏‏‎‎space‎‏‎‎‏‎
+0x7f14001b	‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‏‏‏‏‎‏‎‏‎‏‏‏‎‎‎‏‎‏‏‎‏‏‏‎‏‏‏‎‏‏‎‏‎‎‏‏‏‏‏‎‏‎‎‎‎‎‎‎‎‎‎‎‏‎‎‎‏‎‎‏‏‎‏‏‏‎‎Sym+‎‏‎‎‏‎
+0x7f14001c	‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‏‏‏‏‎‎‏‏‎‎‏‎‎‏‏‏‎‎‎‎‎‎‏‏‏‎‏‏‏‏‎‎‎‎‎‏‎‎‎‏‎‏‏‏‏‎‏‎‏‏‏‎‎‎‎‏‏‏‏‎‏‏‏‏‏‎‎Menu+‎‏‎‎‏‎
+0x7f14001d	‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‏‏‏‏‏‎‎‏‎‎‎‎‎‎‏‎‎‎‎‎‏‏‏‎‏‏‏‎‏‏‎‏‎‎‎‏‎‎‎‏‏‏‏‏‏‎‎‎‎‏‏‏‏‏‎‏‏‏‏‎‏‏‎‏‎‎‎Search…‎‏‎‎‏‎
+0x7f14001e	‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‏‏‎‏‏‎‎‏‏‏‏‏‎‏‎‏‏‎‏‎‏‎‎‎‏‎‎‏‏‏‏‎‎‎‏‎‏‎‎‎‎‎‏‏‎‏‏‎‎‏‎‏‏‎‎‎‏‎‏‏‏‎‎‏‏‎Clear query‎‏‎‎‏‎
+0x7f14001f	‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‏‎‎‏‎‎‏‏‎‎‏‏‏‏‏‎‎‏‎‎‏‎‎‎‎‎‎‏‎‏‎‎‏‏‏‎‏‏‎‏‎‎‎‏‏‎‎‎‎‎‎‏‏‎‎‏‏‎‏‏‎‏‏‎Search query‎‏‎‎‏‎
+0x7f140020	‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‏‏‎‏‎‏‏‏‏‎‏‏‎‏‏‎‏‏‏‏‏‏‎‏‎‎‏‎‏‎‎‏‏‎‎‎‎‎‎‎‎‎‏‏‎‏‎‏‏‏‎‎‏‏‏‏‏‎‎‏‏‏‎‎‎‎Search‎‏‎‎‏‎
+0x7f140021	‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‏‎‏‏‎‏‎‎‏‎‏‎‎‎‎‏‎‎‏‏‏‏‎‎‎‎‏‎‏‏‎‏‎‏‎‏‎‏‏‎‏‏‏‎‎‎‏‏‏‏‏‎‏‏‎‎‏‏‎‏‏‏‏‏‎Submit query‎‏‎‎‏‎
+0x7f140022	‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‏‎‏‏‏‏‏‏‏‏‎‏‎‏‎‎‎‏‏‎‏‏‎‏‏‎‎‎‏‎‏‏‏‏‏‎‏‏‎‎‎‏‏‎‏‏‎‏‎‎‎‎‏‎‎‎‏‎‎‏‎‏‏‏‎Voice search‎‏‎‎‏‎
+0x7f140023	‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‏‏‏‏‏‏‏‎‏‏‎‎‏‎‏‎‏‎‏‏‎‏‎‎‏‏‎‎‏‎‎‏‎‎‏‎‎‏‏‏‏‏‏‎‏‏‏‎‏‎‏‎‎‏‎‏‏‏‏‎‏‏‎‏‏‏‎Share with‎‏‎‎‏‎
+0x7f140024	‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‏‏‏‏‏‏‏‏‎‏‏‎‏‎‏‎‏‎‏‏‎‎‎‏‏‎‏‏‏‎‎‏‎‏‎‎‏‎‏‏‏‎‎‏‏‏‏‏‎‎‏‎‎‏‏‏‏‎‎‎‎‏‏‏‎‎‎Share with ‎‏‎‎‏‏‎%s‎‏‎‎‏‏‏‎‎‏‎‎‏‎
+0x7f140025	‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‏‎‏‏‎‏‏‎‏‏‏‏‏‏‏‎‎‏‎‏‎‎‏‎‏‎‎‏‏‎‏‏‏‎‏‏‏‏‏‏‏‏‎‎‎‎‏‏‎‎‎‎‏‎‎‎‏‏‎‏‎‎‏‎‎Collapse‎‏‎‎‏‎
+0x7f140026	Hakkında
+0x7f140027	hakkında
+0x7f140028	hakkında %s
+0x7f140029	Kabul Et ve Devam Et
+0x7f14002a	Yatay Olarak Ortala
+0x7f14002b	Dikey Olarak Ortala
+0x7f14002c	Yatay Olarak Dağıt
+0x7f14002d	Zaman Çizelgesinde Dağıt
+0x7f14002e	Dikey Olarak Dağıt
+0x7f14002f	Ayarlar
+0x7f140031	Bir sonraki noktayı konumlandırmak için buraya kaydırın, ardından yerleştirmek için buraya dokunun
+0x7f140032	Yeni bir nokta eklemek için kaydırın
+0x7f140033	Add Automatic Animator
+0x7f140034	Kenarlık Ekle
+0x7f140035	Kontür Ekle
+0x7f140036	Efekt Ekle
+0x7f140037	Medya bilgileri okunamıyor.
+0x7f140038	Görüntü eklenemiyor
+0x7f140039	Element / Proje
+0x7f14003a	Nesne / Element
+0x7f14003b	Seçtiğiniz medya eklenemedi.
+0x7f14003c	Seçtiğiniz medyalardan bazıları eklenemedi.
+0x7f14003d	Medya bilgileri okunamıyor.
+0x7f14003e	Video eklenemiyor
+0x7f14003f	Favorilere eklendi
+0x7f140040	Z konumunu ayarlamak için buraya kaydırın
+0x7f140041	Reklam izle
+0x7f140042	Bu özellik yalnızca Alight Motion üyeleri tarafından kullanılabilir.
+0x7f140043	Kilidi açmak için reklam izle
+0x7f140044	Lütfen internet bağlantını kontrol et ve tekrar dene.
+0x7f140045	Reklam yüklenirken bir sorun oluştu
+0x7f140046	Filigranı kaldır
+0x7f140047	Kaldırmak için reklam izle
+0x7f140048	Gelişmiş Hızlandırma
+0x7f140049	Kabul Et ve Giriş Yap
+0x7f14004a	Kişisel bilgilerimin toplanmasını ve kullanılmasını kabul ediyorum
+0x7f14004b	14 yaşında veya daha büyüğüm
+0x7f14004c	Alight Motion'ı kullanımınız, bazı bölümleri yalnızca Alight Creative hesaplarına sahip kullanıcılar için geçerli olan Alight Creative Hizmet Koşulları ve Gizlilik Politikasına tabidir. Bir Alight Creative hesabı oluşturmak veya bu hesapta oturum açmak, PIPA ve ilgili gizlilik yasalarına bağlı olarak kişisel bilgilerin aşağıdaki şekilde toplanması ve kullanılmasına ve Hizmet Şartları'nı okumalı ve onaylamalısınız.
+0x7f14004d	Kişisel Bilgilerin ve Hizmet Şartlarının Toplanması ve Kullanımına İlişkin Onay
+0x7f14004e	Kabul etmiyorum
+0x7f14004f	Alight Motion'ı kullanmaya devam etmek için bu güncellenmiş şartları kabul etmelisiniz.
+
+Kabul etmiyorsanız, lütfen Alight Motion'ı cihazınızdan kaldırın.
+0x7f140050	Tümünü Kabul Et ve Devam Et
+0x7f140051	Alight Creative [a href=https://alightcreative.com/tos/]Hizmet Şartları[/a] ve [a href=https://alightcreative.com/privacy/]Gizlilik Politikası[/a]'nı kabul ediyorum
+0x7f140052	Enable subtitles
+0x7f140053	Disable subtitles
+0x7f140054	%1$.2fx
+0x7f140055	Fast forward
+0x7f140056	Enter fullscreen
+0x7f140057	Exit fullscreen
+0x7f140058	Hide player controls
+0x7f140059	Next
+0x7f14005a	Hide additional settings
+0x7f14005b	Show additional settings
+0x7f14005c	Pause
+0x7f14005d	Play
+0x7f14005e	Speed
+0x7f14005f	Normal
+0x7f140060	Previous
+0x7f140061	Repeat all
+0x7f140062	Repeat none
+0x7f140063	Repeat one
+0x7f140064	Rewind
+0x7f140065	Playback progress
+0x7f140066	Settings
+0x7f140067	Show player controls
+0x7f140068	Shuffle off
+0x7f140069	Shuffle on
+0x7f14006a	Stop
+0x7f14006b	00:00:00
+0x7f14006c	VR mode
+0x7f14006d	Download completed
+0x7f14006e	Download
+0x7f14006f	Downloading
+0x7f140070	Download failed
+0x7f140071	Downloads
+0x7f140072	Downloads paused
+0x7f140073	Downloads waiting for network
+0x7f140074	Downloads waiting for WiFi
+0x7f140075	Removing downloads
+0x7f140076	%1$s, %2$s
+0x7f140077	%1$.2f Mbps
+0x7f140078	Mono
+0x7f140079	%1$d × %2$d
+0x7f14007a	Alternate
+0x7f14007b	CC
+0x7f14007c	Commentary
+0x7f14007d	Supplementary
+0x7f14007e	Auto
+0x7f14007f	None
+0x7f140080	Audio
+0x7f140081	Text
+0x7f140082	Video
+0x7f140083	Stereo
+0x7f140084	Surround sound
+0x7f140085	5.1 surround sound
+0x7f140086	7.1 surround sound
+0x7f140087	Unknown
+0x7f140088	Alight Motion Ayarları
+0x7f140089	Hizala
+0x7f14008a	Hizalama
+0x7f14008b	Her şey
+0x7f14008c	Tüm Yazı Tipleri
+0x7f14008d	Bütün Diller
+0x7f14008e	Tüm Şablonlar
+0x7f14008f	Erişime İzin Ver
+0x7f140090	Alight Motion projenizde ses, video veya görüntüler kullanmak için ortamınıza erişim gerektirir.
+0x7f140091	Bu proje harici video, fotoğraf veya ses medyası kullanıyor.
+
+Bu projeyi önizlemek, düzenlemek veya paylaşmak için Alight Motion'ın medya öğelerinize erişmesi gerekir.
+0x7f140092	Efekt Tarayıcısını güncelledik!
+0x7f140093	Efektler, Alight Motion için oldukça önemlidir, bu nedenle onları bulmanızı ve kullanmanızı kolaylaştırdık.
+
+• Ön ayarlar, ortak efekt ayarlarını hızlı bir şekilde uygulamanıza yardımcı olur
+
+• Efektler ve ön ayarlarınıza, hızlı tek dokunuşla erişim için favori olarak işaretleyebilirsiniz
+
+• Arama Kutusu tam olarak istediğiniz efekti hızlı bir şekilde bulmanızı sağlar
+
+• Yeni Efekt Kılavuzu her bir efektin nasıl kullanılacağını açıklar
+
+• Birçok efekt güncellendi ve geliştirildi
+
+0x7f140094	Yeni Efekt Tarayıcısına Hoş Geldiniz!
+0x7f140095	‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‏‏‏‏‏‏‎‏‎‎‏‎‎‎‏‎‎‎‎‎‏‏‎‎‎‏‎‎‏‎‎‏‎‏‏‎‏‏‏‎‎‏‏‎‏‎‏‎‏‏‎‏‏‏‏‏‏‏‏‎‏‎‎‎‏‏‎Password‎‏‎‎‏‎
+0x7f140096	‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‏‏‎‏‏‎‏‏‎‏‎‎‎‎‏‏‎‏‎‏‎‏‎‏‎‎‏‏‎‎‏‏‏‎‎‏‎‏‏‏‎‎‎‎‏‏‏‎‎‏‎‏‎‏‎‏‏‏‏‏‏‎‏‏‎‎Passkey‎‏‎‎‏‎
+0x7f140097	androidx.startup
+0x7f140098	Açı
+0x7f140099	Hayvan
+0x7f14009a	Sine Wave Animator
+0x7f14009b	Triangle Wave Animator
+0x7f14009c	Yıllık Abonelik
+0x7f14009d	Anonim Kullanıcı
+0x7f14009e	App Version and Build number
+0x7f14009f	After Motion Z+
+0x7f1400a0	Алайт Моушен
+0x7f1400a1	Uygulama Sürümü
+0x7f1400a2	com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior
+0x7f1400a3	如果您選擇開始使用我們的應用，請點擊"繼續"
+0x7f1400a5	繼續
+0x7f1400a6	Enable the Creative Debugger SDK settings in order to view recent ads.
+0x7f1400a7	No recently displayed ads found.
+0x7f1400a8	如同我们在隐私政策中所表述的，在您同意的前提下，我们可能将此数据分享给以下的合作伙伴，以帮助他们提供个性化广告和内容：
+0x7f1400a9	個性化廣告和內容
+0x7f1400aa	如同我們在隱私政策中所表述的，在您同意的前提下，我們可能將此數據分享給以下的合作夥伴，用於產品表現監測以及改進我們的產品和服務。
+0x7f1400ab	產品表現監測和產品優化
+0x7f1400ac	請允許我們和我們的合作夥伴使用此數據，以為您提供個性化的廣告和內容，以及我們在隱私政策中列明的其他用途。
+
+• 為您提供個性化的體驗，廣告和內容。
+
+• 請支持我們的產品優化和開發
+
+• 這將允許您參加我們的應用內促銷活動
+0x7f1400ad	您是否確定？
+0x7f1400ae	返回
+0x7f1400af	請支持我們的免費應用！
+0x7f1400b0	這會為您提供更個性化的體驗，包括個性化廣告和內容
+0x7f1400b1	請支持我們的產品優化和開發
+0x7f1400b2	這將允許您參加我們的應用內促銷活動
+0x7f1400b3	感謝您下載我們的應用！我們能為您提供更獨一無二的應用內體驗，如果您允許我們和我們的合作夥伴使用以下這些數據：
+0x7f1400b4	您有權隨時變更您的選擇。如果您決定停止分享數據，您仍然可以使用應用，並且您仍然會看到廣告，但廣告內容會與您的興趣匹配度下降。
+0x7f1400b5	產品表現監測和產品優化
+0x7f1400b6	了解更多
+0x7f1400b7	如同我們在隱私政策中所表述的，在您同意的前提下，我們會收集您設備的相關信息，比如IP地址和廣告標識符。該數據將允許我們和我們的合作夥伴為您提供個性化的廣告和內容，以及持續改善您的體驗。
+
+您可以選擇允許我們和我們的合作夥伴出於下列目的使用此數據
+0x7f1400b8	個性化的廣告內容
+0x7f1400b9	我年滿16周歲，接受使用條款並知悉隱私政策應用於此。
+0x7f1400ba	我確認本人已滿16周歲並已知悉和理解該隱私政策。
+0x7f1400bb	感謝您下載 
+%s!
+0x7f1400bc	我理解並同意
+0x7f1400bd	幫助我們繼續保持%s免費並為您帶來更多樂趣！
+0x7f1400be	Displays more info about the list item.
+0x7f1400bf	使用%s之前, 您必須同意我们的服務條款，並確認您已經閱讀並知悉我們的隱私政策。
+0x7f1400c0	使用%s之前, 您必須確認您已經閱讀並知悉我們的隱私政策.
+0x7f1400c1	隱私政策
+0x7f1400c2	服務條款
+0x7f1400c3	使用條款
+0x7f1400c4	Bir sorun oluştu
+0x7f1400c5	Lütfen birkaç dakika içinde tekrar deneyin. Sorun devam ederse, destek ekibimiz ile iletişime geçin.
+0x7f1400c6	Bağlantı sorunları
+0x7f1400c7	Lütfen internet bağlantınızı kontrol edin ve tekrar deneyin.
+0x7f1400c8	Arapça Yazı Tipleri
+0x7f1400c9	En Boy Oranı Kilitli
+0x7f1400ca	Serbestçe Yeniden Boyutlandır
+0x7f1400cb	Ses
+0x7f1400cc	Ses Yeniden Örnekleme
+0x7f1400cd	Yüksek
+0x7f1400ce	Düşük
+0x7f1400cf	Ultra
+0x7f1400d1	Sanatçılar
+0x7f1400d2	Dosyalar
+0x7f1400d3	Klasörler
+0x7f1400d4	Türler
+0x7f1400d5	Çalma listeleri
+0x7f1400d6	Şarkılar
+0x7f1400d7	Preenchimento automático
+0x7f1400d8	mevcut
+0x7f1400d9	Kullanılabilir Alan
+0x7f1400da	%1$s mevcut / %2$s toplam
+0x7f1400db	Geri
+0x7f1400dd	关闭横幅广告
+0x7f1400de	Üye Ol
+0x7f1400df	Animasyonda profesyonelliğinizi gösterin!
+0x7f1400e0	• Gelişmiş Hızlandırma
+0x7f1400e1	• Kamera Nesneleri
+0x7f1400e2	• Sadece Gelecekteki Üyelere Ait Özellikler
+0x7f1400e3	• Sonsuz Proje Paketi Paylaşımı
+0x7f1400e4	• Üst Katman Oluşturma
+0x7f1400e5	Yararları:
+0x7f1400e6	• Üye Efektleri Paketi
+0x7f1400e7	• Ayrıcalıklı Özellikler
+0x7f1400e8	• Proje Paketi Paylaşımı
+0x7f1400e9	• Filigranı Kaldır
+0x7f1400ea	En iyi değer
+0x7f1400eb	Siyah
+0x7f1400ec	Mavi
+0x7f1400ed	Yeşil
+0x7f1400ee	Açık Gri
+0x7f1400ef	Şeffaf
+0x7f1400f0	Beyaz
+0x7f1400f1	Renk
+0x7f1400f2	Kontrast
+0x7f1400f3	Karart
+0x7f1400f4	Fark
+0x7f1400f5	Aydınlat
+0x7f1400f6	Maskele
+0x7f1400f7	Normal
+0x7f1400f8	Renk
+0x7f1400f9	Renk Yakma
+0x7f1400fa	Renk Soldurma
+0x7f1400fb	Karart
+0x7f1400fc	Daha Koyu Renk
+0x7f1400fd	Fark
+0x7f1400fe	Böl
+0x7f1400ff	Dışla
+0x7f140100	Dışlama
+0x7f140101	Sert Işık
+0x7f140102	Renk Özü
+0x7f140103	Aydınlat
+0x7f140104	Daha Açık Renk
+0x7f140105	Doğrusal Yakma
+0x7f140106	Doğrusal Soldurma
+0x7f140107	Doğrusal Işık
+0x7f140108	Parlaklık
+0x7f140109	Maskele
+0x7f14010a	Çarp
+0x7f14010b	Normal
+0x7f14010c	Kapla
+0x7f14010d	Pin Işığı
+0x7f14010e	Doygunluk
+0x7f14010f	Ekran
+0x7f140110	Yumuşak Işık
+0x7f140111	Yumuşak Kaplama
+0x7f140112	Çıkart
+0x7f140113	Canlı Işık
+0x7f140114	Harmanlama
+0x7f140115	Karıştırma ve Opaklık
+0x7f140116	Bulanıklık Gücü
+0x7f140117	Kenarlık
+0x7f140118	Kenarlık ve Gölge
+0x7f140119	Merkez
+0x7f14011a	İçinde
+0x7f14011b	Dışında
+0x7f14011c	Alt
+0x7f14011d	com.google.android.material.bottomsheet.BottomSheetBehavior
+0x7f14011e	Fechar a página inferior
+0x7f14011f	Abrir a página inferior
+0x7f140120	Expandir até a metade
+0x7f140121	Alça de arrastar tocada duas vezes
+0x7f140122	Alça de arrastar
+0x7f140123	Zıplama
+0x7f140124	Tüm Proje
+0x7f140125	Sadece Katman
+0x7f140126	Yeni özellik
+0x7f140127	Parlaklık Kontrast
+0x7f140128	Yapım
+0x7f140129	关闭
+0x7f14012a	Devam et
+0x7f14012b	İçe Aktar
+0x7f14012c	Optimize Edilmiş Medya ile İndir
+0x7f14012d	Medya Yer Tutucu ile İndir
+0x7f14012e	Tamam
+0x7f14012f	恢复
+0x7f140130	Gönder
+0x7f140131	Yükle ve Paylaş
+0x7f140132	%d साल
+0x7f140133	%d महीने तक
+0x7f140134	%d साल तक
+0x7f140135	‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‏‎‎‏‏‎‎‎‎‏‏‏‎‏‏‎‏‏‎‎‏‎‏‏‎‎‎‎‎‏‎‏‎‏‎‏‏‎‎‏‎‎‏‏‏‏‎‎‏‎‏‎‏‎‎‎‎‎‏‎‏‎‎‎Answer‎‏‎‎‏‎
+0x7f140136	‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‏‏‏‏‏‏‏‎‏‎‎‎‎‎‏‎‎‏‏‏‎‎‎‏‎‎‎‏‎‏‎‏‎‎‏‏‎‎‏‏‎‎‏‎‎‎‎‏‎‏‎‏‎‎‏‏‎‏‎‎‏‎‎‎‎‎‎Video‎‏‎‎‏‎
+0x7f140137	‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‏‏‎‏‎‏‏‎‎‏‏‎‏‎‎‎‏‏‎‎‎‎‏‎‎‏‏‏‎‏‎‎‏‏‎‎‎‎‏‎‎‏‏‎‎‏‏‏‏‏‎‎‏‎‎‏‎‎‎‎‏‎‎‏‎‎Decline‎‏‎‎‏‎
+0x7f140138	‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‏‏‎‏‎‎‏‎‎‏‏‏‎‏‎‎‎‎‏‎‎‏‎‏‎‏‏‏‎‏‎‎‏‏‎‎‎‎‎‎‏‏‎‏‏‎‎‏‏‏‏‎‎‎‎‎‎‎‎‎‏‎‏‏‏‎Hang Up‎‏‎‎‏‎
+0x7f140139	‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‏‏‏‏‎‏‎‏‎‎‏‏‎‎‎‎‏‎‎‏‎‏‎‎‎‎‏‎‎‎‎‏‎‏‏‎‎‎‏‏‏‎‏‏‎‎‎‏‎‎‎‏‏‎‏‎‎‎‏‎‏‏‎‏‏‏‎Incoming call‎‏‎‎‏‎
+0x7f14013a	‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‏‏‏‏‏‏‎‏‏‏‏‎‏‎‏‏‎‏‏‏‏‏‏‏‎‏‎‎‎‏‎‏‏‎‎‏‏‏‏‏‎‎‎‎‎‏‎‏‏‏‎‎‎‏‎‏‎‎‏‎‏‏‏‏‏‎‎Ongoing call‎‏‎‎‏‎
+0x7f14013b	‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‎‎‎‏‏‎‏‎‎‎‏‏‏‎‎‏‎‎‏‎‏‎‎‎‏‏‎‎‏‎‎‎‏‏‏‎‎‏‎‏‎‏‏‏‏‏‎‏‏‏‏‎‏‎‏‏‏‎‎‎Screening an incoming call‎‏‎‎‏‎
+0x7f14013c	Kamera
+0x7f14013d	Kamera Seçenekleri
+0x7f14013e	Kamera: Yakınlaştırma %1$.1f, Görüş Açısı %2$.1fº
+0x7f14013f	Kamera Açısı
+0x7f140140	İptal
+0x7f140141	İstediğiniz Zaman İptal Etme
+0x7f140142	Galeriye Kaydedilemiyor
+0x7f140143	Araba
+0x7f140144	Alight Motion PRO + Bulut
+0x7f140145	Tüm PRO özellikler
+0x7f140146	Reklamları kaldırın ve Alight Motion'ın tüm Pro Özelliklerinin keyfini çıkarın
+0x7f140147	Reklamları kaldırın ve Alight Motion'ın tüm Pro Özelliklerinin ve Bulut Yedeğinin tadını çıkarın
+0x7f140148	{bold}%1$s{/bold}'a kadar Bulut Depolama Alanı
+0x7f140149	Diğer yaratıcılar şablonlarınızı kullandığında alışveriş kuponları ve daha fazlasını kazanın. Yaratıcılığınızı dünyayla paylaşmak için ödüllendirilin!
+0x7f14014a	Şablonlar ve ön ayarlar için yeni bir kütüphane...
+Değerleri ayarlamak için klavye girişi...
+Ve tam bir yığın yeni efekt!
+0x7f14014b	Diğerleriyle paylaşabileceğiniz ve herhangi bir projede kullanabileceğiniz bir ön ayar olarak tüm animasyonlarını ve efektlerini kaydetmek için bir katman seçin.
+0x7f14014c	Kendi muhteşem içeriğinizle medyayı hızlı bir şekilde değiştirerek herhangi bir şablonu kolayca özelleştirin.
+0x7f14014d	Doğru: Hız kontrolü sonunda burada.
+Etkileyici bir etki için düzgün hız düzenlemeleri yapın.
+0x7f14014e	İçerik Oluşturucu Programı
+0x7f14014f	...ve çok daha fazlası
+0x7f140150	Ön ayar
+0x7f140151	Şablon Düzenleyici
+0x7f140152	Zaman Haritalama
+0x7f140153	Değişiklik
+0x7f140154	Değiştir
+0x7f140155	Yeni adrese bir doğrulama e-postası gönderilecektir.
+0x7f140156	E-posta adresinizi değiştirmeden önce yeniden kimlik doğrulaması yapmalısınız.
+0x7f140157	E-postayı Değiştir
+0x7f140158	Yeni e-posta adresine bir doğrulama e-postası gönderildi. Değişikliği tamamlamak için lütfen e-postadaki bağlantıya tıklayın.
+0x7f140159	Profil fotoğrafını değiştir
+0x7f14015a	E-posta adresiniz değiştirildi.
+0x7f14015b	Caracteres inseridos: %1$d de %2$d
+0x7f14015c	Limite de %2$d caracteres excedido em %1$d
+0x7f14015d	%1$d/%2$d
+0x7f14015e	Video Codec Performansını Değerlendirme
+0x7f14015f	Bu işlem genellikle bir dakikadan az sürer ve Alight Motion'ın cihazınızdaki videodan en iyi şekilde yararlanmasını sağlar.
+0x7f140160	Chibi
+0x7f140161	Yonga seti
+0x7f140162	Şehir Manzaraları
+0x7f140163	Klasik Anime
+0x7f140164	Dışa Aktarma Önbelleğini Temizle
+0x7f140165	Seçimi Temizle
+0x7f140166	Limpar texto
+0x7f140167	Küçük resim çerçevesini temizle
+0x7f140168	Kapat
+0x7f140169	Kapat
+0x7f14016a	‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‎‏‏‏‎‏‏‎‏‎‎‏‎‎‎‎‎‎‎‎‏‏‎‎‏‏‏‏‎‎‎‎‏‏‏‏‎‏‎‎‏‏‏‎‎‏‎‏‎‎‏‏‎‎‎‏‎‏‎‏‎‎‎Close navigation menu‎‏‎‎‏‎
+0x7f14016b	‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‏‏‏‏‏‎‏‎‎‏‎‎‎‏‏‎‎‏‎‎‏‏‏‏‎‏‏‎‏‏‎‏‎‎‏‎‎‏‎‏‏‏‏‏‎‏‎‎‎‏‎‎‎‎‏‎‏‎‎‏‎‎‎‏‏‏‎Close sheet‎‏‎‎‏‎
+0x7f14016c	Bir plan seçin
+0x7f14016d	ÖZEL TEKLİF %% %1$d İNDİRİM!
+0x7f14016e	Bulut
+0x7f14016f	Video Codec Performansını Yeniden Değerlendirin
+0x7f140170	Codec
+0x7f140171	Bu sonuçlar, cihazınız tarafından dışa aktarılmak üzere desteklenen maksimum video katmanı sayısını gösterir. Gerçek önizleme oynatma olanağı bundan daha az olabilir.
+0x7f140172	Video Codec Değerlendirme Sonuçları
+0x7f140173	Codec init başarısız oldu
+0x7f140174	This can happen for several reasons, including:
+
+• The video format may not be supported by your device
+• The video resolution may be too high for editing on your device
+• There may be too many video clips in use at the same time (some devices are limited to 2 or 4 video clips at the same time depending on the resolution)
+• Another app or service (such as a screen recorder or video player) might be using the video decoder
+
+Error code: %1$d
+Detected at: %2$s
+0x7f140175	Renk ve Dolgu
+0x7f140176	Renk Seçici
+0x7f140177	Renk Kayması
+0x7f140178	ad3a9b434ec34ddabc8da5a1ccfec769
+0x7f140179	repositories {
+  system: GIT
+  local_root_path: "$PROJECT_DIR"
+  revision: "e3844be93b7dc981d58ecc6649c2454b54e9d527"
+}
+
+0x7f14017a	Kunjungi <b>facebook.com/device</b> dan masukkan kode yang ditampilkan di atas.
+0x7f14017b	Kesalahan yang tidak diharapkan saat mengunduh gambar.
+0x7f14017c	Masuk WebView memerlukan izin INTERNET
+0x7f14017d	Kesalahan AndroidManifest
+0x7f14017e	Disukai
+0x7f14017f	Suka
+0x7f140180	Memuat…
+0x7f140181	Batal
+0x7f140182	Masuk
+0x7f140183	Lanjutkan dengan Facebook
+0x7f140184	Masuk menggunakan Facebook
+0x7f140185	Keluar
+0x7f140186	Keluar
+0x7f140187	Masuk sebagai: %1$s
+0x7f140188	Masuk menggunakan Facebook
+0x7f140189	Kirim
+0x7f14018a	Berbagi
+0x7f14018b	Untuk menghubungkan akun Anda, buka aplikasi Facebook di perangkat seluler Anda dan periksa pemberitahuan.
+0x7f14018c	- ATAU -
+0x7f14018d	Bukan Anda?
+0x7f14018e	Continuar como %1$s
+0x7f14018f	Konfirmasikan Masuk
+0x7f140190	Anda memegang kendali - pilih info yang ingin Anda bagikan dengan aplikasi.
+0x7f140191	Çizgi Roman
+0x7f140192	Ativar
+0x7f140193	%1$s só funciona com o Google Play Services ativado.
+0x7f140194	Ativar o Google Play Services
+0x7f140195	Instalar
+0x7f140196	O app %1$s não funciona sem o Google Play Services, o qual não está instalado no seu dispositivo.
+0x7f140197	Instalar o Google Play Services
+0x7f140198	Disponibilidade do Google Play Services
+0x7f140199	Erro do Google Play Services
+0x7f14019a	O app %1$s está com problemas com o Google Play Services. Tente novamente.
+0x7f14019b	O app %1$s não funciona sem o Google Play Services, o qual não é compatível com seu dispositivo.
+0x7f14019c	Atualizar
+0x7f14019d	%1$s só funciona com uma versão atualizada do Google Play Services.
+0x7f14019e	Atualizar o Google Play Services
+0x7f14019f	%1$s não funciona sem o Google Play Services, o qual está sendo atualizado no momento.
+0x7f1401a0	É necessária uma nova versão do Google Play Services. Ele será atualizado em breve.
+0x7f1401a1	Abrir no smartphone
+0x7f1401a2	Fazer login
+0x7f1401a3	Fazer login com o Google
+0x7f1401a4	{bold}%1$s{/bold} / ay
+0x7f1401a5	{bold}%1$s{/bold} / hafta
+0x7f1401a6	{bold}%1$s{/bold} / yıl
+0x7f1401a7	Tamamlayın
+0x7f1401a8	Kompozisyon Boyutu
+0x7f1401a9	Kontür %d
+0x7f1401aa	Gruba Dönüştür
+0x7f1401ab	Taslağa Dönüştür
+0x7f1401ac	Panoya Kopyalandı
+0x7f1401ad	‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‏‏‏‏‎‏‎‏‎‎‎‏‏‎‏‏‏‎‎‏‏‎‎‎‎‎‎‎‏‏‎‎‏‏‎‏‏‏‏‏‎‎‏‏‎‎‏‎‎‎‏‎‎‎‏‏‎‎‎‏‏‏‎‎‏‎‎Copy‎‏‎‎‏‎
+0x7f1401ae	Efektleri Kopyala
+0x7f1401af	Renk Kodunu Kopyala
+0x7f1401b0	Eğriyi Kopyala
+0x7f1401b1	Efekt Kopyala
+0x7f1401b2	Ücretsiz Efektleri Kopyala
+0x7f1401b3	Kimliği Panoya Kopyala
+0x7f1401b4	Katman Stilini Kopyala
+0x7f1401b5	Bağlantıyı Kopyala
+0x7f1401b6	Konumu Kopyala
+0x7f1401b7	Tüm Efektleri Kopyala
+0x7f1401b8	Pivotu Kopyala
+0x7f1401b9	Rotasyonu Kopyala
+0x7f1401ba	Ölçeklendirmeyi Kopyala
+0x7f1401bb	Eğriliği Kopyala
+0x7f1401bc	클립보드에 복사
+0x7f1401bd	‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‏‏‎‏‎‏‏‎‏‎‏‎‎‎‎‎‎‏‎‎‎‎‎‏‎‏‎‏‎‏‏‎‏‏‎‏‎‎‏‏‏‎‏‏‏‎‎‏‏‏‎‏‎‏‏‎‎‎‏‏‏‏‏‏‎‎Link copied to clipboard‎‏‎‎‏‎
+0x7f1401be	Dönüşümü Kopyala
+0x7f1401bf	Geri sayımı Hesabım sayfanda bulabilirsin.
+0x7f1401c0	İndirimi al
+0x7f1401c1	Bu teklifi atlamak istediğinden emin misin?
+0x7f1401c2	Bu teklif için kalan süre:
+0x7f1401c3	%%%1$d indirimle yaratıcılığının önündeki sınırları kaldır!
+0x7f1401c4	%1$s:%2$s:%3$s İÇİNDE SONA ERİYOR
+0x7f1401c5	SINIRLI SÜRELİ TEKLIF
+0x7f1401c6	PRO Plan + 100 GB Bulut
+
+%%%1$d indirimle!
+0x7f1401c7	Arıza izleme kimliğiniz:
+
+%s
+
+Lütfen daha fazla yardım için bu kimliği Alight Creative destek birimine gönderin.
+0x7f1401c8	Oluştur
+0x7f1401c9	Kırpma Maskesi Oluştur
+0x7f1401ca	Öğe Oluştur
+0x7f1401cb	Genişlik ve yükseklik 32 ile 4096 arasında olmalıdır
+0x7f1401cc	Başlık boş bırakılamaz
+0x7f1401cd	Dışlama Grubu Oluştur
+0x7f1401ce	Maskeleme Grubu Oluştur
+0x7f1401cf	Yeni Proje Oluştur
+0x7f1401d0	Proje Oluştur
+0x7f1401d1	Proje Oluşturuldu
+0x7f1401d2	BETA
+0x7f1401d3	Sıkça Sorulan Sorular
+0x7f1401d4	İçerik Oluşturucu Programı'nın işleyişini öğren
+0x7f1401d5	SSS Bölümü
+0x7f1401d6	İçerik Oluşturucu Programı'nın işleyişini öğren
+0x7f1401d7	İşleyiş
+0x7f1401d8	Şablonlarını paylaş
+0x7f1401d9	Her içe aktarmada jeton kazan
+0x7f1401da	Alışveriş kuponları ve daha fazlasını kazan!
+0x7f1401db	Bu ödülü kullanmak için yeterli jetonun yok.
+0x7f1401dc	Yetersiz jeton
+0x7f1401dd	Alight Motion PRO aboneliği
+0x7f1401de	Alight Motion PRO
+0x7f1401df	Amazon Hediye Kartı
+0x7f1401e0	Amazon web sitesi
+0x7f1401e1	Lütfen hediye kartını hangi web sitesinden almak istediğini belirt
+0x7f1401e2	E-postayı onayla
+0x7f1401e3	İki e-posta adresi eşleşmiyor
+0x7f1401e4	Telefon numarasını doğrula
+0x7f1401e5	İki telefon numarası eşleşmiyor
+0x7f1401e6	E-posta
+0x7f1401e7	E-posta boş
+0x7f1401e8	E-postan
+0x7f1401e9	Hediye Kartı tutarı
+0x7f1401ea	Şu anda %1$d ödül jetonun var
+0x7f1401eb	Kullanılabilir ödüller
+0x7f1401ec	1 ay - %1$d jeton
+0x7f1401ed	2 hafta - %1$d jeton
+0x7f1401ee	3 ay - %1$d jeton
+0x7f1401ef	6 ay - %1$d jeton
+0x7f1401f0	10 $ - %1$d jeton
+0x7f1401f1	50 $ - %1$d jeton
+0x7f1401f2	130.000 Rp - %1$d jeton
+0x7f1401f3	730.000 Rp - %1$d jeton
+0x7f1401f4	Telefon
+0x7f1401f5	Telefon numaranın bir Tokopedia ve bir GoPay hesabına bağlı olduğundan emin ol.
+0x7f1401f6	Lütfen Endonezya merkezli bir telefon numarası gir
+0x7f1401f7	Şimdi Katıl
+0x7f1401f8	Jeton kazanmak için Alight Motion Şablonlarını arkadaşlarınla ve takipçilerinle paylaş. Jetonları kullanarak alışveriş kuponlarını veya PRO aboneliği edin!
+0x7f1401f9	- 🤝 İçerik Oluşturucu Programımıza katıl
+- 🎨 Dikkat çekici Alight Motion şablonları oluştur
+- 🔥 Şablonlarını paylaş
+- 💯 Şablonun içe aktarıldığında jeton kazan
+- 🎁 Jetonları alışveriş kuponları veya Alight Motion Pro için kullan
+0x7f1401fa	- 💻 İçerik Oluşturucu Programımıza katıl
+- 🚀 Alight Motion şablonlarını paylaş
+- 💯 Şablonlarını içe aktaran her kullanıcı için jeton kazan
+- 🛒 Jetonları alışveriş kuponları veya Alight Motion PRO için kullan
+0x7f1401fb	Atla
+0x7f1401fc	Oluştur, Paylaş, Kazan!
+0x7f1401fd	🎉 İçerik Oluşturucu Ol 🎉
+0x7f1401fe	💰 Paylaşımların için ödül kazan 💰
+0x7f1401ff	Kullan
+0x7f140200	Ödülün gönderilmesi 7 gün kadar sürebilir.
+0x7f140201	Ödül kullanıldı!
+0x7f140202	%1$d jetondan başlıyor
+0x7f140203	PRO aboneliğinin süresi
+0x7f140204	Tokopedia Hediye Kartı
+0x7f140205	Katılmak için Giriş Yap
+0x7f140206	Jeton Kazanmaya Başla
+0x7f140207	Ödülünü talep et
+0x7f140208	İndirdiğin şablonlar
+0x7f140209	Alight Motion ile yaratıcılığını paylaşıp ödüller kazan!
+0x7f14020a	Jetonların
+0x7f14020b	İçerik Oluşturucu Programı geçici olarak askıya alınmıştır. Anlayışın için teşekkür ederiz.
+0x7f14020c	"Kabul Et ve Devam Et" seçeneğine dokunarak {tos}İçerik Oluşturucu Programı için Ek Şartları{/tos} ve {pp}Gizlilik Politikamızı{/pp} kabul ettiğini onaylamış olursun.
+0x7f14020d	İçerik Oluşturucu Programı
+0x7f14020e	İçerik Oluşturucu Programı
+0x7f14020f	Hesabınız, politika ihlalleri nedeniyle En İyi Yaratıcılar Sıralaması'ndan yasaklandı. Bu yasağın hatayla uygulandığını düşünüyorsanız, lütfen müşteri hizmetleriyle iletişime geçin.
+0x7f140210	Geçersiz Instagram kullanıcı adı
+0x7f140211	Instagram
+0x7f140212	Sıralamada Sosyal Medya profillerini tanıt
+0x7f140213	Düzenlemeleri Kaydet
+0x7f140214	Sıralamada gösterilen sosyal medya bağlantılarını düzenle.
+0x7f140215	Geçersiz TikTok kullanıcı adı
+0x7f140216	TikTok
+0x7f140217	kullanıcı adı
+0x7f140218	Geçersiz YouTube kullanıcı adı
+0x7f140219	YouTube
+0x7f14021a	En İyi İçerik Üreticileri Sıralamasının işleyişini öğren
+0x7f14021b	SSS
+0x7f14021c	Hesabıma Git
+0x7f14021d	Sıralamaya katıl
+0x7f14021e	Ayın En İyi İçerik Üreticileri
+0x7f14021f	Profili düzenle
+0x7f140220	Artık En İyi İçerik Üreticilerimiz arasındasın. Sıralamadaki yerini öğrenmek için aşağıya dokun!
+0x7f140221	Tebrikler
+0x7f140222	Devre dışı bırak
+0x7f140223	En İyi İçerik Üreticileri Sıralamasından ayrılmak istediğinden emin misin? Profilin ve Sosyal Medya bağlantıların artık sıralamadaki diğer kullanıcılar tarafından görülemeyecektir.
+0x7f140224	Sıralamada Kal
+0x7f140225	Gitmene üzüldük...
+0x7f140226	Sıralamaya Bak
+0x7f140227	Katılmak için oturum açın
+0x7f140228	Aylık sıralamada yükselmek için çarpıcı şablonlar oluştur ve paylaş!
+0x7f140229	Sosyal medyada görünürlüğünü artır ve En İyi İçerik Üreticisi ol!
+0x7f14022a	Verdiğimiz rahatsızlıktan dolayı özür dileriz.
+0x7f14022b	En İyi İçerik Üreticileri Sıralaması geçici olarak askıya alınmıştır.
+0x7f14022c	Şablon indirme sayısı: %1$d
+0x7f14022d	"Kabul Et ve Devam Et" seçeneğine dokunarak {tos}En İyi İçerik Üreticileri Sıralaması için Ek Koşulları{/tos} kabul etmiş ve {pp}Gizlilik Politikamızı{/pp} aldığını onaylamış olursun.
+0x7f14022e	Milyonlarca Alight Motion kullanıcısı tarafından tanınan ve takdir edilen En İyi İçerik Üreticilerimizden biri olmak için çarpıcı şablonlarını paylaş ve sıralamada yüksel!
+0x7f14022f	En İyi Yaratıcılar Sıralaması
+0x7f140230	Tüm içerik oluşturucularının dikkatine! Muhteşem kreasyonlar için ödül kazanmak ister misin? İçerik Oluşturucu Programımıza katıl ve şablonlarınızı paylaşmaya başlayarak jeton kazan. Daha sonra bunları alışveriş kuponları veya PRO abonelik için kullanabilirsin. Yeteneğini dünyayla paylaş ve becerilerin için ödüllere doy!
+0x7f140231	İçerik Oluşturucu Programı'nı başlattık!
+0x7f140232	MH Bilgisi
+0x7f140233	PNG Olarak Geçerli Çerçeve
+0x7f140234	Özel
+0x7f140235	Lütfen aşağıdaki satırları silme.
+Sorununu daha iyi tanımlamamıza yardımcı olacaklar.
+0x7f140236	Cyberpunk Anime
+0x7f140237	Kiril Yazı Tipleri
+0x7f140238	Tarih
+0x7f140239	Şifre çözücü
+0x7f14023a	‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‏‏‏‏‏‎‏‏‏‏‏‎‎‎‏‏‎‏‏‎‎‏‏‏‏‏‏‎‏‎‎‏‏‎‎‎‏‏‏‏‎‎‏‎‎‎‎‏‎‏‎‏‎‏‏‏‏‎‎‎‎‏‏‏‎‎‎Invalid input‎‏‎‎‏‎
+0x7f14023b	Varsayılan Katman Süresi
+0x7f14023c	‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‏‏‏‏‎‏‎‏‏‏‏‎‎‏‏‎‏‏‎‏‎‎‏‎‏‎‏‎‏‏‎‎‎‎‏‏‏‎‏‏‎‏‏‎‏‏‏‏‏‏‏‏‏‏‏‏‎‏‏‏‏‎‏‎‏‎‎Pop-Up Window‎‏‎‎‏‎
+0x7f14023d	414370328124-4uocihe36cclhhtm4nr62trnd223ekr0.apps.googleusercontent.com
+0x7f14023e	Sil
+0x7f14023f	Hesabı Sil
+0x7f140240	Anlıyorum ve yine de hesabımı silmek istiyorum.
+0x7f140241	 Hesabınız silindikten sonra belirli veriler bir süre kayıtlarımızda tutulabilir. Daha fazla bilgi için lütfen Alight Creative [a href=https://alightcreative.com/privacy/]Gizlilik Politikasını[/a] inceleyin. 
+0x7f140242	Hesabınızı silmeye çalışırken bir şeyler ters gitti. Lütfen ağ bağlantınızı kontrol edin veya daha sonra tekrar deneyin.
+0x7f140243	Hesap Silme Başarısız
+0x7f140244	Hesabınızı silmeden önce yeniden kimlik doğrulaması yapmalısınız.
+0x7f140245	Hesabınızı sildikten sonra, oturum açmaya çalışırsanız, otomatik olarak yeni bir hesap oluşturulacaktır.
+0x7f140246	 Google Play Store üzerinden bir abonelik satın aldınız. Hesabınızı silmek, aboneliğinizi iptal etmez. Aboneliğinizi satın almak için kullandığınız Google Play Store hesabıyla oturum açtıktan sonra aboneliğinizi bir Android cihazda kullanabilirsiniz. Aboneliğinizi iptal etmek için lütfen Google Play Store'u ziyaret edin. 
+0x7f140247	 Apple App Store üzerinden bir abonelik satın aldınız. Hesabınızı silmek, aboneliğinizi iptal etmez. Aboneliğinizi satın almak için kullandığınız App Store hesabıyla oturum açtıktan sonra aboneliğinizi bir iPhone, iPad veya Mac'te kullanabilirsiniz. Aboneliğinizi iptal etmek için lütfen App Store'u ziyaret edin. 
+0x7f140248	ÖNEMLİ BİLGİ
+Lütfen hesabınızı silmeden önce bunu okuyun.
+0x7f140249	Tüm kareler silinsin mi?
+0x7f14024a	Öğeyi Sil
+0x7f14024b	Yazı Tipi Sil
+0x7f14024c	İçe Aktarılan Yazı Tipi Silinsin mi?
+0x7f14024d	Katmanı Sil
+0x7f14024e	Bu projeyi buluttan silmek istiyor musun?
+0x7f14024f	Delete user IDs
+0x7f140250	Hesabınız silinmiştir.
+0x7f140251	당사는 귀하의 당사 서비스 사용과 관련된 일부 데이터를 계속 보유할 수 있습니다. 모든 개인 정보를 삭제하려면 개인정보처리방침에 포함된 지침에 따라 개인정보보호 담당부서에 문의하십시오.
+0x7f140252	Gösteri
+0x7f140253	Demo modu
+0x7f140254	Demo Modu Etkin
+0x7f140255	Medya tarayıcısı yalnızca adında Demo olan albümlerde veya klasörlerde medya gösterir.
+0x7f140256	%s (Uyumluluk)
+0x7f140257	Alan Derinliği
+0x7f140258	Solgun UI Teması (Deneysel)
+0x7f140259	Bazı içerikler için renk kararını iyileştirebilecek, nötr grilere dayalı bir kullanıcı arayüzü renk düzenine geçer.
+0x7f14025a	 Ayrıntılar 
+0x7f14025b	Developer Settings
+0x7f14025c	Cihaz
+0x7f14025d	Cihaz Bilgileri
+0x7f14025e	Device/OS Info
+0x7f14025f	Boyut
+0x7f140260	Boyut
+0x7f140261	Overshoot'u Devre Dışı Bırak
+0x7f140262	%1$d gün ücretsiz, ardından %2$s/hafta
+0x7f140263	{strikethrough}%1$s{/strikethrough} %2$s/hafta
+0x7f140264	%1$d gün ücretsiz, ardından {strikethrough}%2$s{/strikethrough} %3$s/hafta
+0x7f140265	{strikethrough}%1$s{/strikethrough} %2$s/yıl
+0x7f140266	%1$d gün ücretsiz, ardından {strikethrough}%2$s{/strikethrough} %3$s/yıl
+0x7f140267	%1$d gün ücretsiz, ardından %2$s/yıl
+0x7f140268	Yazı Tiplerini Görüntüle
+0x7f140269	Dağıt
+0x7f14026a	Güncelleme
+0x7f14026b	Öğeyi İndir
+0x7f14026c	Öğeleri İndir
+0x7f14026d	Tekrar indirmek ister misiniz?
+0x7f14026e	İndir
+0x7f14026f	Bu proje zaten yerel olarak kaydedilmiş
+0x7f140270	İndirme başarısız
+0x7f140271	Projeni buluttan indiremedik. Bağlantını kontrol edip projenin buluttan silinmediğinden emin ol.
+0x7f140272	Bu projeyi okuyamadık. Alight Motion'ın en son sürümünü kullandığından emin ol.
+0x7f140273	Bu paket bir veya daha fazla %1$dx%2$d video dosyası içeriyor ancak bu cihaz yalnızca %3$d p'ye kadar video düzenlemeyi destekliyor.
+0x7f140274	Buluttan indirme başarısız oldu
+0x7f140275	İndirmeyi iptal et
+0x7f140276	İndirme işlemi devam ediyor...
+Lütfen uygulamayı veya bu ekranı kapatma.
+0x7f140277	Proje İndir
+0x7f140278	Projeleri İndir
+0x7f140279	Çizim
+0x7f14027a	‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‏‎‏‏‏‎‏‎‎‎‏‏‏‎‏‏‎‏‎‏‏‏‎‏‏‎‎‏‎‎‏‎‏‎‏‏‎‏‏‎‎‎‏‎‏‎‎‎‎‎‏‏‎‎‏‏‏‏‎‎‏‏‎‏‎Dropdown menu‎‏‎‎‏‎
+0x7f14027b	Çoğalt
+0x7f14027c	Öğeyi Çoğalt
+0x7f14027d	Katmanı Çoğalt
+0x7f14027f	İçeri Yavaşlat
+0x7f140280	İçeri Yavaşlat (Özel)
+0x7f140281	İçeri ve Dışarı Yavaşlat
+0x7f140282	İçeri ve Dışarı Yavaşlat (Özel)
+0x7f140283	Dışarı Yavaşlat
+0x7f140284	Dışarı Yavaşlat (Özel)
+0x7f140285	Sıçrama
+0x7f140286	İçe Sıçrama
+0x7f140287	Dışa Sıçrama
+0x7f140288	Kübik Bezier Hızlandırma
+0x7f140289	Hareket Hızı Eğrisi
+0x7f14028a	Döngüsel
+0x7f14028b	Çift Bezier
+0x7f14028c	Elastik
+0x7f14028d	Elastik Girişi
+0x7f14028e	Elastik Çıkışı
+0x7f14028f	Elastik Basamaklar
+0x7f140290	Doğrusal
+0x7f140291	Salınım
+0x7f140292	Rastgele
+0x7f140293	Tekrarla
+0x7f140294	Testere Dişi
+0x7f140295	Adımlar
+0x7f140296	Rastgele Adımlar
+0x7f140297	Düzenle
+0x7f140298	Çizimi Düzenle
+0x7f140299	Hareket hızı düzenleme
+0x7f14029a	Bu özellik animasyonu, yalnızca Hareketli Kareler Üyeleri tarafından kullanılabilen gelişmiş hareket hızı içerir. Hareket hızını yine de düzenleyebilirsiniz, ancak projeyi dışa aktarmak veya paylaşmak için bir üyeliğe ihtiyacınız olacaktır.
+0x7f14029b	Efekti Düzenle
+0x7f14029c	Bu efekt yalnızca Hareketli Kareler Üyeleri tarafından kullanılabilir. Yine de efekt özelliklerini düzenleyebilirsiniz, ancak projeyi dışa aktarmak veya paylaşmak için bir üyeliğe ihtiyacınız olacaktır.
+0x7f14029d	Grubu Düzenle
+0x7f14029e	Bağlantılı Öğeyi Düzenle
+0x7f14029f	Orijinal Öğeyi düzenle
+0x7f1402a0	Asıl projeyi düzenle
+0x7f1402a1	Noktaları Düzenle
+0x7f1402a2	Şekli Düzenle
+0x7f1402a3	Metni Düzenle
+0x7f1402a4	Düzenleme Zamanlayıcısını Sil
+0x7f1402a5	Düzenleme Zamanlayıcısını Duraklat
+0x7f1402a6	Düzenleme Zamanlayıcısını Sürdür
+0x7f1402a7	Düzenleme Zamanlayıcısını Başlat
+0x7f1402a8	Grup Düzenleme
+0x7f1402a9	Nokta Ekle
+0x7f1402aa	Açı Kilidi
+0x7f1402ab	Yolu Kapat
+0x7f1402ac	Noktayı Sil
+0x7f1402ad	Uzaklık Kilidi
+0x7f1402ae	Dizini Aç
+0x7f1402af	Nokta Türü
+0x7f1402b0	Yeni bir nokta eklemek için burayı kaydırın
+0x7f1402b1	Eğikliği ayarlamak için burayı kaydırın
+0x7f1402b2	Noktayı taşımak için burayı kaydırın
+0x7f1402b3	Bir sonraki noktayı konumlandırmak için burayı kaydırın; yerleştirmek için buraya dokunun.
+0x7f1402b4	Efekt
+0x7f1402b5	360º'lik bir fotoğrafı veya videoyu eşdüzgen biçiminde yeniden yönlendirir.Bu efekt, katmanı eşit açılı bir fotoğraf veya video olarak yorumlar, bunu bir küre üzerine yansıtır, küreyi döndürür ve ardından küreyi tekrar eşit köşeli formata yansıtır. Sonuç olarak 360 derecelik görüntü veya videoyu kaydeden orijinal kamera farklı bir açıda konumlandırılmış gibidir.
+0x7f1402b6	360º Yönlendirici Küre
+0x7f1402b7	360 derecelik bir fotoğrafı veya videoyu 360 derecelik bir kürenin içinden bakılıyormuş gibi düz bir yüzeye yansıtır.
+0x7f1402b8	360º Görüntüleyici
+0x7f1402b9	Pikselleri, bir grup renkle ne kadar yakından eşleştiklerine veya eşleşmediklerine göre işaretleyerek katmanın işaretlenmiş kısımlarını saydam hale getirir. Bu efekt, Chroma Key efektine benzerdir, ancak daha hassas kontrol ve daha fazla renk seçeneği sunar. Yeşil ekran veya mavi ekran için kullanışlıdır.
+0x7f1402ba	Gelişmiş Chroma Key
+0x7f1402bb	Katmanı dairesel bir yay boyunca büker.
+0x7f1402bc	Bük
+0x7f1402bd	Katmanın opaklığını, zaman içinde normal değeri ile sıfır değeri arasında değişerek otomatik olarak ayarlar.
+0x7f1402be	Yanıp Sönme
+0x7f1402bf	Blok Çözme
+0x7f1402c0	Rastgele oluşturulmuş dikdörtgen gürültü bloklarını katmanın opak bölümlerinin mevcut renkleriyle çoğaltır.
+0x7f1402c1	Kumlama Azaltma
+0x7f1402c2	Açma
+0x7f1402c3	Katmanı yüzey dokusu olarak kullanarak sahte bir 3B kutu oluşturur.
+0x7f1402c4	Kutu
+0x7f1402c5	Daha yumuşak bir bulanıklık için Gauss Bulanıklığını deneyin.
+0x7f1402c6	Çevreleyen dikdörtgen bir alandaki yakın piksellerin renklerinin ortalamasını alarak katmanı bulanıklaştırır (dolayısıyla kutu bulanıklığı).
+0x7f1402c7	Kutu bulanıklığı
+0x7f1402c8	Daha fazla yineleme daha iyi kalite verir ancak önizleme performansı yavaşlar. 2 yineleme öneririz.
+0x7f1402c9	Katmanın parlaklığını veya kontrastını ayarlar.
+0x7f1402ca	Parlaklık / Kontrast
+0x7f1402cb	Efekt Tarayıcısı
+0x7f1402cc	Katman yüzeyindeki tümsekleri veya düzensizlikleri modellemek için bir yükseklik haritası kullanır, ardından simüle edilmiş ışıklandırma ve gölgelendirme uygular.
+0x7f1402cd	Kabartma Haritası
+0x7f1402ce	Karikatür
+0x7f1402cf	Katmandaki kırmızı, yeşil, mavi ve alfa kanallarını yeniden eşler.
+0x7f1402d0	Kanal Yeniden Eşleşmesi (RGB)
+0x7f1402d1	Katmandaki ton, doygunluk, değer ve alfa kanallarını yeniden eşler.
+0x7f1402d2	Kanal Yeniden Eşleme (HSV)
+0x7f1402d3	Katmanın kırmızı, yeşil ve mavi kanallarını böler, birini sabit konumda tutar ve diğer iki kanalı zıt yönlere kaydırır.
+0x7f1402d4	RGB Bölünme
+0x7f1402d5	Katmanın opak kısımlarında bir dama tahtası deseni oluşturur.
+0x7f1402d6	Denetleyici
+0x7f1402d7	Izgara hizalı dikdörtgen parçaları saydam yaparak katmandan rastgele kaldırır. Zaman içinde giderek daha fazla dikdörtgenin kaldırılması için ana kare animasyonu uygulanabilir.
+0x7f1402d8	Denetleyicisi Çözülme
+0x7f1402d9	Belirli bir renge benzer tüm pikselleri ayırır ve katmanın bu kısımlarını saydam hale getirir. Yeşil ekran veya mavi ekran için kullanışlıdır.
+0x7f1402da	Yeşil Ekran
+0x7f1402db	Vorteks Bulanıklığındaki Kromatik Sapma
+0x7f1402dc	Kromatik Vorteks Bulanıklığı
+0x7f1402dd	Katmana, yaklaştırma ve uzaklaştırma efekti veren radyal bir bulanıklaştırma işlemi uygular. Bulanıklaştırma gücünü, her renk kanalı için dinamik olarak ayarlar.
+0x7f1402de	Kromatik Yakınlaştırma Bulanıklığı
+0x7f1402df	Katmanı, suya düşen bir çakıl taşının neden olduğu dalgalanmalara benzer şekilde, bir merkez nokta etrafında bir desen eşmerkezli daireler halinde bozar.
+0x7f1402e0	Dairesel Dalgalanma
+0x7f1402e1	Katmanın opak kısımlarına prosedürel olarak oluşturulmuş bir bulut deseni getirir.
+0x7f1402e2	Bulutlar
+0x7f1402e3	Gölgelere, orta tonlara ve açık tonlara göre Kırmızı, Yeşil ve Mavi kanallarda belirli yerlere yönelik ayarlamalar yapar.
+0x7f1402e4	Renk Dengelemesi
+0x7f1402e5	Orijinal parlaklığı koruyarak katmanın rengini değiştirir.
+0x7f1402e6	Renklendirme
+0x7f1402e7	Bir fotoğrafı veya videoyu, farklı renk sıcaklığına sahip bir ışık kaynağıyla aydınlatılmış gibi görünecek şekilde düzeltir. Bir sahnenin havasını değiştirmek veya yanlış aydınlatmayı veya beyaz dengesini düzeltmek için kullanışlıdır.
+0x7f1402e8	Renk sıcaklığı
+0x7f1402e9	Yükseltme, gama ve kazanca göre bölümlere ayrılmış bir fotoğraf veya videonun koyu ve açık kısımlarının rengini yumuşak bir şekilde ayarlayın. Bunu çeşitli renk görünümleri elde etmek, videonun ruh halini değiştirmek veya farklı çekimlerin rengiyle eşleştirmek için kullanın.
+0x7f1402ea	Renk Ayarı
+0x7f1402eb	Her şerit için bir yükseklik haritası olarak katman parlaklığını veya opaklığını kullanarak önden arkaya katmanlı ince kağıt benzeri malzemeden şeritleri işler.
+0x7f1402ec	Kontur Şeritleri
+0x7f1402ed	Katmanın opak kısımlarının dış hatlarının etrafında bir degrade oluşturur.
+0x7f1402ee	Kontur Eğimi
+0x7f1402ef	Katmanın opak kısımlarının dış hatlarının etrafına bir veya daha fazla çizgi çizer.
+0x7f1402f0	Kontur Çizgileri
+0x7f1402f1	Arka planı katmana kopyalar ve katmanı etkili bir şekilde bir ayarlama katmanına dönüştürür. Bundan sonra katmana uygulanan efektler, katmanın opak kısımlarının kapladığı arka plan piksellerine uygulanır.
+0x7f1402f2	Arka Planı Kopyala
+0x7f1402f3	Bu efekt, bu katmanın arkasındaki pikselleri geçerli katmana kopyalar. Bu efekti, arka plana uygulamak için diğer efektlerle birlikte kullanın. Örneğin arka planı bulanıklaştırmak için Arka Planı Kopyala'yı uyguladıktan sonra Kutu Bulanıklığını kullanmak için.
+0x7f1402f4	Bir metin katmanındaki mevcut sayıları, eklenen veya sabit bir değerle çarpılan aynı sayıyla değiştirir. Artan veya azalan animasyonlar oluşturmak için kullanışlıdır.
+0x7f1402f5	Yukarı/Aşağı Say
+0x7f1402f6	Katmanı yüzey dokusu olarak kullanarak sahte bir 3B küp oluşturur.
+0x7f1402f7	Küp
+0x7f1402f8	Katmanı bir ucundan dairesel bir şekil alacak şekilde kıvırarak deforme eder.
+0x7f1402f9	Kıvrım
+0x7f1402fa	Katmanı yüzey dokusu olarak kullanarak sahte bir 3B silindir oluşturur.
+0x7f1402fb	Silindir
+0x7f1402fc	Parlaklık eşiğine göre bir fotoğraf veya video katmanındaki daha koyu alanların etrafında koyu çiçekler oluşturur.
+0x7f1402fd	Karanlık Parıltı
+0x7f1402fe	Sabit yöndeki hareketin neden olduğu bulanıklığa benzer şekilde, belirli bir açı boyunca yakın piksel renklerinin ortalamasını alarak katmanı bulanıklaştırır.
+0x7f1402ff	Yönlü Bulanıklık
+0x7f140300	Efekt Ayrıntıları
+0x7f140301	Fark Matı
+0x7f140302	Katmandaki piksellerin rengine göre arka plandaki pikselleri değiştirir.
+0x7f140303	Yer Değiştirme Haritası
+0x7f140304	Katmandaki piksellerin rengine göre arka plandaki pikselleri açısal olarak değiştirir.
+0x7f140305	Kutup Yer Değiştirme Haritası
+0x7f140306	Katmandaki pikselleri rastgele kaldırır. Bu efekt, bir piksel çözünme geçişi oluşturmak için canlandırılabilir.
+0x7f140307	Eritme
+0x7f140308	Katmanın opak kısımlarında rastgele noktalardan oluşan bir desen çizer. Her nokta rastgele yerleştirilir, ancak bu durum kontrol edilebilir, böylece birlikte alındığında noktaların genel dağılımı yaklaşık olarak aynı olur.
+0x7f140309	Noktalar
+0x7f14030a	Katmanın vektör anahattının başını ve sonunu kırpar, böylece anahat yalnızca kısmen çizilir.
+0x7f14030b	Çizim İlerlemesi
+0x7f14030c	Katmanın bir veya daha fazla kopyasını veya yankısını, yalnızca katmana uygulanan ana kare animasyonuna bağlı olarak, göründüğü veya zamanın farklı noktalarında görüneceği şekilde oluşturur.
+0x7f14030d	Anahtar Kareler Yankı Yap
+0x7f14030e	Bir fotoğraf veya videodaki kenarları algılar ve çevresinde bir parıltı oluşturur.
+0x7f14030f	Kenar Parlaması
+0x7f140310	Katmanın opak kısımlarının çevresinde, elektrik yayları gibi görünecek şekilde canlandırılabilen parlayan enerji benzeri bir dış hat ve isteğe bağlı kontur çizgileri oluşturur.
+0x7f140311	Elektrikli Kenarlar
+0x7f140312	Katmanı yüzey dokusu olarak kullanarak sahte bir 3B elipsoid oluşturur.
+0x7f140313	Elipsoit
+0x7f140314	Katman içindeki iki nokta arasında bir enerji ışını oluşturur.
+0x7f140315	Enerji Işını
+0x7f140316	Fotoğraf ve video katmanlarının pozlama, gama eğrisi ve parlaklık ofsetini ayarlar.
+0x7f140317	Işıklama / Gama
+0x7f140318	Katmanı başlangıcında soldurmak ve sonunda tekrar açmak için katman opaklığını otomatik olarak canlandırır.
+0x7f140319	Kararma Geçiş
+0x7f14031a	Hızlı Kutu Bulanıklığı
+0x7f14031b	Daha fazla yineleme daha iyi kalite verir ancak önizleme performansı yavaşlar. 3 yineleme öneririz.
+0x7f14031c	Tap *** next to any effect to add it to your favorites.
+0x7f14031d	Alfa kanalını bulanıklaştırarak katmanın opak kısmının kenarlarını yumuşatır.
+0x7f14031e	Yumuşat
+0x7f14031f	Katmanın arkasındaki alanı, bulanıklık, doygunluk, renk tonu ve parlaklık gibi isteğe bağlı ayarlamalarla doldurarak, farklı en-boy oranı veya yönlendirmeyle bir projede kullanmak üzere bir fotoğrafı veya videoyu hızla uyarlamanın kolay bir yolunu sağlar.
+0x7f140320	Arkasını Doldur
+0x7f140321	Yakındaki pikseller arasındaki parlaklıkta keskin değişiklikleri algılayarak bir fotoğraf veya video katmanındaki kenarları bulur.
+0x7f140322	Sınırları Tespit Et
+0x7f140323	Opaklığı zaman içinde otomatik olarak ayarlayarak katmanı rastgele titreştirir.
+0x7f140324	Titreme
+0x7f140325	Katmanı, belirtilen bir eksen boyunca 3B olarak çevirir.
+0x7f140326	Katmanı Ters Çevir
+0x7f140327	Ters Çevir
+0x7f140328	Ters Çevir (Uyumluluk)
+0x7f140329	Katmanın opak kısımlarını, ayrı ayrı konumlandırılmış dört renk arasında yapılan bir degradeyle kaplar.
+0x7f14032a	Dört Renkli Gradyan
+0x7f14032b	Prosedürel olarak oluşturulmuş bir fraktal desen kullanarak katmanı deforme eder. Ateş, su ve ısı gibi gerçek dünya olaylarının neden olduğu bozulmaları simüle etmek için kullanışlıdır.
+0x7f14032c	Fraktal Çözgü
+0x7f14032d	Bir gauss işlevi kullanarak katmana hızlı, pürüzsüz bir bulanıklık uygular, katmandaki gürültüyü ve ayrıntıları azaltır.
+0x7f14032e	Gauss Bulanıklığı
+0x7f14032f	Katmanı, opak kısımlar eğimli camdan yapılmış gibi, arka planı kırarak ve aynasal açık tonları üst üste bindirerek oluşturur.
+0x7f140330	Bardak
+0x7f140331	Katmanın opak kısımlarının dış tarafına bir ışıma çizer.
+0x7f140332	Parıltı
+0x7f140333	Katmanın opak kısımlarının iç kenarları boyunca bir ışıma çizer.
+0x7f140334	İç ışıma
+0x7f140335	Parlaklık bandı ile tanımlanan katmanın bir bölgesi içinde yumuşak bir ışıma ile birleştirilmiş bir bulanıklık oluşturur.
+0x7f140336	Parlak Tarama
+0x7f140337	Gradyan Yer Değiştirme
+0x7f140338	Katmandaki renkleri açıklıklarına göre bir gradyanla eşler.
+0x7f140339	Gradyan haritası
+0x7f14033a	Katmanın opak kısımlarını bir degradeyle kaplar.
+0x7f14033b	Gradyan Kaplama
+0x7f14033c	Katmanın opak kısımlarını ızgara çizgileriyle kaplar.
+0x7f14033d	Izgara
+0x7f14033e	Parçaları Büyüt
+0x7f14033f	Katmanın merkezinde ve iç kenarlarında önceden belirlenmiş dokulara veya tanelere göre birden fazla simüle edilmiş grunge, kir, leke, nokta, boya ve kusur katmanları oluşturur ve katmana eskitilmiş, yıpranmış veya dokulu bir görünüm katar.
+0x7f140340	Grunge
+0x7f140341	Katmandaki sürekli tonları, gazete veya çizgi roman baskısında kullanılan işleme benzer şekilde değişen boyutlarda tek renkli noktaların bir deseniyle değiştirir.
+0x7f140342	Yarı Ton Noktaları
+0x7f140343	Katmandaki sürekli tonları, dergi veya çizgi roman baskısında kullanılan işleme benzer şekilde, her CMYK renk kanalı için farklı boyutlarda nokta deseniyle değiştirir.
+0x7f140344	CMYK Yarı Ton Noktaları
+0x7f140345	Katmandaki sürekli tonları, gazete veya çizgi roman baskısında kullanılan işlemin bir varyasyonu olan, değişen kalınlıktaki tek renkli çizgilerden oluşan bir desenle değiştirir.
+0x7f140346	Yarı Ton Çizgiler
+0x7f140347	Katmanı yüzey dokusu olarak kullanarak sahte bir 3B kalp oluşturur.
+0x7f140348	Kalp
+0x7f140349	Bir altıgen dizisi halinde katmanın opak kısımlarını kapsar.
+0x7f14034a	Altıgen Dizi
+0x7f14034b	Katmanı yüzey dokusu olarak kullanarak sahte 3B altıgen prizma oluşturur.
+0x7f14034c	Altıgen Prizma
+0x7f14034d	Katmanı altıgen döşemelerden oluşan bir ızgaraya böler ve her döşemedeki pikselleri bağımsız olarak döndürür.
+0x7f14034e	Altıgen Çini Döndür
+0x7f14034f	Katmanı altıgen karolardan oluşan bir ızgaraya böler ve her bir döşemenin içeriğini rastgele bir yönde kaydırır.
+0x7f140350	Altıgen Döşeme Kayması
+0x7f140351	Katmanı altıgen fayans deseninde tekrarlayarak ekranı doldurur.
+0x7f140352	Altıgen Döşeme
+0x7f140353	Katmanın en açık ve en koyu kısımlarının yoğunluğunu bağımsız olarak ayarlar.
+0x7f140354	Açıktonlar ve Gölgeler
+0x7f140355	Katmanı yüzey dokusu olarak kullanarak, yanları açılıp kapatılabilen, önceden ayarlanmış şekillerle delinmiş veya dışa doğru kaydırılmış sahte 3D içi boş bir kutu oluşturur.
+0x7f140356	İçi boş kutu
+0x7f140357	Gri tonlamalı bir görüntüyü (veya renkli bir görüntünün parlaklık değerlerini), seçilen iki tonu temel alarak yoğun bir renk gradyanında yeniden eşler.
+0x7f140358	Sıcak Renk
+0x7f140359	Katmandaki renk tonlarını döndürür.
+0x7f14035a	Renk Tonu Kaydırma
+0x7f14035b	Opaklığı bulanıklaştırmadan katmanın opak kısımlarını bulanıklaştırır.
+0x7f14035c	İç Bulanıklık
+0x7f14035d	Katmanın kırmızı, yeşil veya mavi kanallarını bağımsız olarak ters çevirir.
+0x7f14035e	Tersine Çevir
+0x7f14035f	Katmanın opak kısımlarında akan parıldayan bir desen oluşturur.
+0x7f140360	Yanardönerlik
+0x7f140361	Katmanı, seçilen bir açı boyunca otomatik olarak zaman içinde rasgele ileri geri atlatır.
+0x7f140362	Rastgele Titreşim
+0x7f140363	Katmanın simetrik radyal yansımalarını oluşturur.
+0x7f140364	Kaleydoskop
+0x7f140365	Chroma Key gibi mat bir efekt uyguladıktan sonra kalan yeşil kenar gibi katmanın kenarlarına yakın kalan yeşil ekran veya mavi ekran dökülmesini, katmanın kenarlarının çevresinde saçaklı bir bölgeyi izole ederek ve orijinal parlaklığını koruyarak dış mekan tonunu ve doygunluğunu dışa doğru yayar ve temizler.
+0x7f140366	Key Dökülme Temizleyici
+0x7f140367	Orta alan dışında katmana açısal bir bulanıklık uygular.
+0x7f140368	Lens bulanıklığı
+0x7f140369	Katmanda bir mercek parlaması oluşturur.
+0x7f14036a	Mercek Parlaması
+0x7f14036b	Parlaklık eşiğine göre bir fotoğraf veya video katmanındaki daha açık alanların etrafında yumuşak bir parlaklık ve isteğe bağlı bir hale efekti oluşturur.
+0x7f14036c	Işık Parlaması
+0x7f14036d	Katmandaki iki nokta arasında fraktal yıldırım yayları oluşturur.
+0x7f14036e	Şimşek
+0x7f14036f	Katmanı belirli bir açıyla kaydırarak ve üst üste binen pikselleri birlikte karıştırarak çizgi şeklinde çizgiler oluşturur.
+0x7f140370	Doğrusal Çizgiler
+0x7f140371	Katmanın opak kısımlarından uzanan uzun paralel gölgeler oluşturur.
+0x7f140372	Uzun Gölge
+0x7f140373	Katmandaki piksellerin parlaklığına bağlı olarak katmandan bir maske çıkarır, isteğe bağlı olarak katmanın aşırı açık ve koyu alanlarındaki gürültüyü keser, ardından projeye düz bir renk damgalamak için maskeyi kullanır.
+0x7f140374	Luma Damgası
+0x7f140375	Belirli bir eşikten daha açık veya koyu olan tüm pikselleri ayırarak katmanın bu kısımlarını saydam hale getirir.
+0x7f140376	Luma Anahtarı
+0x7f140377	Katmanı saydam yapar ve katmanın arkasındaki alanı sanki bir büyüteçmiş gibi büyütür.
+0x7f140378	Arka Planı Büyüt
+0x7f140379	Katmanın arkasındaki arka planı, katman parlaklığına bağlı olarak bulanıklaştırma gücü ile bulanıklaştırır.
+0x7f14037a	Maske Bulanıklığı
+0x7f14037b	Opak kısımları küçülterek tabakanın şeffaf kısımlarını genişletir.
+0x7f14037c	Mat Boğma
+0x7f14037d	Katmanın iç kenarı etrafında dar bir saçaklı şeridi izole eder ve bu şeritteki ton ve doygunluğu katmanın arkasındaki ton ve doygunluk ile değiştirerek orijinal parlaklığı korur. Örtü kenarındaki başıboş renkleri azaltmak için bir örtü veya anahtar efekti uyguladıktan sonra bunu kullanın.
+0x7f14037e	Mat Kenar
+0x7f14037f	Katman Taşı ve Dönüştür ayarlarından konum, döndürme ve ölçekleme ana kare animasyonunun yanı sıra hareket bulanıklığıyla uyumlu diğer bazı efektlerden gelen harekete göre katmanı bulanıklaştırarak hareket bulanıklığını simüle eder.
+0x7f140380	Hareket bulanıklığı
+0x7f140381	Kullanmak için: Taşı ve Çevir'i kullanarak katmanı canlandırın (bulanıklık otomatik olarak uygulanır).
+0x7f140382	Katmanı, isteğe bağlı alfa ve karıştırma modu kontrolüyle, yatay veya dikey eksen boyunca aynalanmış bir kopyasıyla kaplar.
+0x7f140383	Ayna
+0x7f140384	Morph Yolu
+0x7f140385	Katmanı kareler dizisine böler ve her karenin renginin ortalamasını alarak pikselli bir görünüm sağlar.
+0x7f140386	Mozaik
+0x7f140387	Katmanı, hemen altındaki katmanın anahat yolu boyunca yarı yolda bir noktada konumlandırır.
+0x7f140388	Yol Boyunca Hareket Et
+0x7f140389	Rastgele gürültüyü katmanın opak kısımlarıyla karıştırır.
+0x7f14038a	Karlanma
+0x7f14038b	Katmanı yüzey dokusu olarak kullanarak sahte 3 boyutlu normal bir oktahedron oluşturur.
+0x7f14038c	Sekizyüzlü
+0x7f14038d	Katmanın sınırlayıcı kutusunun kenarlarını sararak katman içeriğini kaydırır.
+0x7f14038f	Hata dağılımını kullanarak sınırlı bir palete sahip bir fotoğraf veya video katmanını işler, ancak kasıtlı bozulmalar oluşturmak için niceleme hatalarını abartır veya azaltır. Tek görüntüler tanınmaz hale gelse de hareket kümesi gözle seçilebilir. Bu efekt, David Van Brink'in özel katkılarıyla Omino Suite tarafından sunulmaktadır.
+0x7f140390	Omino Difüzyonu+
+0x7f140391	Katmanı, kırılma ve parlak kontur ile camdan yapılmış gibi ve görünür spektrumun yedi bölgeye bölünmesine dayalı renk sapmaları ile işler. Katman parlaklığı isteğe bağlı olarak bir yükseklik haritası olarak kullanılabilir. Bu efekt, David Van Brink'in özel katkılarıyla Omino Suite tarafından sunulmaktadır.
+0x7f140392	Omino Cam
+0x7f140393	Katmanı durmaksızın ileri geri hareket ettirir.
+0x7f140394	Salınım
+0x7f140395	Katmanın bir köşesini, katman, kağıt veya ince plastikten yapılmış gibi yukarı doğru kıvırır.
+0x7f140396	Sayfa Kıvrımı
+0x7f140397	Katmandaki piksel renklerini paletteki en yakın eşleşen renkle eşler.
+0x7f140398	Palet Haritası
+0x7f140399	2 bit Gri
+0x7f14039a	3 bit RGB
+0x7f14039b	Açı 1
+0x7f14039c	Açı 2
+0x7f14039d	Doğru
+0x7f14039e	Uyarlanabilir
+0x7f14039f	Ekle
+0x7f1403a0	Alfa
+0x7f1403a1	Alternatif Kopyalar
+0x7f1403a2	Ortam
+0x7f1403a3	Ortam Yoğunluğu
+0x7f1403a4	Miktar
+0x7f1403a5	Genlik
+0x7f1403a6	Çapa
+0x7f1403a7	Açı
+0x7f1403a8	Açı Varyansı
+0x7f1403a9	Her ikisi de
+0x7f1403aa	Saat Yönünde
+0x7f1403ab	Saat Yönünün Tersine
+0x7f1403ac	Açısal
+0x7f1403ad	Üstte
+0x7f1403ae	Otomatik Döndür
+0x7f1403af	Otomatik Döndürme
+0x7f1403b0	Ort.
+0x7f1403b1	Eksen
+0x7f1403b2	X Ekseni
+0x7f1403b3	Y Ekseni
+0x7f1403b4	Katmanın Arkası
+0x7f1403b5	Arka Taraf
+0x7f1403b6	Arkaplan
+0x7f1403b7	Ana Renk
+0x7f1403b8	Esas
+0x7f1403b9	Ofsetten önce
+0x7f1403ba	Karşı Tarafa Eğilim
+0x7f1403bb	Aynı Tarafa Eğilim
+0x7f1403bc	Dondur
+0x7f1403bd	Başlamadan önce
+0x7f1403be	Arkasında
+0x7f1403bf	Eğim
+0x7f1403c0	AP Alpha
+0x7f1403c1	Arkaplan Parlaklığı
+0x7f1403c2	AP Ofseti
+0x7f1403c3	AP Ölçeği
+0x7f1403c4	Sapma
+0x7f1403c5	Siyah
+0x7f1403c6	Siyah/Beyaz
+0x7f1403c8	Karıştır
+0x7f1403c9	Karıştırma modu
+0x7f1403ca	Göz Kırpma İmleci
+0x7f1403cb	Mavi
+0x7f1403cc	Mavi Gama
+0x7f1403cd	Bulanıklık
+0x7f1403ce	Alt
+0x7f1403cf	Alt Taraf
+0x7f1403d0	Parlaklık
+0x7f1403d1	Kabartma Eşlemi
+0x7f1403d2	_
+0x7f1403d3	█
+0x7f1403d4	▌
+0x7f1403d5	▁
+0x7f1403d6	▏
+0x7f1403d7	▕
+0x7f1403d8	▯
+0x7f1403d9	▎
+0x7f1403da	Kamera
+0x7f1403db	Merkez
+0x7f1403dc	CGA Mavi/Camgöbeği/Galibarda/Beyaz
+0x7f1403dd	CGA Camgöbeği/Galibarda/Beyaz
+0x7f1403de	CGA Yeşil/Kırmızı/Sarı
+0x7f1403df	Kanal
+0x7f1403e0	Karakter seti
+0x7f1403e1	Boğma
+0x7f1403e2	Renk Sapmaları
+0x7f1403e3	Daire
+0x7f1403e4	Dairesel Kırpma
+0x7f1403e5	Dairesel Kesim
+0x7f1403e6	Yüksek Kesim
+0x7f1403e7	Düşük Kesim
+0x7f1403e8	Kapalı
+0x7f1403e9	Renk
+0x7f1403ea	Renk 1
+0x7f1403eb	Renk 10
+0x7f1403ec	Renk 11
+0x7f1403ed	Renk 12
+0x7f1403ee	Renk 13
+0x7f1403ef	Renk 14
+0x7f1403f0	Renk 15
+0x7f1403f1	Renk 16
+0x7f1403f2	Renk 2
+0x7f1403f3	Renk 3
+0x7f1403f4	Renk 4
+0x7f1403f5	Renk 5
+0x7f1403f6	Renk 6
+0x7f1403f7	Renk 7
+0x7f1403f8	Renk 8
+0x7f1403f9	Renk 9
+0x7f1403fa	Renk sapması
+0x7f1403fb	Çizgi Rengi
+0x7f1403fc	Yeni Renk
+0x7f1403fd	Rengi Değiştir
+0x7f1403fe	Boyama
+0x7f1403ff	Küp
+0x7f140400	Katman
+0x7f140401	Beşgen
+0x7f140402	Katı
+0x7f140403	Çizgiler
+0x7f140404	Üçgenler
+0x7f140405	Üç renkli
+0x7f140406	Sıcaklık
+0x7f140407	Karmaşıklık
+0x7f140408	Bileşen
+0x7f140409	Kontur
+0x7f14040a	Harf
+0x7f14040b	Satırı
+0x7f14040c	Kelime
+0x7f14040d	Bileşik
+0x7f14040e	Örnek Ekseni Koru
+0x7f14040f	Sadece İçerik
+0x7f140410	Kontür
+0x7f140411	Kontrast
+0x7f140412	Alfa Katmanı Kopyala
+0x7f140413	Orijinali Kopyala
+0x7f140414	Çekirdek
+0x7f140415	Sayı
+0x7f140416	Kırp
+0x7f140417	Kıvrılma Noktası
+0x7f140418	İmleç
+0x7f140419	Özel 2 Renkli
+0x7f14041a	Özel 3 Renkli
+0x7f14041b	Özel 4 Renkli
+0x7f14041c	Özel 5 Renkli
+0x7f14041d	Özel 6 Renkli
+0x7f14041e	Özel 8 Renkli
+0x7f14041f	Özel Palet
+0x7f140420	M/K
+0x7f140421	Sönümleme
+0x7f140422	Karanlık Madde
+0x7f140423	Koyuluk
+0x7f140424	Bordür kaldırma
+0x7f140425	Yoğunluk
+0x7f140426	Derinlik
+0x7f140427	Derinlik 1 renkli
+0x7f140428	Derinlik 2 renkli
+0x7f140429	Derinlik 3 renkli
+0x7f14042a	Derinlik + Rastgele
+0x7f14042b	Ayrıntı
+0x7f14042c	Dağınık Yansıma Açısı
+0x7f14042d	Dağınık Yansıma Rengi
+0x7f14042e	Dağınık Yansıma Yüksekliği
+0x7f14042f	Dağınık Yansıma Yoğunluğu
+0x7f140430	Difüzyon
+0x7f140431	Yön
+0x7f140432	Yönlü Gölgelendirme
+0x7f140433	Yer değiştirme 1
+0x7f140434	Yer değiştirme 2
+0x7f140435	Mesafe
+0x7f140436	Distorsiyon
+0x7f140437	Soldurma/Yakma
+0x7f140438	Aşağı
+0x7f140439	Düşen Gölge
+0x7f14043a	İçeri Sok
+0x7f14043b	Dışarı Çıkar
+0x7f14043c	Kenar
+0x7f14043d	Kenar Rengi
+0x7f14043e	Kenar Boyutu
+0x7f14043f	Kenar Değeri
+0x7f140440	Kenarlar
+0x7f140441	Ayna
+0x7f140442	Tekrarla
+0x7f140443	Karo
+0x7f140444	Temizle
+0x7f140445	EGA Klasik
+0x7f140446	EGA Canlı
+0x7f140447	Yükseklik
+0x7f140448	Bitir
+0x7f140449	Hata Ağırlığı
+0x7f14044a	Evrim
+0x7f14044b	Tam
+0x7f14044c	Hariç Tut
+0x7f14044d	Hariç tut 1
+0x7f14044e	Hariç tut 2
+0x7f14044f	Hariç tut 3
+0x7f140450	Poz
+0x7f140451	Ekstremumlar
+0x7f140452	Karartma
+0x7f140453	Soluk Renk
+0x7f140454	Solma Tipi
+0x7f140455	Yumuşat
+0x7f140456	Özellik Boyutu
+0x7f140457	ÖP Alpha
+0x7f140458	ÖP Ofseti
+0x7f140459	ÖP Ölçeği
+0x7f14045a	Doldur
+0x7f14045b	Dolgu Rengi
+0x7f14045c	Düzleştir
+0x7f14045d	Titreşim
+0x7f14045e	Sis
+0x7f14045f	Sis Rengi
+0x7f140460	Çerçeveler
+0x7f140461	Dondur
+0x7f140462	Sıklık
+0x7f140463	Merkezden
+0x7f140464	Ön Gölge
+0x7f140465	Ön Taraf
+0x7f140466	Beyaz Ayarı
+0x7f140467	Gama
+0x7f140468	Gauss
+0x7f140469	Parıltı
+0x7f14046a	Parıltılı Renk
+0x7f14046b	Parlama Rengi
+0x7f14046c	Doğrusal
+0x7f14046d	Radyal
+0x7f14046e	Süpürme
+0x7f14046f	Tane
+0x7f140470	Gri, 3 Seviye
+0x7f140471	Gri, 4 Seviye
+0x7f140472	Yeşil
+0x7f140473	Yeşil Gama
+0x7f140474	Hale
+0x7f140475	Hale Rengi
+0x7f140476	Halo Yayılımı
+0x7f140477	Halo Gücü
+0x7f140478	Sertlik
+0x7f140479	Baş Uzunluğu
+0x7f14047a	Baş Genişliği
+0x7f14047b	Yükseklik
+0x7f14047c	Yükseklik Haritası
+0x7f14047d	Gizli
+0x7f14047e	Yüksek
+0x7f14047f	Vurgular
+0x7f140480	Yatay
+0x7f140481	Renk Özü
+0x7f140482	Renk Özü Kaydırma
+0x7f140483	İçinde
+0x7f140484	Dahil et
+0x7f140485	Gölgeleri Dahil Et
+0x7f140486	İçeri/Dışarı
+0x7f140487	Yoğunluk
+0x7f140488	İç
+0x7f140489	İç Renk
+0x7f14048a	Renk İlişkilendirme
+0x7f14048b	Tersine Çevir
+0x7f14048c	Maviyi Ters Çevir
+0x7f14048d	Yeşil Ters Çevir
+0x7f14048e	Kırmızıyı Ters Çevir
+0x7f14048f	Taneleri Ters Çevir
+0x7f140490	Yinelemeler
+0x7f140491	Z Titreme
+0x7f140492	Yeşil Ekran Rengi
+0x7f140493	Boşluk Miktarı
+0x7f140494	Katman
+0x7f140495	Katman Parlaklığı
+0x7f140496	Sol
+0x7f140497	Sol Taraf
+0x7f140498	Uzunluk
+0x7f140499	Harf aralığı
+0x7f14049a	Siyah Ayarı
+0x7f14049b	Işık
+0x7f14049c	Işık Açısı
+0x7f14049d	Açık Renk
+0x7f14049e	Aydınlatma
+0x7f14049f	Aydınlatmayı Etkinleştir
+0x7f1404a0	Çizgi Genişliği
+0x7f1404a1	Doğrusal
+0x7f1404a2	Satır aralığı
+0x7f1404a3	Parlaklığı Kilitle
+0x7f1404a4	Doygunluğu Kilitle
+0x7f1404a5	Düşük
+0x7f1404a6	Parlaklık
+0x7f1404a7	Luma
+0x7f1404a8	Luma Hassasiyeti
+0x7f1404a9	Parlaklık
+0x7f1404aa	Büyüklük
+0x7f1404ab	E/Y
+0x7f1404ac	Katmanı Büyüt
+0x7f1404ad	Büyüklük
+0x7f1404af	Katmana Maske
+0x7f1404b0	Eşleşme Oranı
+0x7f1404b1	Malzeme
+0x7f1404b2	Maks.
+0x7f1404b3	Büyüt
+0x7f1404b4	Orta tonlar
+0x7f1404b5	Min.
+0x7f1404b6	Küçült
+0x7f1404b7	Ayna
+0x7f1404b8	Mod
+0x7f1404b9	Koyu
+0x7f1404ba	Açık
+0x7f1404bb	Luma
+0x7f1404bc	Maske
+0x7f1404bd	Tek Renkli
+0x7f1404be	Çarp
+0x7f1404bf	Doğrusal Çizgi
+0x7f1404c0	Yağmur
+0x7f1404c1	Dönüş Çizgisi
+0x7f1404c2	Girdap Çizgisi
+0x7f1404c3	Yakınlaştırma Çizgisi
+0x7f1404c4	En Yakın
+0x7f1404c5	Yok
+0x7f1404c6	Normal
+0x7f1404c7	Noktalar
+0x7f1404c8	Işınlar
+0x7f1404c9	Yüzler
+0x7f1404ca	Oktav
+0x7f1404cb	Kapalı
+0x7f1404cc	Kapa
+0x7f1404cd	Ofset
+0x7f1404ce	Opaklık
+0x7f1404cf	Yörünge
+0x7f1404d0	Yönelim
+0x7f1404d1	Başlangıç Noktası
+0x7f1404d2	Dışında
+0x7f1404d3	Dış Işıma
+0x7f1404d4	Başlangıç
+0x7f1404d5	Üzerine
+0x7f1404d6	Taşma
+0x7f1404d7	Üstüne bindir
+0x7f1404d8	Kapla
+0x7f1404d9	Dolgu Rengini Geçersiz Kıl
+0x7f1404da	Aşma
+0x7f1404db	Palet
+0x7f1404dc	Paralaks
+0x7f1404dd	Delik Boyutu
+0x7f1404de	Faz
+0x7f1404df	Eksen
+0x7f1404e0	Nokta 1
+0x7f1404e1	Nokta 2
+0x7f1404e2	Nokta 3
+0x7f1404e3	Nokta 4
+0x7f1404e4	Nokta 5
+0x7f1404e5	Nokta Uzunluğu
+0x7f1404e6	Konum
+0x7f1404e7	Konum 1
+0x7f1404e8	Konum 2
+0x7f1404e9	Konum 3
+0x7f1404ea	Konum 4
+0x7f1404eb	Parlaklığı Koru
+0x7f1404ec	Alanı Koru
+0x7f1404ed	İlerleme
+0x7f1404ee	Delik Aç
+0x7f1404ef	Kalite
+0x7f1404f0	Radyal
+0x7f1404f1	Yarıçap
+0x7f1404f2	Yarıçap Ayarı
+0x7f1404f3	İç Yarıçap
+0x7f1404f4	Dış Yarıçap
+0x7f1404f5	Rampa
+0x7f1404f6	Rastgele 1 renkli
+0x7f1404f7	Rastgele 2 renkli
+0x7f1404f8	Rastgele 3 renkli
+0x7f1404f9	Rastgele Sıra
+0x7f1404fa	Rastgelelik
+0x7f1404fb	Aralık
+0x7f1404fc	Aralık Dönüşümü
+0x7f1404fd	Hassasiyet
+0x7f1404fe	Kırmızı
+0x7f1404ff	Kırmızı Gama
+0x7f140500	Yansımalar
+0x7f140501	Kırılım
+0x7f140502	Göreli
+0x7f140503	Konturları Oluştur
+0x7f140504	Tekrarla
+0x7f140505	Tekrar X
+0x7f140506	Tekrar Y
+0x7f140507	Ters
+0x7f140508	RGB Posterleştir, 2 Seviye
+0x7f140509	RGB Posterleştir, 3 Seviye
+0x7f14050a	RGB Posterleştir, 4 Seviye
+0x7f14050b	Sağ
+0x7f14050c	Sağ Taraf
+0x7f14050d	Dönüş
+0x7f14050e	Dönme Ağırlığı
+0x7f14050f	Rotasyon Aralığı
+0x7f140510	Pürüzlülük
+0x7f140511	Yuvarlaklık
+0x7f140512	RPM
+0x7f140513	Örnekleme
+0x7f140514	Doygunlaştır ve Posterleştir
+0x7f140515	Doygunluk
+0x7f140516	Ölçek
+0x7f140517	Parlaklık Ölçeği
+0x7f140518	Alfa Katmanı Kullanarak Ölçeklendirme
+0x7f140519	Ölçek ağırlığı
+0x7f14051a	Ölçeklendirme
+0x7f14051b	Tarama Çizgisi Sayısı
+0x7f14051c	Tarama Çizgisinin Derecesi
+0x7f14051d	Saçılım
+0x7f14051e	Ekran
+0x7f14051f	Ekran Alanı
+0x7f140520	Saniye
+0x7f140521	Kaynak
+0x7f140522	Gölgeleme
+0x7f140523	Gölgeleme Açısı
+0x7f140524	Derinlik Haritası
+0x7f140525	Yönlü Işık
+0x7f140526	Düz
+0x7f140527	Normal Harita
+0x7f140528	Normal Harita ve Derinlik Haritası
+0x7f140529	Nokta Işık
+0x7f14052a	Gölgeler
+0x7f14052b	Z Sallama
+0x7f14052c	Şekil
+0x7f14052d	Parlama
+0x7f14052e	Parlaklık Rengi
+0x7f14052f	Maskeyi Göster
+0x7f140530	Sinüs
+0x7f140531	Boyut
+0x7f140532	Boyut Varyansı
+0x7f140533	Gevşeklik
+0x7f140534	Pürüzsüz
+0x7f140535	Yumuşatma
+0x7f140536	Pürüzsüzleştirme Örnekleri
+0x7f140537	Yumuşak Kenarlar
+0x7f140538	Katı
+0x7f140539	Düz Renk Kaplama
+0x7f14053a	Katılık
+0x7f14053b	Yalnızca Kaynak
+0x7f14053c	Aralık
+0x7f14053d	Düzgün Yansıma Açısı
+0x7f14053e	Düzgün Yansıma Katsayısı
+0x7f14053f	Düzgün Yansıma Rengi
+0x7f140540	Düzgün Yansıma Yüksekliği
+0x7f140541	Düzgün Yansıma Yoğunluğu
+0x7f140542	Yansıtıcılık
+0x7f140543	Hız
+0x7f140544	Yay
+0x7f140545	Kare
+0x7f140546	Kare Kırpma
+0x7f140547	Kare Kesim
+0x7f140548	Sık
+0x7f140549	Kademelenme
+0x7f14054a	Başla
+0x7f14054b	Başla
+0x7f14054c	Başlangıç Açısı
+0x7f14054d	Başlangıç Aşaması
+0x7f14054e	Adımlar
+0x7f14054f	Adım/sn
+0x7f140550	Kuvvet
+0x7f140551	Uzat
+0x7f140552	Stil
+0x7f140553	Süpürme
+0x7f140554	Girdap
+0x7f140555	Kuyruk
+0x7f140556	Kuyruk Genişliği
+0x7f140557	Teğet
+0x7f140558	Yıldız işareti
+0x7f140559	Boşluk
+0x7f14055a	Madde işareti
+0x7f14055b	Çizhi
+0x7f14055c	Elmas
+0x7f14055d	Rakamlar
+0x7f14055e	Rakamlar ve Harfler
+0x7f14055f	Rakamlar, Harfler ve Semboller
+0x7f140560	Genişletilmiş
+0x7f140561	Katman Metni
+0x7f140562	Küçük harfler
+0x7f140563	Karışık Büyük Harfler
+0x7f140564	Semboller
+0x7f140565	Alt çubuk
+0x7f140566	Büyük harfler
+0x7f140567	Doku 1
+0x7f140568	Doku 2
+0x7f140569	Doku 3
+0x7f14056a	Doku 4
+0x7f14056b	Doku 5
+0x7f14056c	Doku 6
+0x7f14056d	Doku 7
+0x7f14056e	Doku 8
+0x7f14056f	Doku Ofseti
+0x7f140570	Ön Ayar - Tuval
+0x7f140571	Ön Ayar - Deri
+0x7f140572	Ön Ayar - Çamur
+0x7f140573	Ön Ayar - Kâğıt
+0x7f140574	Ön Ayar - Parşömen
+0x7f140575	Ön Ayar - Dokuma
+0x7f140576	Ön Ayar - Ahşap
+0x7f140577	Kalınlık
+0x7f140578	Eşik
+0x7f140579	Eşik Ekleme
+0x7f14057a	Karo
+0x7f14057b	Zaman
+0x7f14057c	Süre Değişimi
+0x7f14057d	Soluk Renk
+0x7f14057e	Ton Rengi
+0x7f14057f	Üst
+0x7f140580	Üst Taraf
+0x7f140581	Üçgen
+0x7f140582	İnce Ayar
+0x7f140583	İnce Ayar Bitiş
+0x7f140584	Baş Ayarı
+0x7f140585	İnce Ayar Başlangıç
+0x7f140586	Kuyruk Ayarı
+0x7f140587	Girdap
+0x7f140588	Altına
+0x7f140589	Yukarı
+0x7f14058a	Katman Parlaklığını Kullan
+0x7f14058b	Varyasyon
+0x7f14058c	Dikey
+0x7f14058d	Dikey ofset
+0x7f14058e	Titreşim
+0x7f14058f	Çözgü Açısı
+0x7f140590	Dalga
+0x7f140591	Ağırlık Düşüşü
+0x7f140592	Ağırlıklı RGB
+0x7f140593	Genişlik
+0x7f140594	Çarpıtma
+0x7f140595	X Ekseni
+0x7f140596	Y Ekseni
+0x7f140597	S/M
+0x7f140598	Yakınlaştırma
+0x7f140599	Katmanın ölçeğinin ve dönüşünün üst öğenin ölçeğindeki ve dönüşündeki değişikliklere nasıl tepki vereceğini ayarlar.
+0x7f14059a	Üst Katman Yardımcısı
+0x7f14059b	Kullanmak için: Üst katman oluşturma seçeneğini kullanarak bu katmanı başka bir katmanın alt öğesi yapın (bu efekt bir alt katmana uygulanmalıdır)
+0x7f14059c	Ortaya doğru sıkıştırarak veya dışa doğru genişleterek katmanı bozar.
+0x7f14059d	Kıstırma/Çıkıntı
+0x7f14059e	Katmanın kenarlarını veya opaklığını etkilemeden, merkeze doğru sıkıştırarak veya dışa doğru genişleterek katmanı deforme eder.
+0x7f14059f	İç Kıstırma/Çıkıntı
+0x7f1405a0	Katman çözünürlüğünü azaltır, böylece pikseller tek tek görünür hale gelir, piksellerin merkezlerinde örnekleme yapar ve her pikseli isteğe bağlı bir skeçle çizer.
+0x7f1405a1	Pikselleştir
+0x7f1405a2	Uçak
+0x7f1405a3	Katmanı yüzey dokusu olarak kullanarak sahte 3B üç eksenli bir çaprazlama oluşturur.
+0x7f1405a4	Üç Eksenli Çapraz
+0x7f1405a5	Kartezyen koordinatlardan kutupsal koordinatlara eşleyerek katmanı çarpıtır.
+0x7f1405a6	Kutupsal Koordinatlar
+0x7f1405a7	Katmanın renk kanallarındaki adım sayısını azaltır.
+0x7f1405a8	Posterleştir
+0x7f1405a9	Katmanda yavaş ama kesin bir kutu bulanıklığı gerçekleştirir.
+0x7f1405aa	Hassas Kutu Bulanıklığı
+0x7f1405ab	Bir sinüs dalgasına veya üçgen dalgaya bağlı olarak katmanı zaman içinde tekrar tekrar otomatik olarak büyütür ve küçültür.
+0x7f1405ac	Darbe Boyutu
+0x7f1405ad	Bir sinüs dalgasına veya üçgen dalgaya göre katman opaklığını zaman içinde otomatik olarak atar.
+0x7f1405ae	Darbe Opaklığı
+0x7f1405af	Katmanı yüzey dokusu olarak kullanarak, kare tabanlı sahte bir 3B düzenli piramit oluşturur.
+0x7f1405b0	Piramit
+0x7f1405b1	Katmanın opak kısımlarında birden çok düz renkli radyal ışınları kaplar.
+0x7f1405b2	Radyal Işınlar
+0x7f1405b3	Katmanın opak kısımlarını temel alarak, bir noktadan uzağa yayılan uzun gölgeler oluşturur.
+0x7f1405b4	Radyal Gölge
+0x7f1405b5	İki radyal çizgiyle sınırlanan katmanın bir bölgesini maskeler.
+0x7f1405b6	Radyal Silme
+0x7f1405b7	Ekstrüzyonun önü ve arkası için bir yüzey dokusu olarak katmanın opak kısımlarını kullanarak, katman içindeki opak ve saydam piksellere dayalı olarak katmanın sahte 3D raster ekstrüzyonunu oluşturur.
+0x7f1405b8	Raster Ekstrüzyon
+0x7f1405b9	Katmanı ölçekler, döndürür veya kaydırır, ancak pikselleştirmeden ve katman üzerinde önceki efektleri uyguladıktan sonra efektlerin çıkışının dönüştürülmesini sağlar.
+0x7f1405ba	Raster Dönüşümü
+0x7f1405bb	Daha iyi kenar kalitesi için hassasiyeti artırın; daha hızlı önizleme performansı için ise azaltın. En iyi sonuçlar için, 30 ile 60 arasında bir hassasiyet önerilir.
+0x7f1405bc	Daha iyi kenar kalitesi için daha fazla yineleme kullanın; daha hızlı önizleme performansı için daha az yineleme kullanın. En iyi sonuçlar için, yineleme sayısının 30 ile 60 arasında olması önerilir.
+0x7f1405bd	Eşik ayarına göre katmanın parlak kısımlarından gelen ışık demetleri oluşturur.
+0x7f1405be	Işınlar
+0x7f1405bf	Katmanın birden çok kopyasını dinamik olarak oluşturur.
+0x7f1405c0	Tekrarla
+0x7f1405c1	Bir ızgarada düzenlenmiş katmanın birden çok kopyasını dinamik olarak oluşturur.
+0x7f1405c2	Izgara Tekrarı
+0x7f1405c3	Bir çizgi boyunca düzenlenmiş katmanın birden çok kopyasını dinamik olarak oluşturur.
+0x7f1405c4	Doğrusal Tekrar
+0x7f1405c5	Hemen altındaki katmanın anahat yolu boyunca katmanın birden çok kopyasını dinamik olarak oluşturur.
+0x7f1405c6	Yol Boyunca Tekrarla
+0x7f1405c7	Dairesel bir düzende düzenlenmiş, katmanın birden çok kopyasını dinamik olarak oluşturur.
+0x7f1405c8	Radyal Tekrar
+0x7f1405c9	Orijinal katman konumu etrafına rastgele dağılmış birden çok katmanın kopyasını dinamik olarak oluşturur.
+0x7f1405ca	Dağılım Tekrarı
+0x7f1405cb	Katmandaki bir rengi diğeriyle değiştirir.
+0x7f1405cc	Rengi Değiştir
+0x7f1405cd	Kırmızı, yeşil ve mavi kanalların gama eğrisini bağımsız olarak ayarlar.
+0x7f1405ce	RGB Gama
+0x7f1405cf	Katmandaki kırmızı, yeşil ve mavi kanalları yeniden karıştırır.
+0x7f1405d0	RGB Karıştırıcı
+0x7f1405d1	Katmanın opak kısımlarında değişen genişlikte bükülmüş, akan bir şerit oluşturur.
+0x7f1405d2	Kurdele
+0x7f1405d3	Katmanın opak kısımlarında prosedürel olarak oluşturulmuş bir türbülanslı sırtlar modeli oluşturur.
+0x7f1405d4	Fraktal sırtlar
+0x7f1405d5	Katmanı yüzey dokusu olarak kullanarak düz yüzlere sahip sahte bir 3D halka oluşturur.
+0x7f1405d6	Halka
+0x7f1405d7	Katmanın opak kısımlarının kenarlarını pürüzlendirir.
+0x7f1405d8	Kaba Kenarlar
+0x7f1405d9	Taşı ve Dönüştür'de ayarlanan ölçeğin üstüne ek katman ölçeği uygular.
+0x7f1405da	Ölçek Yardımı
+0x7f1405db	Orijinal katmanı gizlerken katmanın kopyalarını sonsuz bir 3D alan içinde dağıtır ve anahtar kare animasyonu aracılığıyla alan içinde üç boyutlu hareket simülasyonuna izin verir.
+0x7f1405dc	Alanı Dağıt
+0x7f1405dd	Gelişmiş
+0x7f1405de	Renk ve Karıştırma
+0x7f1405df	Enterpolasyon ve Hareket Hızı
+0x7f1405e0	Işık Kaynağı
+0x7f1405e1	Malzeme
+0x7f1405e2	Rasgeleleştirme
+0x7f1405e3	Aralık Dönüşümü
+0x7f1405e4	Işın Yürüyüşü
+0x7f1405e5	Yüzey
+0x7f1405e6	Doku Eşleme
+0x7f1405e7	Çevir
+0x7f1405e8	Görsel Nitelikler
+0x7f1405e9	Kıpırdatma
+0x7f1405ea	Katmanı, belirtilen parametreler dahilinde zaman içinde rastgele hareket ettirir.
+0x7f1405eb	Oto-Sallanma
+0x7f1405ec	Parçaları Salla
+0x7f1405ed	Katmanda yakındaki piksellerin parlaklığında ani farklılıklar olan her yerde kontrastı artırarak katmandaki ayrıntıları geliştirir.
+0x7f1405ee	Keskinleştirme
+0x7f1405ef	Katmanın opak kısımlarında derinlik bileşenli basit bir paralaks yıldız alanı deseni oluşturur.
+0x7f1405f0	Basit Galaksi
+0x7f1405f1	Katmanı otomatik olarak zaman içinde yavaş ama rastgele bir biçimde hareket ettirir.
+0x7f1405f2	Rastgele Yer Değiştirme
+0x7f1405f3	Bir katmanın opak kısımlarının kenarlarını, katmanın içindeki piksel renklerini etkilemeden düzleştirir.
+0x7f1405f4	Pürüzsüz kenarlar
+0x7f1405f5	Katmanın opak kısımlarının kenarlarının içine düz, eğimli bir eğim çizer.
+0x7f1405f6	Pürüzsüz Eğim
+0x7f1405f7	Yavaş Türbülanstan Çıkma
+0x7f1405f8	Bir fotoğraf veya video katmanının içinde ya da herhangi bir katmanın dış kenarı çevresinde yumuşak Gauss tabanlı bir ışıma efekti oluşturur.
+0x7f1405f9	Yumuşak Parıltı
+0x7f1405fa	Katmanın opak kısımlarını tek renkle doldurur.
+0x7f1405fb	Koyu renk
+0x7f1405fc	Katmanı düz renkli bir örtü üzerinde birleştirerek katmanın saydam kısımlarını düz bir arka plan rengiyle doldurur.
+0x7f1405fd	Katı Mat
+0x7f1405fe	Katmandaki her rengi, orijinal rengin parlaklığına bağlı olarak özel bir renk spektrumunda eşler.
+0x7f1405ff	Spektral Haritası
+0x7f140600	Katmanı eşit açılı bir projeksiyon olarak yorumlar ve bunu küre için bir yüzey dokusu olarak kullanarak sahte bir 3B küre oluşturur.
+0x7f140601	Küreleştir
+0x7f140602	Katmanı belirli bir hızda otomatik olarak döndürür.
+0x7f140603	Çevir
+0x7f140604	Katmana dönüyormuş gibi açısal bir bulanıklık uygular.
+0x7f140605	Bulanıklık Çevir
+0x7f140606	Katmanı bir nokta çevresinde döndürerek ve üst üste binen pikselleri birlikte karıştırarak yay şeklinde çizgiler oluşturur.
+0x7f140607	Dönen Çizgiler
+0x7f140608	Katmandaki diğer renklerin doygunluğunu azaltırken bir rengi korur.
+0x7f140609	Spot Renk
+0x7f14060a	Katmanı, bir eksen boyunca sıkıştırırken diğer eksende genişleterek deforme eder.
+0x7f14060b	Sık
+0x7f14060c	Geçerli katmandaki tek bir yıldızı işler.
+0x7f14060d	Yıldız
+0x7f14060e	Katmanı yüzey dokusu olarak kullanarak sahte bir 3D çokyüzlü yıldız oluşturur.
+0x7f14060f	Çokyüzlü Yıldız
+0x7f140610	İki boyutta canlandırılabilen karmaşık bir paralaks yıldız alanı oluşturur.
+0x7f140611	Galaksi
+0x7f140612	Katmanı yüzey dokusu olarak kullanarak sahte bir 3B yıldız prizması oluşturur.
+0x7f140613	Yıldız Prizma
+0x7f140614	Katmanı eşit boyutta şeritlere böler, ardından her birindeki orta piksel sırasını tüm şeridi dolduracak şekilde uzatarak renkli çizgiler oluşturur.
+0x7f140615	Çizgi Şeritleri
+0x7f140616	Katmanı rastgele bir yönde uzatır.
+0x7f140617	Germe Ekseni
+0x7f140618	Katmanı bir açı boyunca dilimler ve ardından pikselleri aralarında uzatarak parçaları birbirinden ayırır.
+0x7f140619	Segmenti Uzat
+0x7f14061a	Katmanın opak kısımlarında bir şerit deseni oluşturur.
+0x7f14061b	Çizgili
+0x7f14061c	Katmanın çizgi rengini geçersiz kılar.
+0x7f14061d	Fırça rengi
+0x7f14061e	Serbest çizim katmanının konturlarını daraltır.
+0x7f14061f	Fırça İncelt
+0x7f140620	Katmanı zaman içinde otomatik olarak ileri geri döndürür.
+0x7f140621	Salınma
+0x7f140622	Katmanı merkez noktadan uzaklığa göre farklı miktarlarda döndürerek büker, girdap veya anafor benzeri bir bozulmaya neden olur.
+0x7f140623	Girdap
+0x7f140624	Kısmen bir metin katmanını karakter karakter görüntüler.
+0x7f140625	Metin İlerleme
+0x7f140626	Bir metin katmanındaki karakterleri rastgele değiştirir.
+0x7f140627	Metin Rasgeleleştiricisi
+0x7f140628	Bir metin katmanındaki harfler veya metin satırları arasındaki aralığı ayarlar.
+0x7f140629	Metin Aralığı
+0x7f14062a	Bir metin katmanının belirli bir aralığı içindeki harfleri, kelimeleri, çizgileri veya harf parçalarını dönüştürür.
+0x7f14062b	Metin Dönüşümü
+0x7f14062c	Katmanı, belirtilen parlaklık eşiğinde sert bir kesme ile siyah beyaza dönüştürür.
+0x7f14062d	Eşik
+0x7f14062e	Katmanı bir döşeme ızgarasına böler ve her döşemedeki pikselleri bağımsız olarak döndürür.
+0x7f14062f	Döşeme Döndür
+0x7f140630	Katmanı bir döşeme deseninde tekrarlayarak ekranı doldurur.
+0x7f140631	Döşeme
+0x7f140632	Katmanı bir karo ızgarasına böler ve her döşemenin içeriğini rastgele bir yönde kaydırır.
+0x7f140633	Döşeme Kaydırma
+0x7f140634	Katmandaki metni çalışan bir zaman koduyla değiştirir.
+0x7f140635	Zaman kodu
+0x7f140636	Zamanın adım adım geçmesine neden olur, fakat yalnızca bu katman için geçerlidir.
+0x7f140637	Zaman Kuantalama
+0x7f140638	Kullanım: Diğer efektler veya özelliklerle birlikte anahtar kare animasyonu kullanarak katmanı canlandırın (ekolar, ana kare animasyonuna göre oluşturulur).
+0x7f140639	Katmanı yüzey dokusu olarak kullanarak sahte bir 3B simit oluşturur.
+0x7f14063a	Kabartı
+0x7f14063b	Üçgen Prizma
+0x7f14063c	Katmanı iç yüzey dokusu olarak kullanarak yuvarlak bir sahte 3D tünel oluşturur.
+0x7f14063d	Tünel
+0x7f14063e	Katmanın opak bölümlerinde prosedürel olarak oluşturulmuş fraktal gürültünün yumuşak desenlerini işler, bulutlar gibi gerçek dünya olaylarını simüle etmek için veya bir parlaklık haritası olarak kullanmak için yararlıdır.
+0x7f14063f	Türbülans
+0x7f140640	Türbülans Maskesi
+0x7f140641	Düzgün fraktal gürültüden oluşan rastgele bir model kullanarak katmanı seçilen koordinat eksenleri boyunca deforme eder. Bozulma, kartezyen veya kutupsal koordinat uzayında bir veya daha fazla eksen boyunca olabilir. Ateş, su ve ısı gibi gerçek dünyadaki olayların neden olduğu bozulmaları simüle etmek veya dağlar gibi doğal olarak düzensiz olan gerçek dünya nesnelerini modellemek için kullanışlıdır.
+0x7f140642	Türbülanslı Kaldır
+0x7f140643	Bir fotoğrafın veya videonun algısal keskinliğini veya akütansını, orijinal olarak pürüzsüz olan alanlardaki değişiklikleri önlerken kenarların yakınındaki yerel kontrastı artırarak geliştirir.
+0x7f140644	Keskinliği Azaltma Maskesi
+0x7f140645	Katmandaki renklerin doygunluğunu veya saflığını ayarlar.
+0x7f140646	Doygunluk / Canlılık
+0x7f140647	Titreşim, aşırı doygunluğa neden olmadan sadece orta seviye renkleri etkileyen daha hafif bir doygunluk artışıdır. En iyi kullanımı, video veya fotoğraf görüntüleri ile olandır.
+0x7f140648	Katmanın kenarlarını koyulaştırır.
+0x7f140649	Vinyet
+0x7f14064a	Hacimsel Bulutlar
+0x7f14064b	Rastgele yerleştirilmiş noktalara dayalı olarak Voronoi hücrelerinin prosedürel olarak oluşturulmuş modelini işler.
+0x7f14064c	Voronoi Hücreleri
+0x7f14064d	Girdap Bulanıklığı
+0x7f14064e	Girdap Bulanıklığı
+0x7f14064f	Birleşik VR
+0x7f140650	Deforme Ederek Bulanıklaştırma, bir katmanın, fraktal gürültü alanı gradyanları takip edilerek bulanıklaştırılması suretiyle, fırçayla yapılmış gibi yol yol deforme edilmesidir.
+0x7f140651	Burulma Bulanıklığı
+0x7f140652	Bir sinüs dalgasına göre katmanı deforme eder.
+0x7f140653	Dalga Çözgüsü
+0x7f140654	Katmanın zıt taraflarından dikdörtgen parçaları maskeler. Bir silme geçişi oluşturmak için ana kare animasyonu kullanır.
+0x7f140655	Silme
+0x7f140656	Yakınlaştırır veya uzaklaştırır gibi katmana radyal bir bulanıklık uygular.
+0x7f140657	Yakınlaştırma Bulanıklığı
+0x7f140658	Katmanı bir nokta çevresinde ölçekleyerek ve üst üste binen pikselleri birlikte karıştırarak radyal çizgiler oluşturur.
+0x7f140659	Yakınlaştırma Çizgileri
+0x7f14065a	180° Çevir
+0x7f14065b	20x Piksel Denetçisi
+0x7f14065c	2x Büyüteç
+0x7f14065d	360° Döndürme
+0x7f14065e	3D Yazıcı
+0x7f14065f	3x Büyüteç
+0x7f140660	Eski Mural
+0x7f140661	Eski Fotoğraf
+0x7f140662	Parlaklık Alfa Maskesi
+0x7f140663	Animasyonlu Bölme
+0x7f140664	Arklı Neon
+0x7f140665	Sonbahar
+0x7f140666	Ödül Rozeti
+0x7f140667	Yüzük
+0x7f140668	Kırmızı Girdap
+0x7f140669	Kar Fırtınası
+0x7f14066a	Mavi ekran
+0x7f14066b	Bulanık Koyuluk
+0x7f14066c	Kalın Kenarlar
+0x7f14066d	Aydınlat
+0x7f14066e	Bozuk CGA
+0x7f14066f	Patlama
+0x7f140670	Şeker
+0x7f140671	Cappuccino
+0x7f140672	Noel Kurdelesi
+0x7f140673	Kromatik Kabarcık
+0x7f140674	Kromatik El Yapımı Cam
+0x7f140675	Saat Yönünde Tam Dönüş
+0x7f140676	Bulutlu
+0x7f140677	Sahil şeridi
+0x7f140678	Kontur Taraması
+0x7f140679	Oluklu Bakır
+0x7f14067a	Gevrek
+0x7f14067b	CRT Monitörü
+0x7f14067c	Küp Morf
+0x7f14067d	Küpler
+0x7f14067e	Aşağı Dön
+0x7f14067f	Sola Dön
+0x7f140680	Sağa Dön
+0x7f140681	Yukarı Dön
+0x7f140682	Işık Üzerine Karanlık
+0x7f140683	Düşen Nabız
+0x7f140684	Kod çözme
+0x7f140685	Elmas
+0x7f140686	Dijital Çıkarma
+0x7f140687	Dijital Parazit
+0x7f140688	Dipiramit
+0x7f140689	Fırıldak
+0x7f14068a	Donut
+0x7f14068b	Nokta Matrisi
+0x7f14068c	Kademeli Çizim
+0x7f14068d	Çiz sonra Sil
+0x7f14068e	Rüya Parıltısı
+0x7f14068f	Rüya Sekansı
+0x7f140690	Önce Kenar
+0x7f140691	Sekiz Taraflı Kalıp
+0x7f140692	Elektrik Şoku
+0x7f140693	Vurgu Yakınlaştırma
+0x7f140694	Alanı Vurgula
+0x7f140695	Enerji Arkı
+0x7f140696	Kademeli Olarak Sil
+0x7f140697	Aşınmış Kenarlar
+0x7f140698	Patlat
+0x7f140699	Hafle Karart
+0x7f14069a	Soluk Baskı
+0x7f14069b	Soluk Statik
+0x7f14069c	Sahte Mavi Baskı
+0x7f14069d	Sahte Termal Kamera
+0x7f14069e	Film Tozu
+0x7f14069f	Film Çizikleri
+0x7f1406a0	Sola Bayrak Dalgalanması
+0x7f1406a1	Sağa Bayrak Dalgalanması
+0x7f1406a2	Düz Küboid
+0x7f1406a3	Düz Altıgen
+0x7f1406a4	Yatay Çevir
+0x7f1406a5	Dikey Çevir
+0x7f1406a6	Süzülme
+0x7f1406a7	Akış
+0x7f1406a8	Aşağı akış
+0x7f1406a9	Baştan Sona Akış
+0x7f1406aa	Sola Akış
+0x7f1406ab	Sağa Akış
+0x7f1406ac	Akan Noktalar
+0x7f1406ad	Akışkan Kenar
+0x7f1406ae	İleri Uç
+0x7f1406af	Sağa Uç
+0x7f1406b0	Halkadan Geçme
+0x7f1406b1	Tünelden Geçme
+0x7f1406b2	Odaklan
+0x7f1406b3	İleri
+0x7f1406b4	Cuma Gün Batımı
+0x7f1406b5	Buzlu Cam
+0x7f1406b6	İnce Bakış Açısı
+0x7f1406b7	Hayalet Belirmesi
+0x7f1406b8	Yeşil Cam
+0x7f1406b9	Yeşil Ekran
+0x7f1406ba	Büyüt
+0x7f1406bb	El Kamerası
+0x7f1406bc	Sert Gölgeler
+0x7f1406bd	Sert Vurgular
+0x7f1406be	Sert Statik
+0x7f1406bf	Kalp Atışı
+0x7f1406c0	Sıcak Hava Dalgası
+0x7f1406c1	Altıgen Mozaik
+0x7f1406c2	Yatay
+0x7f1406c3	Yatay Çevirme
+0x7f1406c4	Yatay Çizgiler
+0x7f1406c5	Yatay Uzatma
+0x7f1406c6	Korku Filmi
+0x7f1406c7	Demir Yüzük
+0x7f1406c8	İzometrik Dilimleme
+0x7f1406c9	Sol, Sağ, Yukarı
+0x7f1406ca	Harf Genişletme
+0x7f1406cb	Karanlık Üzerine Işık
+0x7f1406cc	Kireç Girdabı
+0x7f1406cd	Tenk Renk
+0x7f1406ce	Sıvı Damla
+0x7f1406cf	Sıvı Titreşimler
+0x7f1406d0	Erimiş Kırmızı Cam
+0x7f1406d1	Pazartesi Sabahı
+0x7f1406d2	Tek Renkli
+0x7f1406d3	Neon Çizgiler
+0x7f1406d4	Gece
+0x7f1406d5	Eski Kağıt
+0x7f1406d6	Bulutlu
+0x7f1406d7	Aşırı Pozlanmış
+0x7f1406d8	Boya Şablonu
+0x7f1406d9	Şifre Gösterimi
+0x7f1406da	Pastel Rüya
+0x7f1406db	Arkaya Göz Atma
+0x7f1406dc	Periyodik
+0x7f1406dd	Periyodik Ateşböcekleri
+0x7f1406de	Fotonik Bıçak Kapalı
+0x7f1406df	Fotonik Bıçak Açık
+0x7f1406e0	Pembe Pus Punchout
+0x7f1406e1	Boru
+0x7f1406e2	Pop Art
+0x7f1406e3	Portre
+0x7f1406e4	Titreşimli Kenarlar
+0x7f1406e5	Punch Out
+0x7f1406e6	Hızlı Sayım
+0x7f1406e7	Beşli Solma
+0x7f1406e8	Radyo Dalgaları
+0x7f1406e9	Yağmur
+0x7f1406ea	Gökkuşağı Fırçası
+0x7f1406eb	Rastgele
+0x7f1406ec	Rastgele Enerji
+0x7f1406ed	Işın Tabancası
+0x7f1406ee	Kırmızıdan Maviye
+0x7f1406ef	Retro Oyun
+0x7f1406f0	Ters
+0x7f1406f1	Ödül Yıldızı
+0x7f1406f2	Çember
+0x7f1406f3	Sudaki Halkalar
+0x7f1406f4	Kaba Mermer
+0x7f1406f5	Lastik Mühür
+0x7f1406f6	Paslı Endüstriyel Demir
+0x7f1406f7	Kelimeye Göre Ölçeklendirin
+0x7f1406f8	Tarama Çizgileri
+0x7f1406f9	Hatasız Döşeme
+0x7f1406fa	Saniye
+0x7f1406fb	Sepya
+0x7f1406fc	Sepya Negatif
+0x7f1406fd	Gösteriş
+0x7f1406fe	Küçült
+0x7f1406ff	Altı Taraflı Kalıp
+0x7f140700	Kaydır
+0x7f140701	Yavaş Geri Sayım
+0x7f140702	Yavaşlat
+0x7f140703	Yumuşak Dalgalar
+0x7f140704	Pürüzsüz Yıldız
+0x7f140705	Düzgün Kenarlar
+0x7f140706	Spektral Öne Çıkanlar
+0x7f140707	Hızlandır
+0x7f140708	Küre Biçimi
+0x7f140709	Dönen Basamak
+0x7f14070a	Sağa Döndür
+0x7f14070b	Sağa Döndür
+0x7f14070c	Yukarı ve aşağı döndür
+0x7f14070d	Spiro
+0x7f14070e	Öne Çıkarma
+0x7f14070f	Kare Yüzükler
+0x7f140710	Koyu Renkleri Damgala
+0x7f140711	Açık Renkleri Damgala
+0x7f140712	Baştan Sona
+0x7f140713	Odaklanma Çizgileri
+0x7f140714	Hafif Beyaz Parıltı
+0x7f140715	Turkuaz Ponza
+0x7f140716	Kalın Çarpı
+0x7f140717	İnce Çarpı
+0x7f140718	Başlık Dağılımı
+0x7f140719	Çok Fazla Kafein
+0x7f14071a	Gelen Geçiş
+0x7f14071b	Gelen Geçiş: Mavi Yıldırım
+0x7f14071c	Gelen Geçiş: Karanlık
+0x7f14071d	Gelen Geçiş: Aşağı
+0x7f14071e	Gelen Geçiş: Hızlı
+0x7f14071f	Gelen Geçiş: Yatay Bölme
+0x7f140720	Gelen Geçiş: Işık
+0x7f140721	Gelen Geçiş: Mono Bozulma
+0x7f140722	Gelen Geçiş: Sağ
+0x7f140723	Gelen Geçiş: Döndürme
+0x7f140724	Gelen Geçiş: Takla
+0x7f140725	Gelen Geçiş: Dikey Bölme
+0x7f140726	Gelen Geçiş: Sil
+0x7f140727	Giden Geçiş
+0x7f140728	Giden Geçiş: 5 Yollu Silme
+0x7f140729	Giden Geçiş: Saat Silme
+0x7f14072a	Giden Geçiş: Karanlık
+0x7f14072b	Giden Geçiş: Aşağı
+0x7f14072c	Giden Geçiş: Hızlı
+0x7f14072d	Giden Geçiş: Izgara Silme
+0x7f14072e	Giden Geçiş: Altıgen Silme
+0x7f14072f	Giden Geçiş: Işık
+0x7f140730	Giden Geçiş: Mono Bozulma
+0x7f140731	Giden Geçiş: Sağ
+0x7f140732	Giden Geçiş: Ayrı Silme
+0x7f140733	Yarı Saydam Malzeme
+0x7f140734	Şeffaf Kumlanma
+0x7f140735	Yazın
+0x7f140736	Sansürsüz
+0x7f140737	Yeşil
+0x7f140738	Dikey
+0x7f140739	Dikey Çizgiler
+0x7f14073a	Dikey Kayma
+0x7f14073b	Dikey Genişleme
+0x7f14073c	Yatay Titreşim
+0x7f14073d	Dikey Titreşim
+0x7f14073e	Su Yansıması
+0x7f14073f	Su Dalgalanması
+0x7f140740	Sağa Dalgalanma
+0x7f140741	Yıpranmış Sıva
+0x7f140742	Gelen Dalgalanma
+0x7f140743	Giden Dalgalanma
+0x7f140744	Kış
+0x7f140745	Yerinde Yalpalama
+0x7f140746	X-Ray
+0x7f140747	Efektler
+0x7f140748	Element
+0x7f140749	Öğe oluşturulamıyor
+0x7f14074a	Öğe Özellikleri
+0x7f14074b	Öğe Çözünürlüğü
+0x7f14074c	bir öge yarat
+0x7f14074d	Henüz bir öge yok!
+0x7f14074e	E-posta
+0x7f14074f	E-posta bağlantısı
+0x7f140750	Buluta yüklenen proje yok
+0x7f140751	Koleksiyonunuzda hiç öğe yok
+0x7f140752	Boş Grup
+0x7f140753	Buluta yüklenecek ilk projeni oluşturmaya başla
+0x7f140754	Overshoot'u Etkinleştir
+0x7f140755	Sistem Yazı Tiplerini Etkinleştir
+0x7f140756	Şifreleyici
+0x7f140757	Bitiş
+0x7f140758	Gelişmiş Kontrol Paneli Hassasiyeti
+0x7f140759	Etkinleştirildiğinde, Taşı ve Çevir kontrol panelindeki yavaş parmak hareketleri daha kısa piksel mesafelerine dönüşerek daha hassas kontrol sağlar.
+0x7f14075a	Metninizi buraya girin.
+0x7f14075b	Erro: inválido
+0x7f14075c	Erro
+0x7f14075d	Bir hata oluştu. Yeniden denemek için aşağı çekin.
+0x7f14075e	Medya okunamıyor
+0x7f14075f	Dosya indirmek için abone ol veya %1$s sınırının altında kalacak kadar proje sil
+0x7f140760	Dosyaları indirmek için abone ol
+0x7f140761	Dosya yüklemek için abone ol
+0x7f140762	Projeyi sil
+0x7f140763	Buluta erişim sağla
+0x7f140764	Bulut hizmetlerine erişimin yok
+0x7f140765	啟用字幕 (Subtitle)
+0x7f140766	停用字幕 (Subtitle)
+0x7f140767	%1$.2fx
+0x7f140768	快轉
+0x7f140769	進入全螢幕模式
+0x7f14076a	結束全螢幕模式
+0x7f14076b	隱藏播放器控制選項
+0x7f14076c	繼續
+0x7f14076d	隱藏其他設定
+0x7f14076e	顯示其他設定
+0x7f14076f	暫停
+0x7f140770	播放
+0x7f140771	速度
+0x7f140772	返回
+0x7f140773	目前模式：重複播放所有項目。切換重複播放模式。
+0x7f140774	目前模式：不重複播放。切換重複播放模式。
+0x7f140775	目前模式：重複播放單一項目。切換重複播放模式。
+0x7f140776	倒轉
+0x7f140777	播放進度
+0x7f140778	設定
+0x7f140779	顯示播放器控制選項
+0x7f14077a	啟用隨機播放模式
+0x7f14077b	停用隨機播放模式
+0x7f14077c	停止
+0x7f14077d	00:00:00
+0x7f14077e	虛擬實境模式
+0x7f14077f	下載完成
+0x7f140780	下載
+0x7f140781	下載中
+0x7f140782	無法下載
+0x7f140783	下載
+0x7f140784	已暫停下載
+0x7f140785	系統會等到連上網路後再開始下載
+0x7f140786	系統會等到連上 Wi-Fi 後再開始下載
+0x7f140787	正在移除下載內容
+0x7f140788	%1$s、%2$s
+0x7f140789	%1$.2f Mbps
+0x7f14078a	單聲道
+0x7f14078b	%1$d × %2$d
+0x7f14078c	替用軌
+0x7f14078d	CC
+0x7f14078e	旁白
+0x7f14078f	補充軌
+0x7f140790	自動
+0x7f140791	無
+0x7f140792	音訊
+0x7f140793	立體聲
+0x7f140794	環繞音效
+0x7f140795	5.1 環繞音效
+0x7f140796	7.1 環繞音效
+0x7f140797	不明
+0x7f140798	不明 (%1$s)
+0x7f140799	‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‏‏‎‏‎‎‎‎‏‏‎‏‎‏‏‏‏‏‏‎‏‏‏‎‎‎‏‏‎‎‎‎‏‎‎‎‎‏‏‎‏‏‎‎‏‎‏‎‎‏‏‎‎‎‎‏‏‎‏‎‏‏‏‏‎‎Advanced‎‏‎‎‏‎
+0x7f14079a	Teklifin geçerliliği %1$s tarihinde sona erecek.
+0x7f14079b	Teklifin bir saatten kısa geçerlilik süresi kaldı.
+0x7f14079c	Yeni Şablonlar
+0x7f14079d	Dışa Aktar
+0x7f14079e	Dışa Aktar ve Paylaş
+0x7f14079f	Yine de Dışa Aktar
+0x7f1407a0	Projeni güvende tut!
+0x7f1407a1	Geçerli Çerçeveyi PNG Olarak Dışa Aktar
+0x7f1407a2	Boş bir proje dışa aktarılamaz. Paylaşmadan önce projenize biraz medya ekleyin.
+0x7f1407a3	Dışa Aktarma Başarısız
+0x7f1407a4	İçeriğinizi paylaşım için oluşturup kodlamaya çalışırken bir şeyler ters gitti.
+
+Bu sorunun nasıl çözüleceğine dair öneriler için lütfen şu adrese bakın: %s
+0x7f1407a5	Lütfen cihazınızda yer açın, ardından dışa aktarma işlemini tekrar deneyin
+0x7f1407a6	Lütfen %d cihazınızda yer açın, ardından dışa aktarma işlemini tekrar deneyin
+0x7f1407a7	Yeteri kadar yer yok
+0x7f1407a8	JPEG Dizisini Dışa Aktar
+0x7f1407a9	Lütfen dışa aktarma işlemi devam ederken Alight Motion'dan ayrılmayın veya ekranınızı kilitlemeyin.
+0x7f1407aa	Bulut Yedekleme
+0x7f1407ab	YENİ
+0x7f1407ac	Ön ayar
+0x7f1407ad	Şablon
+0x7f1407ae	Bu seçenek, projeni başkalarıyla paylaşmak için bir bağlantı ve karekod oluşturmana olanak tanır.
+
+Gizlilik endişeleri ve boyut sınırlamaları nedeniyle Örnek Medya klasöründeki yer tutucu medyayı kullanabilirsin.
+0x7f1407af	PNG Dizisini Dışa Aktar
+0x7f1407b0	Proje Paketini Dışa Aktar
+0x7f1407b1	Bu proje dışa aktarılamayacak kadar kısa.
+0x7f1407b2	Dışa Aktarma Çözünürlüğü
+0x7f1407b3	Filigran ile paylaş
+0x7f1407b4	Gömülü XML'yi Dışa Aktar
+0x7f1407b5	Dışa aktarma
+0x7f1407b6	GIF'i dışa aktarma
+0x7f1407b7	Sıralı Görüntüleri Dışa Aktarma
+0x7f1407b8	Videoyu Dışa Aktarma
+0x7f1407b9	Mostrar menu suspenso
+0x7f1407ba	Artık bir Alight Motion üyesisiniz! Ayrıntılar için lütfen Hesabım sayfasını kontrol edin.
+0x7f1407bb	Hoş geldiniz
+0x7f1407bc	Sesi Çıkar
+0x7f1407bd	com.google.android.material.transformation.FabTransformationScrimBehavior
+0x7f1407be	com.google.android.material.transformation.FabTransformationSheetBehavior
+0x7f1407bf	1736402916450835
+0x7f1407c0	1736402916450835
+0x7f1407c1	a0b463013c02f9cdfe6f2cca6effe126
+0x7f1407c2	fb_your_app_id
+0x7f1407c3	Profil değişiklikleriniz kaydedilemedi. Lütfen ağ bağlantınızı kontrol edin veya daha sonra tekrar deneyin.
+0x7f1407c4	QR-Code görüntüsü kaydedilemedi. Hata(%s)
+0x7f1407c5	‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‏‏‎‏‏‏‏‏‏‎‏‏‎‎‎‎‎‏‏‏‏‏‏‎‏‏‏‏‎‏‎‏‏‎‏‏‏‏‎‏‏‎‎‏‎‏‏‎‎‎‏‏‎‎‎‎‏‏‎‏‎‏‎‏‏‎Copy link‎‏‎‎‏‎
+0x7f1407c6	‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‏‏‎‏‎‏‏‏‏‎‏‎‏‏‏‏‎‎‎‎‏‎‎‏‏‎‏‎‏‏‏‎‎‎‏‏‎‎‎‏‏‏‎‎‏‎‏‎‏‎‏‏‎‎‏‏‏‎‎‎‏‎‏‎‏‎Open in browser‎‏‎‎‏‎
+0x7f1407c7	‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‏‏‏‏‏‎‎‎‏‏‎‎‏‎‏‎‎‏‏‎‏‏‏‎‎‎‎‏‎‎‏‏‎‏‎‏‎‎‎‏‏‏‏‎‏‏‎‏‎‏‎‎‏‏‏‏‏‎‎‎‎‎‎‏‎‎‎Share link‎‏‎‎‏‎
+0x7f1407c8	Aile
+0x7f1407c9	Fantezi
+0x7f1407ca	Uzak Mesafe
+0x7f1407cb	Favori
+0x7f1407cc	Favori Yazı Tipleri
+0x7f1407cd	fb1736402916450835
+0x7f1407ce	MP4 ve GIF dışa aktar
+0x7f1407cf	Kareler ve Hareket Hızı
+0x7f1407d0	Katman Karıştırma Modları
+0x7f1407d1	Vektör Grafikleri
+0x7f1407d2	Haberler
+0x7f1407d3	Güncellemeler
+0x7f1407d4	En son Alight Motion haberleri, bilgileri ve eğitimleri için internete bağlanın.
+0x7f1407d5	Dosya boyutu (tahmini)
+0x7f1407d6	Dosyalar ‣ Hareketli Kareler
+0x7f1407d7	Kompozisyon Alanını Doldur
+0x7f1407d8	Ekranı Doldur
+0x7f1407d9	https://alight-creative.firebaseio.com
+0x7f1407da	CHANGE-ME
+0x7f1407db	Kompozisyon Alanını Doldur
+0x7f1407dc	Ekrana Sığdır
+0x7f1407dd	Kompozisyon Alanına Sığdır
+0x7f1407de	Beş kere
+0x7f1407df	Flaş
+0x7f1407e0	Yatay Çevir
+0x7f1407e1	Dikey Çevir
+0x7f1407e2	Odak Bulanıklığı
+0x7f1407e3	Odak Mesafesi
+0x7f1407e4	Sis
+0x7f1407e5	Bizi takip et
+0x7f1407e7	Aşağıdaki yazı tipleri içe aktarılamadı.
+
+Dosya yazı tipi değilse veya işletim sisteminizin desteklemediği bir yazı tipi biçimindeyse bu hata ile karşılaşabilirsiniz.
+0x7f1407e8	Yazı Tipi Yükleniyor
+0x7f1407e9	Yazı tipi yüklenemedi
+0x7f1407ea	Seçtiğiniz yazı tipi mevcut değil. Lütfen internet bağlantınızı kontrol edin.
+0x7f1407eb	Yazı Tiplerim (İçe Aktarılan)
+0x7f1407ec	Dışarıdan yazı tiplerini içe aktarmak için Alight Motion'ın depolama alanınıza erişmesi gerekir.
+0x7f1407ed	Görüntüle
+0x7f1407ee	El yazısı
+0x7f1407ef	İçe aktarıldı
+0x7f1407f0	Eş aralıklı
+0x7f1407f1	Sans Serif
+0x7f1407f2	Serif
+0x7f1407f3	Arabic
+0x7f1407f4	Bengali
+0x7f1407f5	Cyrillic
+0x7f1407f6	Cyrillic Extended
+0x7f1407f7	Devanagari
+0x7f1407f8	Greek
+0x7f1407f9	Greek Extended
+0x7f1407fa	Gujarati
+0x7f1407fb	Gurmukhi
+0x7f1407fc	Hebrew
+0x7f1407fd	Japanese
+0x7f1407fe	Kannada
+0x7f1407ff	Khmer
+0x7f140800	Korean
+0x7f140801	Latin
+0x7f140802	Latin Extended
+0x7f140803	Malayalam
+0x7f140804	Myanmar
+0x7f140805	Oriya
+0x7f140806	Sinhala
+0x7f140807	Tamil
+0x7f140808	Telugu
+0x7f140809	Thai
+0x7f14080a	Vietnamese
+0x7f14080b	Yazı Tipleri (Filtreli)
+0x7f14080c	Ağ bağlantısı olmadığı için bazı yazı tipleri kullanılamıyor.
+0x7f14080d	Sizin için
+0x7f14080e	रद्द करें
+0x7f14080f	अपडेट करें
+0x7f140810	इस ऐप का एक नया संस्करण उपलब्ध है। कृपया नवीनतम संस्करण में अपडेट करें।
+0x7f140811	अपडेट उपलब्ध है!
+0x7f140812	Biçim
+0x7f140813	Kare Hızı
+0x7f140814	%1$sfps
+0x7f140815	Serbest Çizim
+0x7f140816	Frequency
+0x7f140817	Frequency (B)
+0x7f140818	Frequency (G)
+0x7f140819	Frequency (R)
+0x7f14081a	Frequency (X)
+0x7f14081b	Frequency (Y)
+0x7f14081c	Logotipo do app
+0x7f14081d	O número de telefone foi verificado automaticamente
+0x7f14081e	Salvar
+0x7f14081f	Enviar
+0x7f140820	Siga as instruções enviadas para %1$s para recuperar sua senha.
+0x7f140821	Continuar
+0x7f140822	País
+0x7f140824	Falha no registro da conta do e-mail
+0x7f140825	email_field
+0x7f140826	E-mail
+0x7f140827	Confirme o e-mail
+0x7f140828	Confirme o e-mail para continuar o login
+0x7f140829	Inicialmente, você quis conectar %1$s à sua conta de e-mail, mas abriu o link em outro dispositivo no qual você não está conectado.
+
+Se você ainda quiser conectar sua conta de %1$s, abra o link no mesmo dispositivo em que fez login. Se preferir, toque em "Continuar" para fazer login neste dispositivo.
+0x7f14082a	Sessão encerrada
+0x7f14082b	A sessão associada a este login expirou ou foi apagada.
+0x7f14082c	Dispensar
+0x7f14082d	Um e-mail de login com mais instruções foi enviado para %1$s. Verifique sua caixa de entrada para concluir o login.
+0x7f14082e	E-mail de login enviado
+
+0x7f14082f	Não é possível fazer login
+0x7f140830	O código da ação é inválido. Isso pode acontecer quando o código está incorreto ou já foi usado.
+0x7f140831	Reenviar
+0x7f140832	Problemas para receber e-mails?
+0x7f140833	Utilize estas soluções comuns:
+• Verifique se o e-mail foi filtrado ou marcado como spam
+• Verifique sua conexão com a Internet.
+• Verifique se você digitou seu e-mail corretamente.
+• Verifique se a sua caixa de entrada está cheia ou se ela está com outro tipo de problema.
+
+0x7f140834	Novo dispositivo ou navegador detectado.
+0x7f140835	Tente abrir o link usando o mesmo dispositivo ou navegador que você usou para iniciar o processo de login.
+0x7f140836	Insira o código de 6 dígitos enviado para
+0x7f140837	O endereço de e-mail não corresponde a uma conta existente
+0x7f140838	A senha está incorreta.
+0x7f140839	Ocorreu um problema na verificação do seu número de telefone
+0x7f14083a	Este código não é mais válido
+0x7f14083b	Este número de telefone já foi usado muitas vezes
+0x7f14083c	Ocorreu um erro desconhecido.
+0x7f14083d	E-mail
+0x7f14083e	Facebook
+0x7f14083f	GitHub
+0x7f140840	Google
+0x7f140841	Telefone
+0x7f140842	Twitter
+0x7f140843	Código incorreto. Tente novamente.
+0x7f140844	Endereço de e-mail inválido
+0x7f140845	Insira um número de telefone válido
+0x7f140846	Digite seu endereço de e-mail para continuar
+0x7f140847	Digite um nome e um sobrenome.
+0x7f140848	Nome e sobrenome
+0x7f140849	Nova senha
+0x7f14084a	Próxima
+0x7f14084b	Erro de rede, confira sua conexão de Internet.
+0x7f14084c	Senha
+0x7f14084d	Veja como redefinir sua senha nas instruções enviadas para este e-mail.
+0x7f14084e	Número de telefone
+0x7f14084f	Política de privacidade
+0x7f140850	Verificando contas existentes…
+0x7f140851	Carregando…
+0x7f140852	Enviando…
+0x7f140853	Fazendo login…
+0x7f140854	Concluindo sua inscrição…
+0x7f140855	Esse campo não pode ficar em branco.
+0x7f140856	Reenviar código
+0x7f140857	Reenviar código em 0:%02d
+0x7f140858	Continuar como convidado
+0x7f140859	Fazer login
+0x7f14085a	Fazer login com a Apple
+0x7f14085b	Fazer login com o e-mail
+0x7f14085c	Fazer login com o Facebook
+0x7f14085d	Fazer login com o GitHub
+0x7f14085e	Fazer login com o Google
+0x7f14085f	Fazer login com a Microsoft
+0x7f140860	Fazer login com o telefone
+0x7f140861	Fazer login com o número de telefone
+0x7f140862	Fazer login com o Twitter
+0x7f140863	Fazer login com o Yahoo
+0x7f140864	Se você tocar em “%1$s”, um SMS poderá ser enviado e tarifas de mensagens e de dados serão cobradas.
+0x7f140865	Ao tocar em “%1$s”, você concorda com nossos %2$s e a %3$s. Um SMS poderá ser enviado e tarifas de mensagens e de dados poderão ser cobradas.
+0x7f140866	Termos de Serviço
+0x7f140867	Verifique seu e-mail
+0x7f140868	Recuperar a senha
+0x7f140869	Inscrever-se
+0x7f14086c	Ao continuar, você concorda com nossos %1$s e a %2$s.
+0x7f14086d	%1$s     %2$s
+0x7f14086e	Problemas com login?
+0x7f14086f	Confirmar número de telefone
+0x7f140870	Insira o número do seu telefone
+0x7f140871	Confirmar seu número de telefone
+0x7f140872	Verificando…
+0x7f140873	É bom ver você novamente!
+0x7f140874	Você já tem uma conta
+
+0x7f140875	Você já usou %1$s. Você pode conectar sua conta do %2$s com %1$s ao fazer login usando o link de e-mail abaixo.
+
+Para conectar sua conta do %2$s com este e-mail, é necessário abrir o link no mesmo dispositivo ou navegador.
+0x7f140876	Você já tem uma conta
+0x7f140877	Você já usou o e-mail %1$s. Faça login com o %2$s para continuar.
+0x7f140878	Você já usou o e-mail %1$s para fazer login. Insira a senha dessa conta.
+0x7f140879	Dolu
+0x7f14087a	Tam Ekran Önizleme
+0x7f14087b	3 boyutlu
+0x7f14087c	Bulanıklık
+0x7f14087d	Renk ve Işık
+0x7f14087e	Çizim
+0x7f14087f	Çizim ve Kenar
+0x7f140880	Kenar
+0x7f140881	Experimental
+0x7f140882	Mat/Maske/Anahtar
+0x7f140883	Opaklık/Görünürlük
+0x7f140884	Diğer
+0x7f140885	Usule Göre
+0x7f140886	Son Zamanlarda Kullanılanlar
+0x7f140887	Tekrar et
+0x7f140888	Metin
+0x7f140889	Taşı/Çevir
+0x7f14088a	Bozulma/Yamulma
+0x7f14088b	360
+0x7f14088c	Oto
+0x7f14088d	Bük
+0x7f14088e	Harmanlama
+0x7f14088f	Blok
+0x7f140890	Kanal
+0x7f140891	Klasik
+0x7f140892	Renk
+0x7f140893	Renk sınıflandırması
+0x7f140894	Birleştirme
+0x7f140895	Kontur
+0x7f140896	Kontrol
+0x7f140897	Distorsiyon
+0x7f140898	Çizim
+0x7f140899	Enerji
+0x7f14089a	Temel Parçalar
+0x7f14089b	Fraktal
+0x7f14089c	Çerçeve
+0x7f14089d	Eğlence
+0x7f14089e	Geometrik
+0x7f14089f	Arıza
+0x7f1408a0	Degrade
+0x7f1408a1	Yeşil Ekran
+0x7f1408a2	Ayırma
+0x7f1408a3	Kinetik
+0x7f1408a4	Aydınlatma
+0x7f1408a5	Çizgi
+0x7f1408a6	Luma Haritası
+0x7f1408a7	Maskele
+0x7f1408a8	Mat
+0x7f1408a9	Sadece üyeler
+0x7f1408aa	Neon
+0x7f1408ab	Kumlanma
+0x7f1408ac	Opaklık
+0x7f1408ad	Anahat
+0x7f1408ae	Parçacık
+0x7f1408af	Yol
+0x7f1408b0	Desen
+0x7f1408b1	Pop
+0x7f1408b2	İlerleme
+0x7f1408b3	Özellik Ayarlama
+0x7f1408b4	Rastgele
+0x7f1408b5	Raster
+0x7f1408b6	Raymarch
+0x7f1408b7	Retro
+0x7f1408b8	Ritmik
+0x7f1408b9	Sallamak
+0x7f1408ba	Şekil
+0x7f1408bb	Netleştir
+0x7f1408bc	Vuruş
+0x7f1408bd	Şık
+0x7f1408be	Doku
+0x7f1408bf	Zaman
+0x7f1408c0	Çevir
+0x7f1408c1	Yardımcı
+0x7f1408c2	Vektör
+0x7f1408c3	Görünürlük
+0x7f1408c4	VR
+0x7f1408c5	Bükme
+0x7f1408c6	414370328124
+0x7f1408c7	Something went wrong
+0x7f1408c8	İçe aktarmak için giriş yapmanız gerekiyor.
+0x7f1408c9	Ön ayar%1$d
+0x7f1408ca	Başla
+0x7f1408cb	Alight Motion ile proje oluştur
+0x7f1408cc	2 dk
+0x7f1408cd	Proje Oluştur
+0x7f1408ce	Alight Motion ile şablon kullan
+0x7f1408cf	4 dk
+0x7f1408d0	Şablon Kullan
+0x7f1408d1	Alight Motion'dan eğitimleri izle
+0x7f1408d2	15 dk
+0x7f1408d3	Eğitimlerimizi İzle
+0x7f1408d4	Başlanıyor
+0x7f1408d5	Ghibli Tarzı
+0x7f1408d6	GIF
+0x7f1408d7	Gift Code
+0x7f1408d8	Glitch
+0x7f1408d9	Işıltı
+0x7f1408da	AIzaSyDtG1AU22ErnQD60AzBAcaknySiz9_CEq0
+0x7f1408db	1:414370328124:android:f1394131c8b84de3
+0x7f1408dc	AIzaSyDtG1AU22ErnQD60AzBAcaknySiz9_CEq0
+0x7f1408dd	alight-creative.appspot.com
+0x7f1408de	Yunanca Yazı Tipleri
+0x7f1408df	Grupla
+0x7f1408e0	Grupla ve Çıkar
+0x7f1408e1	Grupla ve Maskele
+0x7f1408e2	Lütfen 1 ile 99999 arasında bir değer girin.
+0x7f1408e3	Grup Genişliği ve Yüksekliği
+0x7f1408e4	Projenize Fotoğraf, Video, Ses, Şekiller, Yazı, Çizimler ve daha birçok katman ekleyin.
+0x7f1408e5	Ekle
+0x7f1408e6	Taşı ve Dönüştür gibi düzenleme panelleriyle katman konumunu, rengini ve diğer özellikleri ayarlayın.
+0x7f1408e7	Ayarla
+0x7f1408e8	Herhangi bir katmanın herhangi bir bölümünü canlandırmak için anahtar kareler ekleyin.
+0x7f1408e9	Canlandır
+0x7f1408ea	Hareketli Kareler'e sahip herkesin düzenleyebileceği bir video, GIF veya proje paketi olarak dışa aktarın.
+0x7f1408eb	Dışa Aktar ve Paylaş
+0x7f1408ec	Instagram, YouTube ve en sevdiğiniz uygulamalarda paylaşın!
+0x7f1408ed	Hareketli Kareler'de çalışmak çok kolay!
+0x7f1408ee	1-2-3
+0x7f1408ef	Kılavuz
+0x7f1408f0	Fırça
+0x7f1408f1	Silgi
+0x7f1408f2	Doldur
+0x7f1408f3	Sertlik
+0x7f1408f4	Opaklık
+0x7f1408f5	Kalem
+0x7f1408f6	Boyut
+0x7f1408f7	Kalınlık
+0x7f1408f8	El Yazısı Yazı Tipleri
+0x7f1408f9	Bu katmanda ses yok
+0x7f1408fa	İbranice Yazı Tipleri
+0x7f1408fc	Destek Alın
+0x7f1408fd	com.google.android.material.behavior.HideBottomViewOnScrollBehavior
+0x7f1408fe	Yüksek
+0x7f1408ff	Katman Adı
+0x7f140900	Yeni email adresi
+0x7f140901	(Başlık yok)
+0x7f140902	Proje Adı
+0x7f140903	(Adsız Katman)
+0x7f140904	Öğeler nasıl kullanılır?
+0x7f140905	Yazı tipleri nasıl içe aktarılır
+0x7f140906	Ads by DT
+0x7f140907	CLOSE
+0x7f140908	KEEP WATCHING
+0x7f140909	Reward will not be received before video completion.
+0x7f14090a	Close Video?
+0x7f14090b	Connection was lost
+cannot play video
+0x7f14090c	App Info
+0x7f14090d	Skip in (%d)
+0x7f14090e	Install Now
+0x7f14090f	Instant Install
+0x7f140910	Skip Ad
+0x7f140911	Ícone de caixa de diálogo
+0x7f140912	IDs
+0x7f140913	Fotoğraf ve Video
+0x7f140914	Görüntü Dizisi
+0x7f140915	İçe aktarma tamamlandı
+0x7f140916	İçe Aktarma Başarısız Oldu
+0x7f140917	Yazı Tiplerini İçe Aktar
+0x7f140918	Yazı tiplerini Hareketli Kareler'de içe aktarmak ve bir .ttf veya .otf dosyasını telefonunuzdaki Hareketli Kareler klasörüne kopyalamak için Dosyalar uygulamasını kullanın, ardından Hareketli Kareler yazı tipi tarayıcısındaki İçe Aktarılan Yazı Tipleri kategorisini kontrol edin.
+0x7f140919	Yazı tipleri içe aktarılıyor
+0x7f14091a	Projeyi İçe Aktar
+0x7f14091b	İçe Aktarılan: %1$s
+Boyut: %2$s
+0x7f14091c	İçe Aktarılan Yazı Tipleri
+0x7f14091d	alightcreative.com
+0x7f14091e	alight.page.link
+0x7f14091f	Yazı tipleri içe aktarılıyor
+0x7f140920	Bir proje paketini içe aktarmadan önce oturum açmış olmanız gerekmektedir.
+0x7f140921	‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‏‏‏‏‎‏‏‏‏‎‏‏‎‎‎‎‎‏‎‏‎‎‏‏‏‏‏‏‏‏‎‎‏‎‎‏‏‎‏‏‏‏‏‏‎‏‎‏‎‎‎‏‏‎‏‏‏‎‏‏‏‏‏‎‏‏‎In progress‎‏‎‎‏‎
+0x7f140922	Giriş
+0x7f140923	(stil dahil)
+0x7f140924	Hareketli Kareler'in bu sürümü cihazınızla uyumlu değil. Lütfen Google Play Store'dan en son resmi sürümü indirin. Herhangi bir sorunla karşılaşırsanız, lütfen support@alightcreative.com ile iletişime geçin ve mail'e bu ekranın ekran görüntüsünü ekleyin.
+0x7f140925	UYUMSUZ SÜRÜM
+0x7f140926	‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‏‏‏‏‏‎‏‏‏‎‎‎‎‏‏‎‎‏‎‏‎‎‏‏‏‎‎‎‎‎‏‎‎‎‏‎‎‎‏‎‏‏‏‏‏‎‏‎‏‏‏‎‏‎‎‎‏‎‏‏‎‎‏‏‎‎‎Partially checked‎‏‎‎‏‎
+0x7f140927	Bilgi
+0x7f140928	Instagram
+0x7f140929	1 hafta için %1$s
+0x7f14092a	%1$s {bold}ücretsiz{/bold}, ardından {bold}%2$s{/bold}
+0x7f14092b	{dashed}%1$s{/dashed} {bold}%2$s{/bold}
+0x7f14092c	%1$s %2$s'den sonra
+0x7f14092d	Zaten satın aldın mı?
+0x7f14092e	Devam et
+0x7f14092f	Ücretsiz deneme sürümü etkinleştirildi
+0x7f140930	Ücretsiz deneme sürümünü etkinleştir
+0x7f140931	Kararsız mı kaldın?
+0x7f140932	aylık %1$s
+0x7f140933	%1$d gün ücretsiz, sonra aylık %2$s
+0x7f140934	%1$d gün ücretsiz, sonra aylık %2$s
+0x7f140935	Yaratıcılığını sınırsız kullan
+0x7f140936	Ödeme bekleniyor.
+0x7f140937	Yaptığın ödeme işleme alındı. Premium özellikler, işlem tamamlandıktan sonra etkinleştirilecek.
+0x7f140938	Ödeme işleme alındı
+0x7f140939	haftalık %1$s
+0x7f14093a	%1$d gün ücretsiz, sonra haftalık %2$s
+0x7f14093b	%1$d gün ücretsiz, sonra haftalık %2$s
+0x7f14093c	yıllık %1$s
+0x7f14093d	%1$d gün ücretsiz, sonra yıllık %2$s
+0x7f14093e	%1$d gün ücretsiz, sonra yıllık %2$s
+0x7f14093f	Bir arkadaş davet et
+0x7f140940	Guia
+0x7f140941	Japonca Yazı Tipleri
+0x7f140942	Uygulamanın trafiğini ve performansını, en çok ve en az kullanılan özellikleri ve uygulamada nasıl gezindiğinizi izlemek için kullanılır. Kullanılan izleme teknolojileri tarafımızca veya üçüncü taraf ortaklarımızca ayarlanabilir. Bu işlemeye katılmayarak hiçbir özelliğe erişiminizi kaybetmezsiniz.
+0x7f140943	Uygulama kullanımını ve trendleri analiz etmek
+0x7f140944	Korece Yazı Tipleri
+0x7f140945	Başla'ya tıklayarak {tos_link}Hizmet Şartlarımızı{/tos_link} kabul etmiş ve temel işlemeyi onaylamış olursunuz.
+0x7f140946	Daha fazla bilgi için lütfen {pp_link}Gizlilik Politikası{/pp_link} sayfamıza bakın.
+0x7f140947	Hizmet sunmak için kişisel bilgilerinizi aşağıdaki şekilde topluyor ve kullanıyoruz:
+
+Veri toplama amaçları:
+
+• Hizmetlerimizi sunmak ve geliştirmek
+• İçerik ve reklamları kişiselleştirmek
+• Uygulama kullanımını ve trendleri analiz etmek
+
+Toplanan veri türleri:
+
+• Cihaz ve uygulama verileri
+• Kullanım verileri
+• IP adresi ve konum
+• Kullanıcı Kimliği gibi tanımlayıcılar
+• Reklam verileri
+
+Saklama ve kullanım süresi:
+
+Kişisel verileriniz, yukarıdaki amaçları yerine getirmek için gerekli olduğu sürece saklanacaktır; ancak yasa daha uzun bir saklama süresi gerektiriyorsa buna uyulacaktır.
+
+Verilerinizi hangi zorunlu olmayan amaçlarla işlediğimizi seçebilirsiniz.
+0x7f140948	Paylaştığınız verilere ve uygulama içi davranışınıza dayalı özelleştirilmiş hizmetler ve reklamlar sunmak ve reklamlarımızın etkinliğini ölçmek için kullanılır. Kullanılan izleme teknolojileri tarafımızca veya üçüncü taraf ortaklarımızca ayarlanabilir. Bu işlemeye katılmayarak kişiselleştirilmiş reklam almayacaksınız.
+0x7f140949	İçerik ve reklamları kişiselleştirmek
+0x7f14094a	Uygulamanın doğru çalışması için gerekli veya yalnızca tarafımızca toplu istatistiksel analiz yapmak için kullanılır.
+0x7f14094b	Hizmetlerimizi sunmak ve geliştirmek
+0x7f14094c	Diller
+0x7f14094d	Son projeler
+0x7f14094e	Latin Yazı Tipleri
+0x7f14094f	Üst Katman Oluşturma
+0x7f140950	Daha fazla bilgi edin
+0x7f140951	Animasyonlarınızı bir üst seviyeye çıkarın!
+0x7f140952	Bağlantı
+0x7f140953	Bağlantı Kullanılamıyor
+0x7f140954	Bağlantı Doğrulaması Başarısız
+0x7f140955	Döngü Oynatma
+0x7f140956	Aşk
+0x7f140957	Düşük
+0x7f140958	%1$s%2$s
+0x7f140959	sans-serif-medium
+0x7f14095a	sans-serif
+0x7f14095b	sans-serif-medium
+0x7f14095c	sans-serif
+0x7f140960	M 0,0 C 0.05, 0, 0.133333, 0.06, 0.166666, 0.4 C 0.208333, 0.82, 0.25, 1, 1, 1
+0x7f140961	cubic-bezier(0.4, 0, 0.2, 1)
+0x7f140962	cubic-bezier(0.4, 0, 1, 1)
+0x7f140963	cubic-bezier(0, 0, 0.2, 1)
+0x7f140968	‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‏‏‎‏‎‏‎‎‏‎‏‏‏‏‎‎‏‎‎‏‎‎‏‏‏‏‏‏‎‏‏‏‏‎‎‏‏‏‎‎‎‏‎‎‎‎‏‏‏‎‏‏‎‏‎‏‏‏‏‏‏‎‎‎‎‎Collapse bottom sheet‎‏‎‎‏‎
+0x7f140969	‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‏‎‏‏‎‏‎‏‏‎‎‏‎‏‏‎‎‏‏‏‏‏‎‎‏‏‎‎‎‎‏‎‎‎‏‎‎‏‎‎‎‏‎‎‏‎‏‎‎‏‎‏‏‎‎‏‎‏‏‎‎‎‎‎‎Dismiss bottom sheet‎‏‎‎‏‎
+0x7f14096a	‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‏‏‏‏‏‏‎‏‎‎‏‎‎‏‏‏‏‎‏‎‏‏‎‏‏‎‏‎‏‎‎‎‏‎‏‏‏‎‎‎‎‏‎‏‏‏‏‏‏‎‎‏‎‎‎‎‏‏‎‏‎‏‏‏‏‏‎Drag handle‎‏‎‎‏‎
+0x7f14096b	‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‏‏‏‏‎‏‏‏‎‎‏‎‎‏‎‎‏‏‏‎‎‎‎‎‏‏‎‎‎‎‏‏‏‎‎‎‎‏‏‏‏‏‎‏‏‎‏‏‎‏‏‎‏‏‎‎‎‎‏‏‏‏‎‎‏‏‎Expand bottom sheet‎‏‎‎‏‎
+0x7f14096c	‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‏‏‎‏‎‏‎‎‏‏‏‎‎‎‏‏‏‏‏‏‎‏‏‎‏‎‏‎‏‏‎‏‎‏‏‎‎‎‏‎‏‎‏‏‏‎‎‎‏‏‎‎‏‏‏‏‎‎‏‎‏‎‏‏‏‎Bottom Sheet‎‏‎‎‏‎
+0x7f14096d	‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‏‏‏‏‏‏‎‎‎‏‎‏‎‏‎‏‏‎‎‎‎‏‏‎‎‎‎‎‎‎‏‏‎‏‏‏‎‎‏‎‎‏‎‏‏‏‎‏‏‎‎‎‎‎‏‎‎‏‏‏‏‏‏‎‏‏‎Entered date‎‏‎‎‏‎
+0x7f14096e	‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‎‏‎‏‏‎‎‏‎‏‏‏‎‏‎‏‎‏‏‏‏‏‎‏‎‎‏‎‏‏‏‎‏‎‏‏‎‎‎‏‏‎‏‎‏‏‎‎‏‏‎‏‎‏‎‎‎‎‏‎‎‎Entered date: %1$s‎‏‎‎‏‎
+0x7f14096f	‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‏‏‏‏‎‏‎‏‎‎‏‏‏‎‎‎‏‏‏‎‏‎‎‎‎‏‏‏‏‎‏‎‏‏‎‎‏‎‎‎‏‎‎‎‏‎‎‏‎‎‎‏‏‎‎‏‏‏‏‎‎‏‏‏‎‏‎Date does not match expected pattern: %1$s‎‏‎‎‏‎
+0x7f140970	‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‏‏‎‏‎‎‎‏‎‏‏‏‏‏‏‏‏‎‎‎‏‏‏‏‏‎‎‎‏‏‎‎‏‎‎‎‏‎‏‎‎‏‏‎‏‏‎‏‎‏‏‏‏‏‎‎‎‎‎‏‏‏‏‏‏‎Date not allowed: %1$s‎‏‎‎‏‎
+0x7f140971	‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‏‏‏‏‏‎‎‎‎‏‏‏‏‎‎‎‎‎‏‏‏‎‏‏‏‎‎‎‏‏‎‏‎‎‎‎‎‏‎‏‎‏‏‏‎‏‏‎‏‎‏‎‎‏‏‏‎‎‏‎‏‎‏‎‎‏‎Date out of expected year range %1$s - %2$s‎‏‎‎‏‎
+0x7f140972	‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‏‏‎‏‎‏‎‎‎‎‎‏‎‏‏‏‏‎‎‎‏‏‎‎‎‎‏‎‎‏‏‏‎‏‏‎‎‎‏‎‎‏‏‎‎‎‏‎‏‏‎‏‏‏‎‏‏‏‎‎‎‎‎‎‏‎Date‎‏‎‎‏‎
+0x7f140973	‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‏‎‏‏‎‎‎‏‎‎‏‎‏‎‏‎‏‏‎‎‎‎‎‏‏‎‏‎‎‎‎‏‎‏‎‏‎‏‎‎‏‏‎‎‏‎‏‎‏‎‏‏‏‎‎‏‏‎‏‎‎‎‏‎‎None‎‏‎‎‏‎
+0x7f140974	‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‏‏‏‏‏‎‎‏‎‏‎‏‏‎‎‏‎‎‏‏‏‎‏‏‏‎‏‏‏‏‏‎‎‏‎‎‏‏‏‏‏‏‏‏‏‏‎‏‏‏‎‎‎‎‏‏‏‏‏‏‎‎‏‎‎‎‎Select date‎‏‎‎‏‎
+0x7f140975	‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‏‏‏‏‏‎‏‎‎‏‏‎‎‎‏‎‏‎‎‏‏‎‎‏‎‏‎‎‏‏‎‏‏‏‏‏‏‏‏‎‏‎‏‏‏‎‏‏‎‎‎‎‎‎‎‏‏‏‏‏‎‏‏‎‎‏‎Selected date‎‏‎‎‏‎
+0x7f140976	‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‏‏‎‏‏‎‎‏‎‏‏‎‏‏‎‏‎‎‎‏‎‎‎‎‎‏‏‎‎‏‎‏‏‏‎‎‎‎‎‎‎‏‎‎‏‎‏‎‎‎‏‏‎‎‎‏‏‏‎‏‏‎‎‏‏‎Current selection: %1$s‎‏‎‎‏‎
+0x7f140977	‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‏‏‏‏‏‏‎‏‎‏‎‎‎‏‎‏‎‏‎‎‎‎‎‎‎‏‎‎‏‎‏‏‏‎‏‎‎‏‏‎‎‎‎‎‏‎‏‎‎‏‏‏‎‏‎‎‎‎‎‏‏‎‏‎‎‎‎Navigate to year %1$s‎‏‎‎‏‎
+0x7f140978	‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‏‏‏‏‎‏‎‎‎‎‏‎‏‎‎‏‎‎‏‏‎‏‎‎‏‎‏‎‎‏‏‏‏‎‏‎‏‎‏‏‏‎‎‎‏‏‏‎‏‏‎‏‎‏‎‏‎‏‏‏‏‎‏‎‏‏‎None‎‏‎‎‏‎
+0x7f140979	‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‏‏‏‏‏‎‏‏‎‎‎‏‏‏‎‎‎‎‎‏‏‏‏‏‎‎‏‎‎‏‏‎‎‏‏‎‎‎‏‎‎‏‏‎‎‎‏‎‎‏‏‎‏‎‏‏‎‎‎‏‏‏‏‎‏‏‎Scroll to show earlier years‎‏‎‎‏‎
+0x7f14097a	‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‏‏‏‏‎‎‏‏‏‏‎‏‏‏‏‎‏‏‏‎‏‏‎‎‎‏‏‏‏‏‎‏‎‎‏‎‏‎‏‎‎‎‏‏‏‏‎‏‏‎‎‎‎‏‏‏‏‎‏‎‎‏‎‎‎‏‎Scroll to show later years‎‏‎‎‏‎
+0x7f14097b	‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‏‎‏‏‏‎‎‏‎‎‎‎‏‎‏‎‎‏‎‏‎‎‏‏‏‏‏‏‎‎‎‎‎‏‎‏‏‎‎‏‎‏‎‎‎‏‎‎‏‎‏‏‏‏‏‎‎‏‎‏‎‏‏‏‎Switch to calendar input mode‎‏‎‎‏‎
+0x7f14097c	‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‎‏‏‏‎‏‎‏‏‏‏‏‎‏‏‎‎‎‏‏‎‏‏‎‎‎‏‎‎‎‏‎‏‏‏‎‏‏‏‎‏‎‎‎‏‏‎‏‏‏‏‏‎‏‏‏‎‏‎‏‏‎‎Swipe to select a year, or tap to switch back to selecting a day‎‏‎‎‏‎
+0x7f14097d	‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‏‎‏‏‏‏‏‎‏‏‎‎‏‏‏‎‎‎‎‏‏‏‏‏‏‎‏‎‎‏‏‏‎‏‎‏‏‏‏‏‏‎‏‎‏‎‎‏‎‏‎‎‏‎‎‏‏‏‎‏‎‎‎‎‎Switch to text input mode‎‏‎‎‏‎
+0x7f14097e	‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‏‏‏‏‏‎‎‎‏‏‎‎‎‏‏‏‎‏‏‏‎‏‎‏‏‏‎‏‎‎‏‏‏‏‏‎‏‎‎‎‎‏‏‎‏‏‏‏‎‎‏‎‏‎‎‎‎‎‎‏‎‏‎‏‎‎‎Change to next month‎‏‎‎‏‎
+0x7f14097f	‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‎‏‎‏‏‎‎‏‎‏‎‏‏‏‎‎‏‎‎‏‏‏‏‏‏‎‎‎‎‎‎‎‎‎‎‎‏‏‎‎‎‎‏‏‎‏‏‏‎‏‎‎‎‎‎‎‏‏‏‏‎‎Change to previous month‎‏‎‎‏‎
+0x7f140980	‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‏‎‎‏‎‏‎‏‏‏‏‏‏‎‎‏‎‎‎‎‎‏‏‎‎‎‎‏‎‏‏‎‎‏‏‎‎‏‏‎‏‏‏‏‎‎‎‏‎‏‎‎‎‏‎‏‏‎‎‏‎‏‎‎Switch to selecting a year‎‏‎‎‏‎
+0x7f140981	‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‏‏‏‏‏‎‎‏‏‏‎‎‎‏‏‏‏‏‎‏‏‏‏‎‎‏‎‎‎‎‎‏‎‏‎‎‎‎‏‎‏‎‎‏‏‎‏‏‏‎‏‏‏‏‏‏‏‏‏‎‏‎‏‎‎‏‎Select date‎‏‎‎‏‎
+0x7f140982	‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‏‏‎‏‎‏‏‎‎‎‏‏‎‎‏‏‎‏‎‎‎‎‎‎‏‏‎‏‎‏‏‏‏‏‏‏‎‎‏‎‎‏‎‏‏‎‏‏‏‎‏‏‎‏‎‏‎‎‏‏‎‎‏‏‏‎Today‎‏‎‎‏‎
+0x7f140983	‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‏‎‏‏‏‏‎‎‏‎‏‏‎‏‎‎‎‏‎‏‏‏‏‎‏‎‏‎‏‏‏‎‏‎‎‏‎‏‏‎‏‏‎‎‏‎‎‏‎‎‏‏‏‏‏‎‏‎‏‏‎‎‏‎‎Year picker visible‎‏‎‎‏‎
+0x7f140984	‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‏‏‎‏‎‏‏‎‎‎‏‎‎‎‏‎‏‎‏‎‏‎‏‎‏‎‎‎‎‏‏‎‎‏‎‎‎‎‏‎‏‎‏‏‎‎‎‏‎‏‎‎‎‏‏‎‏‎‎‏‏‎‏‏‎‎Invalid date range input‎‏‎‎‏‎
+0x7f140985	‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‏‏‎‏‎‏‎‏‏‏‎‏‏‎‎‎‏‎‏‎‎‏‏‏‏‎‎‏‏‏‎‎‎‏‏‏‏‎‏‎‏‎‏‎‎‎‎‎‏‏‏‏‏‎‎‎‎‎‎‎‏‏‎‏‏‎Enter dates‎‏‎‎‏‎
+0x7f140986	‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‏‎‏‏‏‏‎‏‏‎‏‎‏‏‎‎‏‏‎‏‎‏‏‏‏‎‏‏‏‏‎‎‏‎‏‎‏‏‎‏‏‏‏‎‏‎‎‏‎‏‏‎‎‎‎‎‎‏‏‎‏‎‏‎‎In range‎‏‎‎‏‎
+0x7f140987	‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‏‏‏‏‎‎‎‏‎‎‏‎‏‎‏‎‎‏‏‎‎‎‏‎‎‏‎‏‏‏‎‏‎‎‎‎‏‎‏‏‏‏‏‎‎‏‏‏‎‏‏‎‏‏‏‎‎‎‏‎‎‏‎‎‎‏‎End date‎‏‎‎‏‎
+0x7f140988	‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‏‎‎‏‎‎‎‎‏‎‏‏‎‏‏‎‎‎‎‎‎‏‎‏‎‎‏‏‏‏‏‏‎‎‏‎‎‎‏‎‎‎‏‎‎‎‏‎‏‏‏‏‎‎‎‏‏‎‎‎‏‎‏‎Scroll to show the next month‎‏‎‎‏‎
+0x7f140989	‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‏‏‎‏‏‏‏‏‏‏‎‏‏‏‎‏‎‏‎‏‎‏‏‏‎‎‏‏‎‎‏‏‎‎‏‏‎‎‏‎‎‎‎‎‎‏‏‎‎‏‏‏‏‎‎‏‏‎‎‏‏‏‎‎‎‎Scroll to show the previous month‎‏‎‎‏‎
+0x7f14098a	‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‏‏‏‏‎‎‎‎‎‎‏‏‎‎‎‎‎‎‏‏‏‎‎‏‎‏‎‏‏‎‏‎‎‎‎‎‎‎‏‎‎‏‎‏‏‎‎‏‎‎‎‎‎‏‏‏‏‎‏‏‏‏‏‏‎‎‎Start date‎‏‎‎‏‎
+0x7f14098b	‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‏‏‎‏‎‏‎‏‏‎‏‏‏‏‏‏‎‏‏‎‎‏‎‏‎‏‏‎‏‏‎‏‎‏‎‏‎‎‏‎‏‎‎‏‏‏‏‎‎‏‎‏‎‎‏‎‏‏‎‏‎‎‎‎‏‎Select dates‎‏‎‎‏‎
+0x7f14098c	‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‏‏‏‏‏‎‏‎‎‏‏‎‏‏‎‏‎‏‏‏‎‏‏‎‎‏‎‎‏‎‏‎‎‏‏‎‎‎‎‏‏‎‎‎‏‎‏‎‎‏‎‎‎‏‏‏‏‎‏‏‎‎‏‏‏‎‎Dialog‎‏‎‎‏‎
+0x7f14098d	‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‏‏‎‏‎‏‏‎‎‎‎‎‏‏‎‎‏‏‏‏‎‏‎‎‏‏‏‏‎‎‏‏‎‏‎‎‏‏‎‏‎‎‎‎‏‎‏‎‎‎‎‏‎‏‏‏‎‎‏‏‏‏‏‏‎‎Collapsed‎‏‎‎‏‎
+0x7f14098e	‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‏‏‎‏‎‎‎‎‎‏‏‎‎‎‎‏‏‎‏‏‎‎‏‎‏‎‎‎‏‎‏‏‏‎‏‎‏‏‏‏‎‏‏‏‏‏‎‎‎‏‏‏‏‏‎‎‎‎‏‏‎‏‎‏‎‎Expanded‎‏‎‎‏‎
+0x7f14098f	‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‏‏‏‏‏‏‏‎‎‎‏‎‎‏‎‎‎‏‎‏‎‏‎‏‏‏‏‏‎‎‏‏‎‎‎‎‏‏‎‎‏‏‏‎‏‎‏‎‏‎‎‏‏‎‏‏‏‏‎‎‎‏‎‏‏‏‎Toggle dropdown menu‎‏‎‎‏‎
+0x7f140990	‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‏‏‏‏‎‏‎‏‎‏‎‏‏‎‎‎‏‏‎‎‏‎‏‎‎‎‏‏‎‎‎‎‎‎‏‏‎‎‏‎‏‎‏‏‏‏‎‏‎‎‏‎‎‏‎‏‎‎‏‎‏‎‎‏‏‎‎Search‎‏‎‎‏‎
+0x7f140991	‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‏‏‏‏‎‏‎‏‎‏‎‏‏‎‎‎‏‎‏‏‏‏‏‎‏‎‏‎‏‏‎‏‏‎‎‏‎‎‏‏‎‎‏‎‏‏‏‎‏‏‏‎‏‏‏‏‎‏‏‎‏‏‎‎‏‏‎Dismiss‎‏‎‎‏‎
+0x7f140992	‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‏‏‏‏‏‎‏‎‏‎‎‎‏‏‏‏‎‏‏‏‏‎‏‏‏‎‎‎‏‎‏‎‏‎‎‎‎‏‎‎‏‏‏‏‎‎‎‏‎‎‏‎‏‎‎‎‎‏‏‎‏‎‏‎‏‏‎Suggestions below‎‏‎‎‏‎
+0x7f140993	‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‏‏‎‏‎‎‏‏‎‏‎‏‎‏‏‎‎‎‏‎‎‏‎‏‏‎‏‎‎‎‎‎‎‏‎‏‏‏‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‏‏‎‎‏‎‏‎‎‎‎AM‎‏‎‎‏‎
+0x7f140994	‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‏‏‎‏‎‎‎‎‎‏‎‎‏‏‎‏‎‎‎‎‎‎‎‏‏‎‎‎‎‎‏‎‎‎‏‎‎‏‏‎‎‎‏‏‏‏‏‎‏‏‏‏‏‎‏‏‏‏‏‏‎‏‏‎‎‎Hour‎‏‎‎‏‎
+0x7f140995	‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‏‏‏‏‏‏‏‏‏‏‎‏‏‎‎‏‎‎‎‎‏‏‏‎‏‏‏‎‏‎‎‏‏‏‏‏‎‎‏‎‎‏‏‎‏‎‏‎‏‏‎‎‎‏‎‎‎‏‏‏‏‎‏‎‎‏‎%1$d hours‎‏‎‎‏‎
+0x7f140996	‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‏‏‏‏‏‏‏‎‏‏‎‎‏‏‎‎‎‎‏‎‎‏‎‏‎‏‏‎‎‎‏‏‏‎‎‎‏‎‎‏‏‏‏‏‎‎‏‏‎‎‎‎‏‏‎‏‏‎‏‎‏‎‏‎‏‏‎Select hour‎‏‎‎‏‎
+0x7f140997	‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‏‏‎‏‎‏‏‏‏‏‏‏‏‏‏‎‏‏‏‏‎‎‎‎‏‎‎‎‎‎‏‏‎‏‎‏‏‎‎‏‏‏‎‏‎‏‎‎‎‏‎‎‎‏‎‎‎‎‏‏‏‏‏‎‎‎%1$d o'clock‎‏‎‎‏‎
+0x7f140998	‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‏‏‏‏‏‎‎‎‎‎‏‏‎‎‎‏‏‏‏‏‏‏‎‎‎‏‏‎‎‎‎‏‏‎‏‏‏‎‎‏‎‎‎‏‏‎‏‏‏‎‏‎‏‏‎‎‏‎‏‏‎‏‎‏‎‏‎for hour‎‏‎‎‏‎
+0x7f140999	‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‏‏‎‏‏‏‎‏‏‏‏‎‏‏‎‏‏‎‎‎‏‏‏‎‎‎‎‎‎‏‏‎‏‏‏‏‎‏‏‎‎‏‎‎‏‎‎‎‏‎‎‎‎‎‏‏‏‎‎‏‏‎‏‎‏‎Minute‎‏‎‎‏‎
+0x7f14099a	‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‏‏‏‏‎‎‎‎‎‏‎‎‏‏‎‏‏‎‏‎‏‎‏‏‎‏‎‎‎‎‏‏‎‏‏‎‎‏‎‏‎‏‎‎‏‎‏‏‏‎‏‎‏‏‏‏‎‏‏‎‎‏‎‏‎‏‎Select minutes‎‏‎‎‏‎
+0x7f14099b	‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‏‏‏‏‎‎‎‏‏‎‎‏‎‎‎‏‏‏‏‎‎‏‎‎‏‎‏‏‏‏‏‏‎‏‎‎‎‏‏‎‏‏‎‎‏‏‎‎‎‎‎‎‏‏‎‏‎‎‎‎‎‏‏‎‏‏‎%1$d minutes‎‏‎‎‏‎
+0x7f14099c	‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‏‏‏‏‏‎‏‎‏‎‎‏‎‏‎‎‏‎‎‎‏‎‏‏‎‎‎‎‏‎‏‏‎‏‎‎‎‏‎‏‏‏‏‏‎‏‎‎‏‎‎‏‎‎‏‎‏‎‏‏‏‎‏‏‏‎‎for minutes‎‏‎‎‏‎
+0x7f14099d	‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‏‏‏‏‎‏‎‎‎‏‎‏‏‎‎‏‎‏‎‏‎‎‎‏‏‎‏‏‎‏‎‎‎‎‎‎‏‎‎‏‏‎‎‎‏‏‏‏‎‎‏‎‏‏‏‎‎‎‏‎‎‎‏‎‏‏‎Select AM or PM‎‏‎‎‏‎
+0x7f14099e	‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‏‏‏‏‎‏‏‎‏‏‏‏‎‏‎‎‏‎‎‎‎‎‏‎‏‎‎‎‏‏‏‎‏‏‏‎‏‏‎‏‎‎‏‏‎‎‏‎‎‎‏‏‎‏‎‎‎‎‏‏‎‏‏‏‎‏‎PM‎‏‎‎‏‎
+0x7f14099f	‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‏‎‏‏‏‎‎‏‎‎‎‎‏‏‏‏‎‎‎‏‎‏‏‏‎‏‎‏‏‎‎‏‎‎‎‏‏‎‏‏‏‎‎‏‎‏‎‎‏‏‏‎‎‏‏‏‏‎‏‏‎‎‎‎‎Show tooltip‎‏‎‎‏‎
+0x7f1409a0	‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‏‏‏‏‎‎‏‎‏‏‏‏‎‎‎‏‏‏‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‏‎‏‎‎‎‏‏‏‎‏‏‎‎‏‎‏‏‏‏‏‏‎‎‏‎‎‏‏‏‎‎‎Tooltip‎‏‎‎‏‎
+0x7f1409a1	Önizlemede sürükle: bir pivot anahtar kare ekle.
+
+⇧ Önizlemede sürükle: tüm pivot anahtar karelerini taşı
+0x7f1409a2	Önizlemede sürükle: geçerli pivot anahtar karesini taşı
+
+⇧Önizlemede sürükle: tüm pivot anahtar karelerini taşı
+0x7f1409a3	Önizlemede sürükle: pivotu taşı
+0x7f1409a4	Önizlemede sürükle: bir konum ana karesi ekle.
+⇧Önizlemede sürükle: tüm konum ana karelerini taşı
+0x7f1409a5	Önizlemede sürükle: geçerli konum ana karesini taşı
+
+⇧Önizlemede sürükle: tüm konum ana karelerini taşı
+0x7f1409a6	Önizlemede sürükle: katmanı taşı
+0x7f1409a7	Önizlemede sürükle: seçili nokta için anahtar kare ekle
+
+⇧Önizlemede sürükle: seçili nokta için tüm ana kareleri taşı
+0x7f1409a8	Önizlemede tıkla: nokta ekle
+
+Önizlemede sürükle: eğri ekle
+0x7f1409a9	Önizlemede sürükle: seçili nokta için geçerli ana kareyi taşı
+
+⇧Önizlemede sürükle: seçili nokta için tüm ana kareleri taşı
+0x7f1409aa	Önizlemede sürükle: noktayı taşı
+0x7f1409ab	Magnitude (B)
+0x7f1409ac	Magnitude (G)
+0x7f1409ad	Magnitude (R)
+0x7f1409ae	Magnitude (X)
+0x7f1409af	Magnitude (Y)
+0x7f1409b0	Animasyonlarınızı daha profesyonel hale getirin!
+0x7f1409b1	%s ile videolarınızı öne çıkarın
+0x7f1409b2	Yönet
+0x7f1409b3	Hesabı Yönet
+0x7f1409b4	Medya Erişimini Yönet
+0x7f1409b5	Aboneliği Yönet
+0x7f1409b6	Maskeleme Grubu
+0x7f1409b8	Selecionar AM ou PM
+0x7f1409b9	%1$s horas
+0x7f1409ba	Selecionar horário
+0x7f1409bb	%1$s em ponto
+0x7f1409bc	Selecione os minutos
+0x7f1409bd	%1$s minutos
+0x7f1409be	cubic-bezier(0.4, 0.0, 1.0, 1.0)
+0x7f1409bf	cubic-bezier(0.0, 0.0, 0.2, 1.0)
+0x7f1409c0	path(M 0,0 C 0.05, 0, 0.133333, 0.06, 0.166666, 0.4 C 0.208333, 0.82, 0.25, 1, 1, 1)
+0x7f1409c1	cubic-bezier(0.0, 0.0, 1.0, 1.0)
+0x7f1409c2	cubic-bezier(0.4, 0.0, 0.2, 1.0)
+0x7f1409c3	Range end
+0x7f1409c4	Range start
+0x7f1409c5	Value
+0x7f1409c6	AM
+0x7f1409c7	Alterne para o modo de relógio para informar o horário.
+0x7f1409c8	Hora
+0x7f1409c9	Minuto
+0x7f1409ca	PM
+0x7f1409cb	Selecionar horário
+0x7f1409cc	Alterne para o modo de entrada de texto para informar o horário.
+0x7f1409cd	Dosya yüklemek için abone ol veya %1$s sınırının altında kalacak kadar proje sil
+0x7f1409ce	Paketinizi yükseltin
+0x7f1409cf	Maksimum kotaya ulaştın
+0x7f1409d0	Maksimum kotanıza neredeyse ulaştınız.
+0x7f1409d1	Buluta erişim sağlayın
+0x7f1409d2	‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‏‏‎‏‎‎‏‏‎‏‎‏‏‏‏‏‏‏‏‏‏‏‏‎‎‏‎‏‏‎‎‏‎‎‏‏‏‎‎‏‎‏‏‏‎‎‎‎‎‏‎‎‏‏‎‎‏‏‏‎‎‏‎‎‎‎Alert‎‏‎‎‏‎
+0x7f1409d3	Medya
+0x7f1409d4	Medya Eklenemiyor.
+0x7f1409d5	Bu grup, hız kontrolü uygulanmasından dolayı video veya ses medyalarını desteklememektedir.
+
+Medya eklemeden önce lütfen grubun hız kontrolü ayarını 1,0x olarak sıfırlayın.
+0x7f1409d6	Doldur
+0x7f1409d7	Sığdırmak
+0x7f1409d8	Germek
+0x7f1409d9	Medya bilgisi
+0x7f1409da	(Medya bulunamadı)
+0x7f1409db	Bu ses dosyasının formatı cihazınız tarafından desteklenmiyor
+0x7f1409dc	Medya okuma izni yok
+0x7f1409dd	Medya dosyası okunamadı
+0x7f1409de	Örnek Medya
+0x7f1409df	Albümler
+0x7f1409e0	Zaman Çizelgesi
+0x7f1409e1	Premium  üyelere özel  özelliklere erişin ve filigranı kaldırın.
+0x7f1409e2	Yalnızca Üyelere Özel
+0x7f1409e3	Üyelere Özel Efektler
+0x7f1409e4	Yalnızca Üyelere Özel Özellik
+0x7f1409e5	Bu özellik yalnızca Hareketli Kareler Üyeleri tarafından kullanılabilir.
+
+İlk önce projenizde deneyebilirsiniz, ancak projeyi dışa aktarmak veya paylaşmak istediğinizde üyelik gerekecektir
+0x7f1409e6	Projenizde deneyebilirsiniz, ancak projeyi dışa aktarmak veya paylaşmak istediğinizde üyelik gerekecektir
+0x7f1409e7	Kamera yalnızca Alight Motion Üyeleri tarafından kullanılabilir.
+
+
+0x7f1409e8	Üst Katman Oluşturma yalnızca Alight Motion Üyeleri tarafından kullanılabilir.
+
+
+0x7f1409e9	Fitur ini hanya tersedia hanya untuk yang sudah terhubung ke akun premium, Chat Modder di Telegram @strxid untuk membeli akun premium setahun hanya 15K (Aman dan ada Testimoni).
+0x7f1409ea	⚠️ Gagal Project berukuran diatas 5MB
+0x7f1409eb	Üyelik Seçenekleri
+0x7f1409ec	Üyelik Gerekli
+0x7f1409ed	Bu paketi indirmek için bir Alight Motion üyeliği gerekiyor.
+
+%s
+0x7f1409ee	%s üzerindeki paketleri indirmek için Alight Motion üyeliği gerekiyor.
+0x7f1409ef	Üyeliğinizi yükseltmek için satın alımlar yapılabilir
+0x7f1409f0	Üyelik Yükseltmeleri
+0x7f1409f1	Bellek
+0x7f1409f2	Mini Tarayıcı'da son kullanılan medyalar gösterilsin mi?
+0x7f1409f3	Eksik Yazı Tipleri
+0x7f1409f4	Bu proje, Alight Motion'da veya cihazınızda yüklü olmayan yazı tiplerini kullanır. Bazı metin katmanları yanlış işlenebilir.
+
+Eksik Yazı Tipleri:
+
+%1$s
+0x7f1409f5	Bu proje, Alight Motion'da veya %2$s cihazınızda yüklü olmayan yazı tiplerini kullanıyor. Bazı metin katmanları yanlış işlenebilir.
+
+Eksik Yazı Tipleri:
+
+%1$s
+0x7f1409f6	Eksik medya
+0x7f1409f7	Model
+0x7f1409f8	Tüm Pro Özelliklerin Kilidini Aç
+0x7f1409f9	Tam Pro Plan'ı ücretsiz dene ya da sadece bu pro özelliğin kilidini açmak için bir reklam izle
+0x7f1409fa	Tüm pro özelliklerin kilidini tek seferde aç ya da sadece bu pro özelliği almak için bir reklam izle
+0x7f1409fb	Bu özelliğin kilidini açmak ister misin?
+0x7f1409fc	Eş Aralıklı Yazı Tipleri
+0x7f1409fd	Aylık Abonelik
+0x7f1409fe	%1$s / Ay
+0x7f1409ff	%1$s / Aylık, yıllık olarak faturalandırılır
+0x7f140a00	Diğer Dışa Aktarma Seçenekleri
+0x7f140a01	Daha Fazla Örnek Proje
+0x7f140a02	Hareket Bulanıklığı
+0x7f140a03	Taşımak için kaydırın
+0x7f140a04	Taşı ve Çevir
+0x7f140a05	Nova notificação
+0x7f140a06	M14,18.2 11.4,15.6 10,17 14,21 22,13 20.6,11.6z
+0x7f140a07	icon
+0x7f140a08	M13.4,15 11,15 11,17 13.4,17 21,17 21,15z
+0x7f140a09	icon path
+0x7f140a0a	M23,7H9C7.9,7,7,7.9,7,9v14c0,1.1,0.9,2,2,2h14c1.1,0,2-0.9,2-2V9C25,7.9,24.1,7,23,7z
+0x7f140a0b	button
+0x7f140a0c	button path
+0x7f140a0d	M23,7H9C7.9,7,7,7.9,7,9v14c0,1.1,0.9,2,2,2h14c1.1,0,2-0.9,2-2V9C25,7.9,24.1,7,23,7z M23,23H9V9h14V23z
+0x7f140a0e	Marcada
+0x7f140a0f	Parcialmente marcada
+0x7f140a10	Desmarcada
+0x7f140a11	Remover %1$s
+0x7f140a12	Mais de %1$d novas notificações
+0x7f140a13	%1$d%2$s
+0x7f140a14	Alterar para o próximo mês
+0x7f140a15	Alterar para o mês anterior
+0x7f140a16	Seleção da data de início: %1$s. Seleção da data de término: %2$s
+0x7f140a17	Seleção atual: %1$s
+0x7f140a18	nenhuma
+0x7f140a19	Cancelar
+0x7f140a1a	OK
+0x7f140a1b	%1$s
+0x7f140a1c	Selecionar data
+0x7f140a1d	Data selecionada
+0x7f140a1e	%1$s
+0x7f140a1f	Data de término: %1$s
+0x7f140a20	Formato inválido.
+0x7f140a21	Exemplo: %1$s
+0x7f140a22	Usar %1$s
+0x7f140a23	Intervalo inválido.
+0x7f140a24	Ir para o ano atual %1$d
+0x7f140a25	Ir para o ano %1$d
+0x7f140a26	Fora do intervalo: %1$s
+0x7f140a27	Data de início – %1$s
+0x7f140a28	%1$s – Data de término
+0x7f140a29	%1$s – %2$s
+0x7f140a2a	Selecionar intervalo
+0x7f140a2b	Data de início – Data de término
+0x7f140a2c	Salvar
+0x7f140a2d	Data de início: %1$s
+0x7f140a2e	Data
+0x7f140a2f	Data de término
+0x7f140a30	Data de início
+0x7f140a31	d
+0x7f140a32	m
+0x7f140a33	a
+0x7f140a34	Hoje %1$s
+0x7f140a35	Mudar para o modo de entrada da agenda
+0x7f140a36	Toque para mudar para a visualização de agenda
+0x7f140a37	Mudar para o modo de entrada de texto
+0x7f140a38	Toque para mudar para a visualização "Ano"
+0x7f140a39	circle_group
+0x7f140a3a	M4,16 A12,12 0 0,1 16,4 H16 A12,12 0 0,1 16,28 H16 A12,12 0 0,1 4,16
+0x7f140a3b	M0,16 A11,11 0 0,1 11,5 H21 A11,11 0 0,1 21,27 H11 A11,11 0 0,1 0,16
+0x7f140a3c	circle
+0x7f140a3d	M2,16 A14,14 0 0,1 16,2 H16 A14,14 0 0,1 16,30 H16 A14,14 0 0,1 2,16
+0x7f140a3e	M8,16 A8,8 0 0,1 16,8 H16 A8,8 0 0,1 16,24 H16 A8,8 0 0,1 8,16
+0x7f140a3f	M1,16 A15,15 0 0,1 16,1 H36 A15,15 0 0,1 36,31 H16 A15,15 0 0,1 1,16
+0x7f140a40	M0,16 A16,16 0 0,1 16,0 H36 A16,16 0 0,1 36,32 H16 A16,16 0 0,1 0,16
+0x7f140a41	Cancelar
+0x7f140a42	OK
+0x7f140a43	Hesabım
+0x7f140a44	• Bulut depolama (%1$s)
+0x7f140a45	Üyeliğim
+0x7f140a46	Öğelerim
+0x7f140a47	Mitoloji
+0x7f140a48	Ad
+0x7f140a49	Corpo
+0x7f140a4a	Título
+0x7f140a4b	Visualização de mídia
+0x7f140a4c	‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‎‏‏‏‏‏‏‎‎‎‎‏‎‏‏‎‎‏‏‎‎‎‏‎‏‎‎‏‏‎‏‎‏‎‎‏‏‎‎‏‏‏‏‎‏‏‏‏‎‏‎‎‏‎‎‎‏‏‏‏‎‎‎Navigation menu‎‏‎‎‏‎
+0x7f140a4d	Yakın Mesafe
+0x7f140a4e	En az iki katman seçin
+0x7f140a4f	Ağ Bağlantısı Gerekli
+0x7f140a50	Yeni
+0x7f140a51	Yeni Öğe
+0x7f140a52	Yeni Özellikler
+0x7f140a53	Kamera Nesnesi
+0x7f140a54	Dinamik hareket oluşturmak için sahnenizdeki bakış açısını canlandırın!
+0x7f140a55	Üst Katman Oluşturma
+0x7f140a56	Sofistike hareket ve gelişmiş dönüşümler için katmanları bağlayın ve koreografisini yapın!
+0x7f140a57	Seçenekleri Gör
+0x7f140a58	Hassas düzenleme için yakınlaştırın, katmanları ayrı ayrı ayırın ve görünümünüzü özelleştirin.
+0x7f140a59	New
+0x7f140a5a	Yeni Proje
+0x7f140a5b	Bu paket, daha yeni bir Alight Motion sürümü gerektiren özellikler kullanır. Lütfen Google Play'de en son sürüme güncelleyin ve tekrar deneyin.
+0x7f140a5c	Bu paket, daha yeni bir Alight Motion sürümü gerektiren özellikler kullanır. Lütfen %1$s'de en son sürüme güncelleyin ve tekrar deneyin.
+0x7f140a5d	Sonraki adımlar
+0x7f140a5e	Öğe yok
+0x7f140a5f	Hareketin bir parçası olun! Filigranı kaldırmak ve premium özelliklere erişmek için bugün katılın.
+0x7f140a60	Aktif Üyelik Yok
+0x7f140a61	Ağ Bağlantısı Yok
+0x7f140a62	Lütfen oturum açmadan önce internete bağlanın.
+0x7f140a63	Bir proje paketi paylaşmadan önce lütfen internete bağlanın.
+0x7f140a64	Ön ayar yok
+0x7f140a65	Proje yok
+0x7f140a66	Şablon yok
+0x7f140a67	Şablon bulunamadı. Mevcut olanları göz atmak için aşağıya dokunun.
+0x7f140a68	Hayır, teşekkürler
+0x7f140a69	Hayır, filigranı seviyorum!
+0x7f140a6a	Hayır, teşekkürler, filigranla paylaş.
+0x7f140a6b	Ücretsiz (filigran içerir)
+0x7f140a6c	Filigranla Dışa Aktar
+0x7f140a6d	Fotoğraf veya video bulunamadı
+0x7f140a6e	Yok
+0x7f140a6f	Uygun değil
+0x7f140a70	Renk kodu geçersiz
+0x7f140a71	Animasyon hareket hızını ayarlamadan önce, en az iki kare oluşturmanız gerekir.
+
+Başka bir özellikte kareleriniz zaten varsa hareket hızını ayarlamadan önce o özelliği seçin.
+0x7f140a72	Gerekli Kareler
+0x7f140a73	Pek sayılmaz
+0x7f140a74	‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‏‏‏‏‎‏‏‎‏‏‏‎‏‏‏‏‎‏‎‎‎‏‎‏‏‏‎‏‎‏‎‎‎‎‏‎‎‎‎‏‏‎‎‏‎‏‏‎‏‎‏‏‎‏‏‎‎‏‎‎‎‎‎‏‏‏‎Not selected‎‏‎‎‏‎
+0x7f140a75	‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‏‏‏‏‎‏‏‎‏‏‎‎‏‏‏‎‎‎‎‎‎‏‏‎‎‎‏‏‏‏‏‏‏‎‎‎‎‎‏‏‎‏‏‏‏‏‏‏‎‎‎‏‎‏‎‏‏‎‎‎‏‎‎‎‎‏‎Not set‎‏‎‎‏‎
+0x7f140a76	Oturum açılmamış
+0x7f140a77	Yalnızca bu cihazdan yapılan alışverişler gösteriliyor
+0x7f140a78	Yazı tipi dosyası değil veya işletim sisteminizin desteklemediği bir yazı tipi biçimi.
+0x7f140a79	Permitir
+0x7f140a7a	Não permitir
+0x7f140a7b	Permitir que o app envie notificações?
+0x7f140a7c	Bir katmanın arkasındaki katmanlarla birleşimini kontrol etmek için karıştırma modunu değiştirin.
+0x7f140a7d	Değişimi bekleyin. Daha doğal hale getirmek için yavaş başlangıç ve yavaş bitiş geçiş efektlerini kullanın.
+0x7f140a7e	Bir katmanda değişiklik yapmak için efektler ekleyin.
+0x7f140a7f	Bir kez oluşturun. Sonsuza kadar kullanın.
+0x7f140a80	Resminizi veya videonuzu istediğiniz şekilde düzenleyin.
+0x7f140a81	Nesne
+0x7f140a82	Kapalı
+0x7f140a83	Çevrimdışı: En son bilgiler için İnternet'e bağlanın
+0x7f140a84	Ícone
+0x7f140a85	Agradecemos seu interesse.
+Vamos compartilhar mais informações quando você estiver on-line de novo.
+0x7f140a86	Você está on-line de novo. Vamos continuar de onde paramos
+0x7f140a87	Você está on-line de novo. Continue aprendendo sobre %s
+0x7f140a88	OK
+0x7f140a89	Não
+0x7f140a8a	Enviaremos uma notificação com um link para o site do anunciante.
+0x7f140a8b	Abrir o anúncio quando você ficar on-line novamente.
+0x7f140a8c	Tamam, Hemen değerlendir
+0x7f140a8d	Anladım
+0x7f140a8e	Sonraki
+0x7f140a8f	Gelişmiş düzenleme özellikleriyle tam kontrol
+0x7f140a90	Üst düzey videolar üret
+0x7f140a91	Özelleştirebileceğin ve birleştirebileceğin 160'tan fazla harika efekt
+0x7f140a92	Hedef kitleni etkile
+0x7f140a93	Vektör grafikleri, bağımsız animasyon kareleri ve daha fazlası
+0x7f140a94	Hareket ile büyüle
+0x7f140a95	İnanılmaz içerik üreticilerden oluşan bir dünya seni bekliyor
+0x7f140a96	Topluluğa katıl
+0x7f140a97	Aylık indirme
+0x7f140a98	Proje her gün dışa aktarılıyor
+0x7f140a99	Her video stiline uygun çok havalı geçişler
+0x7f140a9a	Akılda rahatça kalan içerikler oluştur
+0x7f140a9b	Atla
+0x7f140a9c	Bir kere
+0x7f140a9d	Bekle, bana %% %1$d İNDİRİM ver!
+0x7f140a9e	Evet, bir daha gösterme
+0x7f140a9f	Bu tek seferlik tekliften sonsuza kadar vazgeçmek istediğinden emin misin?
+0x7f140aa0	Haftalık sadece %1$s
+0x7f140aa1	Yıllık sadece %1$s
+0x7f140aa2	Tekliften sonsuza dek vazgeç
+0x7f140aa3	TEK SEFERLİK TEKLİF
+0x7f140aa4	Safari'de Aç
+0x7f140aa5	ओपन सोर्स लाइब्रेरी
+0x7f140aa6	Reason: %s
+0x7f140aa7	α
+0x7f140aa8	γ
+0x7f140aa9	β
+0x7f140aaa	OS sürümü
+0x7f140aab	Diğer seçenekler
+0x7f140aac	%1$d%% İNDİRİM
+0x7f140aad	Bir seçenek belirle
+0x7f140aae	Çıkış
+0x7f140aaf	Diğerleri
+0x7f140ab0	COMING SOON
+0x7f140ab1	Paket Boyutu (tahmini)
+0x7f140ab2	Bu pakette bir veya daha fazla %1$d x %2$d çözünürlükte video dosyası var, ancak bu cihaz yalnızca %3$d p'ye kadar video düzenlemeyi destekliyor.
+0x7f140ab3	Proje(ler) Paketleniyor
+0x7f140ab4	Bu proje, paket paylaşımı için iTunes Kitaplığından yeniden kodlanması gereken bir ses dosyası kullanıyor. Gelecekte yeniden kodlamanın yol açtığı kalite kaybını önlemek için lütfen ses dosyalarını iTunes Kitaplığı yerine Hareketli Kareler klasöründe tutmayı düşünün
+0x7f140ab5	Yeniden kodlayın ve paylaşın
+0x7f140ab6	Paketleme için ses dosyası yeniden kodlanıyor...(%1$d/%2$d)
+0x7f140ab7	Yıllık Ücretlendirme
+0x7f140ab8	Seçili sayıda fotoğraf ve videoya erişim izni verdiniz
+0x7f140ab9	Yenilemeyen Üyelik
+0x7f140aba	Exibir senha
+0x7f140abb	Yapıştır
+0x7f140abc	Karıştırma ve Opaklık Yapıştır
+0x7f140abd	Kenarlık ve Gölge Yapıştır
+0x7f140abe	Renk Yapıştır ve Doldur
+0x7f140abf	Renk Kodunu Yapıştır
+0x7f140ac0	Eğriyi Yapıştır
+0x7f140ac1	Eğriyi Tüm Ana Karelere Yapıştır
+0x7f140ac2	Efekt Yapıştır
+0x7f140ac3	Efekt Yapıştırma Ayarları
+0x7f140ac4	Efektleri Yapıştır
+0x7f140ac5	Katman Stilini Yapıştır
+0x7f140ac6	Konumu Yapıştır
+0x7f140ac7	Taşı ve Dönüştür Yapıştır
+0x7f140ac8	Pivotu Yapıştır
+0x7f140ac9	Rotasyonu Yapıştır
+0x7f140aca	Ölçeklendirmeyi Yapıştır
+0x7f140acb	Eğriliği Yapıştır
+0x7f140acc	Hızı Yapıştır
+0x7f140acd	Stil Yapıştır
+0x7f140ace	Metin Stili Yapıştır
+0x7f140acf	Dönüşümü Yapıştır
+0x7f140ad0	Hacim Yapıştır
+0x7f140ad1	M12,4.5C7,4.5 2.73,7.61 1,12c1.73,4.39 6,7.5 11,7.5s9.27,-3.11 11,-7.5c-1.73,-4.39 -6,-7.5 -11,-7.5zM12,17c-2.76,0 -5,-2.24 -5,-5s2.24,-5 5,-5 5,2.24 5,5 -2.24,5 -5,5zM12,9c-1.66,0 -3,1.34 -3,3s1.34,3 3,3 3,-1.34 3,-3 -1.34,-3 -3,-3z
+0x7f140ad2	M2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z
+0x7f140ad3	M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z
+0x7f140ad4	M3.27,4.27 L19.74,20.74
+0x7f140ad5	İptal
+0x7f140ad6	Yeniden dene
+0x7f140ad7	Bulutun tadını çıkar!
+0x7f140ad8	Abonelik, ücretsiz deneme süresi sona erdiğinde yenilenir. Google Play Ayarları'ndan istediğiniz zaman iptal edebilirsiniz.
+0x7f140ad9	Ücretsiz deneme ile devam et
+0x7f140ada	Lütfen birkaç dakika sonra yeniden dene. Sorun devam ederse destek ekibimizle iletişime geçebilirsin.
+0x7f140adb	Bir sorun oluştu
+0x7f140adc	Aylık
+0x7f140add	Lite
+0x7f140ade	Premium
+0x7f140adf	Tüm Pro Özelliklerine Erişin
+0x7f140ae0	Alight Motion, üyelik durumunu inceleyemedi. Lütfen internet bağlantını kontrol edip Play Store'da oturum açtığından emin ol veya daha sonra yeniden dene.
+0x7f140ae1	Üyelik durumu mevcut değil
+0x7f140ae2	Haftalık
+0x7f140ae3	Yıllık
+0x7f140ae4	İşlemi hemen gerçekleştirmeyen bir ödeme yöntemi seçtiniz. Satın almayı tamamlamak için ekstra adımlar atmanız gerekebilir. İşlem tamamlandığında avantajlarınız otomatik olarak verilecektir.
+0x7f140ae5	Satın Alma Beklemede
+0x7f140ae6	Bir Daha Sorma
+0x7f140ae7	Performans Rehberi
+0x7f140ae8	Daha sonra hatırlat
+0x7f140ae9	Performans sorunları genellikle cihaz sınırlamalarından veya projenizde belirli katman ve efektlerin kullanımından kaynaklanır.
+
+Önizleme gecikmesini azaltmaya ilişkin ipuçları için lütfen web sitemizdeki Performans Kılavuzuna bakın.
+0x7f140aea	Önizleme Gecikmesi mi yaşıyorsunuz?
+0x7f140aeb	Fotoğraflar
+0x7f140aec	Medya Yer Tutucu
+0x7f140aed	Kutuları karıştır
+0x7f140aee	Oyna ve kazan!
+0x7f140aef	Yıldızı bul ve Alight Motion PRO'ya ücretsiz erişimin kilidini aç!
+0x7f140af0	Şimdi oyna
+0x7f140af1	Şansını dene!
+{green}Oyna ve{/green}
+ %1$d günlük ücretsiz deneme sürümü {green}kazan{/green}
+0x7f140af2	Alight Motion'ın tüm premium özelliklerini %1$d gün boyunca ücretsiz kullan
+0x7f140af3	Ücretsiz denemeni talep edip Alight Motion'dan en iyi şekilde yararlan. Şimdi ödeme yapmana gerek yok!
+0x7f140af4	Ücretsiz deneme sürümünü atlamak istediğinden emin misin?
+0x7f140af5	Tebrikler!
+{green}%1$d gün ücretsiz{/green} erişim kazandın!
+0x7f140af6	Lütfen bekleyin…
+0x7f140af7	Önceden oluşturma
+0x7f140af8	Dinamik Çözünürlük
+0x7f140af9	Sabit Çözünürlük
+0x7f140afa	Düzenleme sırasında gerçek zamanlı önizleme gösteriminin kalitesini düşürerek düzenleme performansını artırır (dışa aktarma kalitesi etkilenmez).
+0x7f140afb	Düşük Kaliteli Önizleme
+0x7f140afc	‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‏‏‏‏‎‏‏‏‎‎‏‏‎‎‏‎‎‎‏‏‏‎‏‎‏‎‎‏‏‏‏‏‎‏‏‏‏‎‏‏‏‎‏‏‏‎‏‏‎‎‏‎‏‏‏‏‎‏‏‎‏‏‏‏‏‏‎"‎‏‎‎‏‏‎%1$s‎‏‎‎‏‏‏‎" copied to clipboard.‎‏‎‎‏‎
+0x7f140afd	kilidi açmak için reklam izle %1$d/%2$d
+0x7f140afe	ÜCRETSİZ DIŞA AKTAR
+0x7f140aff	ÜCRETSİZ DENEMEYİ BAŞLAT
+0x7f140b00	Dışa aktarmaya hazırlanıyor
+0x7f140b01	ÖN AYAR
+0x7f140b02	Ön ayar uygulandı
+0x7f140b03	Tüm ön ayarları sil
+0x7f140b04	Ön ayar silindi
+0x7f140b05	Düzenleyicide katmanların özelliklerini ve kare anahtarlarını ön ayarlar olarak kaydedin. 
+
+Veya başkaları tarafından oluşturulan Ön Ayarları içe aktarın!
+0x7f140b06	Ön ayarları keşfet
+0x7f140b07	Henüz ön ayar yok...!
+0x7f140b08	Ayarlarınızı başkalarıyla paylaşmak için bir bağlantı ve QR kodu alın.
+0x7f140b09	Ön ayarları dışa aktarmak için oturum açmanız gerekiyor.
+0x7f140b0a	Diğerleriyle ön ayarları paylaşmak için bu bağlantıyı veya QR kodunu kullanın.
+0x7f140b0b	Onayla
+0x7f140b0c	Dışa aktarılıyor...
+0x7f140b0d	Ön ayarlar
+0x7f140b0e	Projelerinizin katmanlarına ön ayarları uygulamaya başlayın.
+0x7f140b0f	Bir Proje'de Deneyin
+0x7f140b10	Harika! Ön ayarlar yüklendi
+0x7f140b11	Özür dileriz, ön ayarlarınızdan birini veya daha fazlasını içe aktaramadık.
+
+Lütfen farklı bir bağlantıyla tekrar deneyin.
+0x7f140b12	İçe Aktarma Başarısız Oldu
+0x7f140b13	Ön ayarları içe aktarmak için oturum açmanız gerekiyor.
+0x7f140b14	Güncelleme gerekiyor
+0x7f140b15	İçe aktarılıyor...
+0x7f140b16	Uygula
+0x7f140b17	Ön ayar önizleme
+0x7f140b18	Ön ayar kaydet
+0x7f140b19	Yoksaymak
+0x7f140b1a	Şimdi yeniden adlandırın
+0x7f140b1b	Ön ayar kaydedildi!
+0x7f140b1c	Yeniden Adlandır
+0x7f140b1d	Your presets
+0x7f140b1e	Önizleme: 50% Trşeffaf
+0x7f140b1f	Önizleme: Efektsiz
+0x7f140b20	Önizleme: Son Sonuç
+0x7f140b21	Projeni başkalarıyla paylaş!
+0x7f140b22	Videonun sonuna QR kodu şablonu ekledik
+0x7f140b23	सभी को स्वीकार करें और जारी रखें
+0x7f140b24	पसंद-नापसंद में मन मुताबिक बदलाव करें
+0x7f140b25	हम सिर्फ़ उन्हीं ट्रैकिंग तकनीकों का इस्तेमाल करते हैं, जो या तो ऐप के सही ढंग से काम करने के लिए ज़रूरी होती हैं या जिनका इस्तेमाल सकल आँकड़े तैयार करने के लिए किया जाता है। आपकी सहमति से, हम और हमारे थर्ड-पार्टी पार्टनर इन-ऐप अनुभव को बेहतर बनाने के लिए भी ट्रैकिंग तकनीकों का इस्तेमाल करेंगे। अपनी सहमति देने के लिए, सभी को स्वीकार करें और आगे बढ़ें पर टैप करें।
+
+या फिर आप जब चाहें पसंद-नापसंद में मन मुताबिक बदलाव करें पर टैप करके या अपनी निजता सेटिंग पर जाकर अपनी निजता सेटिंग में मनचाहे बदलाव कर सकते हैं। अगर आप नहीं चाहते कि हम नॉन-टेक्निकल ट्रैकिंग तकनीकों का इस्तेमाल न करें, तो स्क्रीन के बिलकुल ऊपरी कोने में मौजूद X पर टैप करें। 
+
+हम ट्रैकिंग तकनीकों के ज़रिए आपका निजी डेटा कैसे प्रोसेस करते हैं इसके बारे में और जानकारी पाने के लिए, हमारी निजता नीति पर नज़र डालें।
+0x7f140b26	हम ऐसी ट्रैकिंग तकनीकों का उपयोग करते हैं जो ऐप के सही तरीके से काम करने के लिए आवश्यक हैं। आपकी सहमति से, हम और हमारे तृतीय-पक्ष भागीदार आंकड़े तैयार करने, इन-ऐप अनुभव में सुधार करने, और आपको व्यक्तिगत सेवाएं और सामग्री प्रदान करने के लिए भी ट्रैकिंग तकनीकों का उपयोग करेंगे। अपनी सहमति देने के लिए, सभी स्वीकार करें और जारी रखें पर टैप करें।
+
+वैकल्पिक रूप से, आप प्राथमिकताएं अनुकूलित करें पर टैप करके, या किसी भी समय इन-ऐप ट्रैकिंग प्राथमिकताओं पर जाकर अपनी गोपनीयता सेटिंग्स को अनुकूलित कर सकते हैं। यदि आप नहीं चाहते कि हम गैर-तकनीकी ट्रैकिंग तकनीकों का उपयोग करें, तो अस्वीकार करें पर टैप करें।
+
+ट्रैकिंग तकनीकों के माध्यम से हम आपके व्यक्तिगत डेटा को कैसे प्रोसेस करते हैं, इसके बारे में अधिक जानकारी के लिए, हमारी गोपनीयता नीति गोपनीयता नीति देखें।
+0x7f140b27	हम सिर्फ़ उन्हीं ट्रैकिंग तकनीकों का इस्तेमाल करते हैं, जो या तो ऐप के सही ढंग से काम करने के लिए ज़रूरी होती हैं या जिनका इस्तेमाल सकल आँकड़े तैयार करने के लिए किया जाता है। आपकी सहमति से, हम और हमारे थर्ड-पार्टी पार्टनर इन-ऐप अनुभव को बेहतर बनाने और आपकी मन मुताबिक सेवाएँ और खास आपके मतलब के विज्ञापन दिखाने के लिए भी ट्रैकिंग तकनीकों का इस्तेमाल करेंगे। अपनी सहमति देने के लिए, सभी को स्वीकार करें और आगे बढ़ें पर टैप करें।
+
+या फिर आप जब चाहें पसंद-नापसंद में मन मुताबिक बदलाव करें पर टैप करके या अपनी निजता सेटिंग पर जाकर अपनी निजता सेटिंग में मनचाहे बदलाव कर सकते हैं। अगर आप नहीं चाहते कि हम नॉन-टेक्निकल ट्रैकिंग तकनीकों का इस्तेमाल न करें, तो स्क्रीन के बिलकुल ऊपरी कोने में मौजूद X पर टैप करें। 
+
+हम ट्रैकिंग तकनीकों के ज़रिए आपका निजी डेटा कैसे प्रोसेस करते हैं इसके बारे में और जानकारी पाने के लिए, हमारी निजता नीति पर नज़र डालें।
+0x7f140b28	 हम ट्रैकिंग तकनीकों का उपयोग करते हैं जो या तो ऐप के सही ढंग से काम करने के लिए आवश्यक हैं या समेकित आँकड़े बनाने के लिए उपयोग की जाती हैं। आपकी सहमति से, हम और हमारे तृतीय-पक्ष भागीदार इन-ऐप अनुभव को बेहतर बनाने और आपको वैयक्तिकृत सेवाएँ प्रदान करने के लिए ट्रैकिंग तकनीकों का भी उपयोग करेंगे। अपनी सहमति देने के लिए,  सभी स्वीकार करें और जारी रखें  पर टैप करें। 
+ 
+ वैकल्पिक रूप से, आप  प्राथमिकताएँ अनुकूलित करें  पर टैप करके या किसी भी समय  गोपनीयता सेटिंग  पर जाकर अपनी गोपनीयता सेटिंग को अनुकूलित कर सकते हैं। यदि आप नहीं चाहते कि हम गैर-तकनीकी ट्रैकिंग तकनीकों का उपयोग करें, तो स्क्रीन के शीर्ष कोने में X पर टैप करें। 
+ 
+ हम ट्रैकिंग तकनीकों के माध्यम से आपके व्यक्तिगत डेटा को कैसे संसाधित करते हैं, इस बारे में अधिक जानकारी के लिए, हमारी  गोपनीयता नीति  पर एक नज़र डालें। 
+0x7f140b29	हम सिर्फ़ उन्हीं ट्रैकिंग तकनीकों का इस्तेमाल करते हैं, जो या तो ऐप के सही ढंग से काम करने के लिए ज़रूरी होती हैं या जिनका इस्तेमाल सकल आँकड़े तैयार करने के लिए किया जाता है। आपकी सहमति से, हम और हमारे थर्ड-पार्टी पार्टनर इन-ऐप अनुभव को बेहतर बनाने और आपकी मन मुताबिक सेवाएँ और खास आपके मतलब के विज्ञापन दिखाने के लिए भी ट्रैकिंग तकनीकों का इस्तेमाल करेंगे। अपनी सहमति देने के लिए, सभी को स्वीकार करें और आगे बढ़ें पर टैप करें।
+
+या फिर आप जब चाहें पसंद-नापसंद में मन मुताबिक बदलाव करें पर टैप करके या अपनी निजता सेटिंग पर जाकर अपनी निजता सेटिंग में मनचाहे बदलाव कर सकते हैं। अगर आप नहीं चाहते कि हम नॉन-टेक्निकल ट्रैकिंग तकनीकों का इस्तेमाल करें, तो अस्वीकार करें पर टैप करें। 
+
+हम ट्रैकिंग तकनीकों के ज़रिए आपका निजी डेटा कैसे प्रोसेस करते हैं, इसके बारे में और जानकारी पाने के लिए, हमारी निजता नीति पर नज़र डालें।
+0x7f140b2a	 हम ट्रैकिंग तकनीकों का उपयोग करते हैं जो या तो ऐप के सही ढंग से काम करने के लिए आवश्यक हैं या समेकित आँकड़े बनाने के लिए उपयोग की जाती हैं। आपकी सहमति से, हम और हमारे तृतीय-पक्ष भागीदार इन-ऐप अनुभव को बेहतर बनाने और आपको वैयक्तिकृत सेवाएँ और लक्षित विज्ञापन प्रदान करने के लिए ट्रैकिंग तकनीकों का भी उपयोग करेंगे। अपनी सहमति देने के लिए,  सभी स्वीकार करें और जारी रखें  टैप करें। 
+ 
+ वैकल्पिक रूप से, आप  प्राथमिकताएँ अनुकूलित करें  पर टैप करके या किसी भी समय  गोपनीयता सेटिंग  पर जाकर अपनी गोपनीयता सेटिंग को अनुकूलित कर सकते हैं। यदि आप नहीं चाहते कि हम गैर-तकनीकी ट्रैकिंग तकनीकों का उपयोग करें, तो  मना करें  पर टैप करें। 
+ 
+ ट्रैकिंग तकनीकों के माध्यम से हम आपके व्यक्तिगत डेटा को कैसे संसाधित करते हैं, इसके बारे में अधिक जानकारी के लिए, हमारी  गोपनीयता नीति  पर एक नज़र डालें। 
+0x7f140b2b	अस्वीकार करें
+0x7f140b2c	आपकी निजता हमारे लिए मायने रखती है।
+0x7f140b2d	Gizlilik Politikası
+0x7f140b2e	Alight Creative Gizlilik Politikası ve Kullanım Şartları
+0x7f140b2f	Alight Motion uygulamasını kullanmanız, Alight Motion Kullanım Şartları ve Gizlilik Politikası'na tabidir. Oturum açarak, gizlilik politikasında ayrıntılarıyla açıklanan şekilde, hesabınızla ilgili kişisel bilgilerin toplanmasını da kabul etmiş olursunuz.
+0x7f140b30	KABUL ET
+0x7f140b31	Devam ederek {tos_link}Hizmet Şartlarımızı{/tos_link} kabul etmiş ve {privacy_link}Gizlilik Politikamızı{/privacy_link} aldığınızı onaylamış olursunuz.
+0x7f140b32	Şu hükümlerimizi güncelliyoruz: {tos_link}Hizmet Koşulları{/tos_link} ve {privacy_link}Gizlilik Politikası{/privacy_link}. Yeni Hizmet Koşulları %s tarihinden itibaren geçerlidir ve bu tarihten sonra uygulamayı kullanmaya devam ederseniz bunları kabul etmiş olursunuz. Aşağıdaki düğmeye dokunarak bunları şimdi kabul edebilirsiniz. Yeni koşulları kabul etmiyorsanız, bu tarihten önce uygulamayı kullanmayı bırakmanız gerekir. Güncellenmiş Gizlilik Politikamızda kişisel verilerinizi nasıl işlediğimiz hakkında daha fazla bilgi bulabilirsiniz.
+0x7f140b33	Hemen Başlayın
+0x7f140b34	Güncellenmiş şartları kabul ediyorum
+0x7f140b35	Alight Creative Gizlilik Politikası ve Hizmet Şartları Güncellemesi
+0x7f140b36	Alight Motion uygulama kullanımınıza yönelik Hizmet Şartları ve Gizlilik Politikası güncellendi. Uygulamayı kullanmaya devam etmek için lütfen güncellenmiş şartları inceleyin ve kabul edin.
+0x7f140b37	Please type here your Privacy Request:
+
+
+Please don't delete the lines below and don't remove the email addresses you find in To and Cc. They will help us to verify your identity and to process your request.
+0x7f140b38	Send a Privacy Request
+0x7f140b39	सभी को स्वीकार करें
+0x7f140b3a	इसका इस्तेमाल ऐप के ट्रैफ़िक और परफ़ॉर्मेंस, सबसे ज़्यादा और सबसे कम लोकप्रिय सुविधाओं और ऐप को नेविगेट करने के आपके तरीके को ट्रैक करने के लिए किया जाता है। ये ट्रैकर हम या हमारे थर्ड-पार्टी पार्टनर सेट कर सकते हैं।
+0x7f140b3b	एनालिटिक्स
+0x7f140b3c	बंद करें
+0x7f140b3d	गैर-ज़रूरी की अनुमति न दें
+0x7f140b3e	आपकी सहमति से, हम और हमारे थर्ड-पार्टी पार्टनर नीचे दी गई इन-ऐप ट्रैकिंग तकनीकों का इस्तेमाल करेंगे। आप चुन सकते हैं कि हम कौन-सी नॉन-टेक्निकल ट्रैकिंग तकनीकों का इस्तेमाल करें।
+
+हम ट्रैकिंग तकनीकों के ज़रिए आपका डेटा कैसे प्रोसेस करते हैं, इसके बारे में और जानकारी के लिए हमारी नीति पर नज़र डालें।
+0x7f140b3f	समाप्त
+0x7f140b40	इसका इस्तेमाल आपके शेयर किए हुए डेटा और आपके इन-ऐप व्यवहार के आधार पर आपको मनचाही सेवाएँ देने और विज्ञापन दिखाने के साथ-साथ हमारे विज्ञापनों के असर को मापने के लिए किया जाता है। ये ट्रैकर हम या हमारे थर्ड-पार्टी पार्टनर सेट कर सकते हैं।
+0x7f140b41	प्रोफाइलिंग
+0x7f140b42	रिटेंशन
+0x7f140b43	यह ऐप के सही ढंग काम करने के लिए ज़रूरी है या सारे आँकड़ों का विश्लेषण करने के लिए इसका इस्तेमाल सिर्फ़ हम करते हैं।
+0x7f140b44	तकनीकी
+0x7f140b45	थर्ड-पार्टी की निजता नीति
+0x7f140b46	Gizlilik Ayarları
+0x7f140b47	Proje veya öğe indirilemediği için içe aktarma başarısız oldu. Lütfen ağ bağlantınızı kontrol edip tekrar deneyin. (%1$s)
+0x7f140b48	İndirme başarısız
+0x7f140b49	Bu projeyi içe aktarmak için %1$s cihazınızın en az %2$s boş depolama alanına ihtiyacı var.
+0x7f140b4a	Yeteri kadar yer yok
+0x7f140b4b	Proje
+0x7f140b4c	Proje oluşturulamıyor
+0x7f140b4d	This project's data is damaged or missing.
+0x7f140b4e	Lütfen 32 ile 4096 arasında bir değer girin.
+0x7f140b4f	alight-creative
+0x7f140b50	Hayal gücünü harekete geçir,
+0x7f140b51	bir proje oluştur
+0x7f140b52	Henüz proje yok.
+0x7f140b53	Optimize edilmiş düşük kaliteli medyayla içe aktarma olanağı için bu paketin daha küçük bir versiyonu mevcuttur.
+0x7f140b54	Proje Paketi
+0x7f140b55	Bu seçenek, Alight Cloud'a projeyi ve tüm gerekli orijinal medya dosyalarını içeren bir paket yükler.
+
+Yüklemeden sonra, projeyi herhangi bir cihazda Alight Motion'a indirmek için başkalarıyla paylaşabileceğiniz kalıcı bir bağlantı alırsınız. Sadece bağlantıya sahip kişiler projeye erişebilir.
+0x7f140b56	Daha hızlı yükleme ve indirme süreleri için şablon yapıyorsanız Örnek Medya klasöründeki medyayı kullanmayı deneyin.
+0x7f140b57	Bu paketin alternatif bir sürümü, orijinal medya yerine medya yer tutucu aracılığıyla üyelik olmadan içe aktarım için kullanılabilir.
+0x7f140b58	Proje Çözünürlüğü
+0x7f140b59	Tümünü seç
+0x7f140b5a	Bu proje, Hareketli Kareler sürümünüzle uyumlu değil. Verdiğimiz rahatsızlıktan dolayı çok üzgünüz.
+0x7f140b5b	Paketi Alight Motion'a içe aktarmak için bu bağlantıyı kullanın.
+0x7f140b5c	Projeyi Alight Motion çalıştıran herhangi bir cihaza aktarmak için bu bağlantı kullanılabilir. Projeye başkalarının erişmesine izin vermek için bağlantıyı onlarla paylaşın.
+
+%1$s
+0x7f140b5d	Güncelleştirme gerekli
+0x7f140b5e	Bu paket, Hareketli Kareler'in daha yeni bir sürümünü gerektiren özellikler kullanıyor. Lütfen App Store'daki en son sürüme güncelleyin ve tekrar deneyin.
+0x7f140b5f	Bu proje, %1$s için mevcut Hareketli Kareler sürümünde henüz desteklenmeyen özellikler kullanıyor. Gelecekteki bir sürümle uyumlu olması planlanıyor.
+0x7f140b60	Proje Desteklenmiyor
+0x7f140b61	Bu proje, Hareketli Kareler'in %1$s sürümünde bulunmayan özellikleri kullanıyor. Verdiğimiz rahatsızlıktan dolayı çok üzgünüz.
+0x7f140b62	Proje Sıralama
+0x7f140b63	Ögelerin
+0x7f140b64	Seç
+0x7f140b65	Projelerin
+0x7f140b66	Promosyonlu Üyelik
+0x7f140b67	Hareketli Kareler, üyelik durumunuzu kontrol edemedi. Lütfen İnternet bağlantınızı kontrol edin veya daha sonra tekrar deneyin.
+0x7f140b68	Alight Motion üyelik durumunuzu kontrol edemedi. Lütfen internet bağlantınızı kontrol edin ve %1$s uygulamasında oturum açtığınızdan emin olun veya daha sonra tekrar deneyin.
+0x7f140b69	Hareketli Kareler'e Üye Olun!
+0x7f140b6a	Premium Üyeliğe yükseltin!
+0x7f140b6b	Hareketli Kareler Üyeliğinizi Alın!
+0x7f140b6c	Hareketli Kareler Premium Üyeliği Alın!
+0x7f140b6e	Ödeme Apple hesabınıza yansıtılacaktır. Geçerli sürenin bitiminden en az 24 saat önce iptal edilmedikçe, aboneliğiniz seçtiğiniz programa göre otomatik olarak yenilenir. Satın aldıktan sonra aboneliklerinizi Apple Kimliği ayarlarınızdan yönetebilirsiniz.
+0x7f140b6f	Premium özelliklere ve yalnızca üyelere özel efekt paketine sınırsız erişim (%d efekt + düzenli olarak eklenen daha birçok efekt!)
+0x7f140b70	Premium özelliklere sınırsız erişim ve düzenli olarak güncellenen yalnızca üyelere özel efekt paketi sadece bir tık uzakta! (Sizi filigrandan da kurtaracağız!)
+0x7f140b71	Alight Motion'i geliştirmemize yardımcı olun! Üyeliğiniz sınırsız premium özelliklerle, filigran olmadan ve yalnızca üyelere özel efekt paketiyle birlikte gelir.
+0x7f140b72	Hareket Tasarımında Ustalaşın! Premium özelliklere ve yalnızca üyelere özel efektlere sınırsız erişim ile videolarınızı renklendirin!
+0x7f140b73	Premium özelliklere sınırsız erişim, yalnızca üyelere özel %d efekt (düzenli olarak daha fazla eklenir) ve reklam yok!
+0x7f140b74	◼︎ Üyelere özel %d efekt ◼︎ Filigran Yok ◼︎ Reklam Yok ◼︎ Proje Paketi Paylaşımı (Sağlam Bağlantılar) ◼︎ Premium Rahatlığı
+0x7f140b75	Yalnızca üyelere özel özelliklere erişin ve filigranı kaldırın.
+0x7f140b76	Premium Özellikler Filigran yok!
+0x7f140b77	Üyelik Efekt Paketi / Proje Paylaşımı / Filigran Yok
+0x7f140b78	Üyelik Efekt Paketi • Premium Özellikler • Filigran Yok!
+0x7f140b79	• Üyelere özel efektlere ve özelliklere erişin
+• Filigranı ve reklamları kaldırın
+0x7f140b7a	Kalite
+0x7f140b7b	Düşük
+0x7f140b7c	Veri deposu
+0x7f140b7d	‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‏‏‏‏‎‏‎‎‏‎‎‏‏‏‎‏‎‎‎‎‎‏‎‎‏‏‏‎‎‎‎‎‎‏‎‎‎‎‎‎‏‏‎‏‏‏‎‏‏‎‎‎‏‎‎‎‏‏‏‎‎‎‎‏‎‏‎Range end‎‏‎‎‏‎
+0x7f140b7e	‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‏‏‏‏‏‎‎‎‏‎‎‏‏‏‏‏‏‏‎‏‎‏‎‏‏‎‎‎‏‏‏‏‎‏‏‎‏‏‏‎‏‏‏‏‎‎‎‏‎‏‏‎‎‎‏‏‏‏‎‎‎‏‎‏‏‎‎Range start‎‏‎‎‏‎
+0x7f140b7f	Yeniden Kimlik Doğrulama
+0x7f140b80	Bu öğe, artık var olmayan başka bir projeye bağlı.
+
+Bu öğeye dayalı olarak bağlantılı projeyi yeniden oluşturmak mı yoksa bu öğenin bağlantısını kaldırıp doğrudan düzenlemek mi istersiniz?
+0x7f140b81	Bağlantılı Projeyi Yeniden Oluştur
+0x7f140b82	Redeem
+0x7f140b83	Redeem Gift Code
+0x7f140b84	Incorrect gift code
+0x7f140b85	Already used gift code
+0x7f140b86	Expired gift code
+0x7f140b87	Cannot redeem again gift code
+0x7f140b88	Redeem Gift Code
+0x7f140b89	Insert your code here:
+0x7f140b8a	Gift Code redeemed successfully!
+0x7f140b8b	İndirgenmiş
+0x7f140b8c	Yenile
+0x7f140b8d	Kırpma Maskesini Bırak'ı
+0x7f140b8e	Kaldır
+0x7f140b8f	Profil fotoğrafını kaldır
+0x7f140b90	Filigranı Kaldır
+0x7f140b91	Ön ayarı yeniden adlandır
+0x7f140b92	Otomatik olarak yenilenir. İstediğiniz Zaman İptal Etme.
+0x7f140b93	Bu projeyi galeriye kaydetmek için %s boş alana ihtiyacınız var.
+0x7f140b94	Konumu Sıfırla
+0x7f140b95	Pivot Noktasını Sıfırla
+0x7f140b96	Dönüşü Sıfırla
+0x7f140b97	Ölçeği Sıfırla
+0x7f140b98	Eğriliği Sıfırla
+0x7f140b99	Varsayılanlara Sıfırla
+0x7f140b9a	Çevilmeyi Sıfırla
+0x7f140b9b	Çözünürlük
+0x7f140b9c	Ücretsiz Deneme Sürümünü Başlat
+0x7f140b9d	En İyi Kaliteyle Ücretsiz Dışa Aktarım
+0x7f140b9e	En İyi Ücretsiz Kaliteyi Ayarla
+0x7f140b9f	Seçilen dışa aktarma kalitesi yalnızca Alight Motion üyeliği ile kullanılabilir.
+0x7f140ba0	Üyelere özel dışa aktarım kalitesi
+0x7f140ba1	Onar
+0x7f140ba2	थर्ड-पार्टी द्वारा निर्धारित
+0x7f140ba3	Boş
+0x7f140ba4	Dondur
+0x7f140ba5	Döngü
+0x7f140ba6	Döngü ve Uzat
+0x7f140ba7	Uzat
+0x7f140ba8	Yeniden zamanlama
+0x7f140ba9	Tekrar dene
+0x7f140baa	Kullanıcı memnuniyetini derinden önemsiyoruz ve görüşleriniz Hareketli Kareler'i daha iyi hale getirmemize yardımcı oluyor.
+0x7f140bab	Geri bildirimde bulunmak ister misiniz?
+0x7f140bac	Bize istediğiniz zaman support@alightcreative.com adresinden ulaşabilirsiniz. Hareketli Kareler'i değerlendirmek ister misiniz?
+0x7f140bad	Hareketli Kareler'den hoşlanıyor musunuz?
+0x7f140bae	如果您现在关闭广告，您将无法获得奖励。
+0x7f140baf	您确定吗？
+0x7f140bb0	B
+0x7f140bb1	G
+0x7f140bb2	R
+0x7f140bb3	RGB Ayrımı
+0x7f140bb4	Romantik Anime
+0x7f140bb5	Döndür
+0x7f140bb6	Salvar imagem
+0x7f140bb7	Permitir que os anúncios armazenem imagens na galeria de imagens?
+0x7f140bb8	Aceitar
+0x7f140bb9	Recusar
+0x7f140bba	Criar evento na agenda
+0x7f140bbb	Permitir que os anúncios criem um evento na agenda?
+0x7f140bbc	Anúncio de teste
+0x7f140bbd	Örnek oran
+0x7f140bbe	Sans Serif Yazı Tipleri
+0x7f140bbf	Kaydet
+0x7f140bc0	Varsayılan olarak kaydet
+0x7f140bc1	Bağlantıyı kaydet
+0x7f140bc2	QR Kodunu Kaydet
+0x7f140bc3	Videoyu kaydet
+0x7f140bc4	%d%% tasarruf edin ㅡ En İyi Teklif
+0x7f140bc5	Stili ön ayar olarak kaydet
+0x7f140bc6	Bu düğmeyle, özelliklerin ve etkilerin belirli bir kombinasyonunu bir ön ayar olarak kaydedebilirsiniz, böylece daha sonra diğer katmanlarda tekrar kullanabilirsiniz!
+
+Kaydedilen ön ayarlar aşağıya eklenecektir. Bir kaydedilmiş ön ayarı bir katmana uygulamak için o katmanı seçin, Ön ayarlar'a dokunun ve uygulamak istediğiniz ön ayarına tekrar dokunun.
+
+Efektler ve keyframe'ler, medyanızı veya renk dolgunuzu değiştirmezken, yeni katmanınızın uzunluğuna uyacak şekilde uyarlanacaktır.
+0x7f140bc7	Galeriye Kaydet
+0x7f140bc8	Öğelerime Kaydet
+0x7f140bc9	Depolama birimine kaydet
+0x7f140bca	Kaydedildi
+0x7f140bcb	Galeriye kaydedildi
+0x7f140bcc	Öğelerime Kayıtlı
+0x7f140bcd	Fotoğraf kütüphanesine kaydedildi
+0x7f140bce	Depolama birimine kaydedildi
+0x7f140bcf	Galeriye Kaydediliyor
+0x7f140bd0	Öğelerime Kaydediliyor…
+0x7f140bd1	Dağılım Tekrarı
+0x7f140bd2	‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‏‏‏‏‎‏‎‏‏‎‏‏‏‎‏‏‏‎‏‏‏‏‏‎‎‎‎‏‎‏‏‎‎‎‏‎‏‏‎‎‏‎‏‎‎‏‎‎‏‎‎‎‏‎‏‏‎‎‏‎‏‎‏‏‎‎‎Search‎‏‎‎‏‎
+0x7f140bd3	com.google.android.material.search.SearchBar$ScrollingViewBehavior
+0x7f140bd4	Limpar texto
+0x7f140bd5	Voltar
+0x7f140bd6	Open Secret Menu
+0x7f140bd7	Tümünü gör
+0x7f140bd8	Alight Motion'daki yenilikleri görün!
+0x7f140bd9	Tümünü Seç
+0x7f140bda	Tüm Katmanları Seç
+0x7f140bdb	İçe Aktarılacak Yazı Tiplerini Seçin
+0x7f140bdc	Medya seç
+0x7f140bdd	‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‎‏‎‏‏‎‏‎‏‎‏‏‏‏‎‎‎‏‎‎‏‏‏‎‎‎‎‏‏‎‎‎‏‏‏‏‎‎‎‏‎‎‏‎‎‎‎‏‏‎‏‎‎‏‏‏‏‎Selected‎‏‎‎‏‎
+0x7f140bde	Gönder
+0x7f140bdf	Serif Yazı Tipleri
+0x7f140be0	Sunucu Bağlantısı Başarısız Oldu
+0x7f140be1	Girişin sonunu işaretle
+0x7f140be2	Finalin başlangıcını işaretle
+0x7f140be3	Küçük resim çerçevesini ayarla
+0x7f140be4	Telif Hakkı Politikası
+0x7f140be5	Gölge
+0x7f140be6	X
+0x7f140be7	Y
+0x7f140be8	Sallama
+0x7f140be9	Şekil
+0x7f140bea	Yay
+0x7f140beb	Ok
+0x7f140bec	Konuşma Balonu
+0x7f140bed	Daire
+0x7f140bee	Çizgi
+0x7f140bef	Ay
+0x7f140bf0	Çok Yapraklı
+0x7f140bf1	Düzensiz Beşgen
+0x7f140bf2	Pasta
+0x7f140bf3	Artı
+0x7f140bf4	Çokgen
+0x7f140bf5	Dörtgen
+0x7f140bf6	Dikdörtgen
+0x7f140bf7	Yuvarlarılmış Dikdörtgen
+0x7f140bf8	Pul
+0x7f140bf9	Yıldız
+0x7f140bfa	Gözyaşı
+0x7f140bfb	Üçgen
+0x7f140bfc	Geniş çizgi
+0x7f140bfd	Paylaş
+0x7f140bfe	Bağlantıyı paylaş
+0x7f140bff	QR Kodunu Paylaş
+0x7f140c00	Videoyu paylaş
+0x7f140c01	Gif Paylaş
+0x7f140c02	Fotoğraf Paylaş
+0x7f140c03	Görüntü Sırasını Paylaş
+0x7f140c04	Bağlantıyı Paylaş
+0x7f140c05	Projeni başkalarıyla paylaşmak için bu bağlantıyı veya karekodu kullan.
+0x7f140c06	Video Paylaş
+0x7f140c07	İş Akışı XML'sini paylaşın
+0x7f140c08	Share Zipped XML
+0x7f140c09	Diğer Satın Alma Seçenekleri
+0x7f140c0a	Arıza İzleme Kimliğini Göster
+0x7f140c0b	내 ID 표시
+0x7f140c0c	Önce 1 yeni öğeyi göster
+0x7f140c0d	Önce 10 yeni öğeyi göster
+0x7f140c0e	Önce 3 yeni öğeyi göster
+0x7f140c0f	Önce 5 yeni öğeyi göster
+0x7f140c10	Önce yeni öğeleri gösterme
+0x7f140c11	Sistem Yazı Tiplerini Göster
+0x7f140c12	Dokunuşları Göster
+0x7f140c13	Show Watermark on Projects
+0x7f140c14	During the beta test period, you can use Alight Motion without the watermark at no charge by turning off this option. You must be signed in for this setting to be available.
+0x7f140c15	Página lateral
+0x7f140c16	com.google.android.material.sidesheet.SideSheetBehavior
+0x7f140c17	Oturum Aç
+0x7f140c18	Bir proje paketini paylaşmak için Alight Motion hesabınıza giriş yapmanız gerekir.
+0x7f140c19	Giriş Yapılması Gerekiyor
+0x7f140c1a	Lütfen üyeliğinize bağlı olan hesapla oturum açın.
+0x7f140c1b	Oturumu Kapat
+0x7f140c1c	Mevcut e-posta adresinize bir oturum açma e-postası gönderildi. Yeniden kimlik doğrulama işlemini tamamlamak için lütfen e-postanızı kontrol edin.
+0x7f140c1d	Oturum Açma Seçenekleri
+0x7f140c1e	Boyutlar
+0x7f140c1f	Merkezden boyutlandır
+0x7f140c20	Kenardan boyutlandır
+0x7f140c21	‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‏‏‎‏‎‎‏‏‎‏‎‏‏‏‏‏‏‏‏‏‏‏‏‎‎‏‎‏‏‎‎‏‎‎‏‏‏‎‎‏‎‏‏‏‎‎‎‎‎‏‎‎‏‏‎‎‏‏‏‎‎‏‎‎‎‎Alert‎‏‎‎‏‎
+0x7f140c22	Alfabetik
+0x7f140c23	Tarihe göre sırala
+0x7f140c24	Ada göre sırala
+0x7f140c25	Tarihe göre sırala
+0x7f140c26	Ada göre sırala
+0x7f140c27	Popüler
+0x7f140c28	Sıralama
+0x7f140c29	Uzay
+0x7f140c2a	Dönme
+0x7f140c2b	Spor
+0x7f140c2c	Devam et
+0x7f140c2d	Ücretsiz Erişim
+0x7f140c2e	Ücretsiz erişim etkinleştirildi!
+0x7f140c2f	Ücretsiz erişimi etkinleştir
+0x7f140c30	Henüz emin değil misiniz?
+0x7f140c31	%1$s bir hafta için, ardından %2$s/hafta.
+0x7f140c32	%1$s bir hafta için. %2$s/hafta olarak yenilenir.
+0x7f140c33	%1$s/hafta olarak yenilenir.
+0x7f140c34	Bir hafta ücretsiz, ardından %1$s bir hafta için, sonra %2$s/hafta.
+0x7f140c35	7 gün ücretsiz, ardından %1$s bir hafta için. %2$s/hafta olarak yenilenir.
+0x7f140c36	7 gün ücretsiz. %1$s/hafta olarak yenilenir.
+0x7f140c37	%1$s bir hafta için, ardından %2$s/yıl.
+0x7f140c38	%1$s bir hafta için. %2$s/yıl olarak yenilenir.
+0x7f140c39	%1$s/yıl olarak yenilenir.
+0x7f140c3a	Bir hafta ücretsiz, ardından %1$s bir hafta için, sonra %2$s/yıl.
+0x7f140c3b	7 gün ücretsiz, ardından %1$s bir hafta için. %2$s/yıl olarak yenilenir.
+0x7f140c3c	7 gün ücretsiz. %1$s/yıl olarak yenilenir.
+0x7f140c3d	Alight Motion'un tüm Pro özellikleri, reklamsız.
+0x7f140c3e	1. hafta
+0x7f140c3f	2. hafta
+0x7f140c40	1. haftadan sonra
+0x7f140c41	2. haftadan sonra
+0x7f140c42	7 gün ücretsiz alın
+0x7f140c43	7 gün ücretsiz
+0x7f140c44	Ücretsiz Denemeyi Etkinleştir
+0x7f140c45	1. hafta
+0x7f140c46	%1$s/hafta
+0x7f140c47	%1$s/yıl
+0x7f140c48	Alight Motion PRO - sınır olmadan düzenleyin
+0x7f140c49	Sınır olmadan düzenleyin!
+0x7f140c4a	Sınır olmadan düzenleyin!
+0x7f140c4b	Standart Ayarlar
+0x7f140c4c	Başlangıç
+0x7f140c4d	‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‏‏‎‏‏‏‎‎‏‎‏‏‏‎‎‏‏‏‏‎‎‎‏‏‏‎‏‏‏‏‎‏‏‏‎‏‏‎‏‎‎‏‏‎‏‏‏‏‏‎‎‏‏‏‎‏‏‏‎‏‎‏‎‏‎‎Empty‎‏‎‎‏‎
+0x7f140c4e	‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‏‏‏‏‎‏‎‎‎‎‏‏‏‏‏‎‎‎‏‏‎‎‏‎‏‏‎‏‏‏‎‏‏‏‎‏‎‏‎‏‏‏‎‎‏‎‏‎‏‎‎‎‏‏‏‎‏‏‏‎‎‏‏‎‏‏‎Off‎‏‎‎‏‎
+0x7f140c4f	‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‏‎‏‏‎‏‎‎‏‎‏‏‎‎‎‎‏‎‏‎‏‏‏‎‏‏‏‏‏‏‎‎‎‎‏‎‏‎‏‏‏‏‏‎‏‏‏‏‎‎‏‎‏‎‎‎‏‎‎‏‏‏‎‎‎On‎‏‎‎‏‎
+0x7f140c50	‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‏‏‏‏‎‏‎‏‏‏‎‎‎‏‏‏‏‎‎‏‎‎‏‏‎‏‎‏‏‎‎‏‎‏‏‎‎‎‏‎‎‎‎‎‎‎‏‎‎‎‎‏‎‏‎‏‎‎‎‎‏‎‎‎‎‎‎999+‎‏‎‎‏‎
+0x7f140c51	Videoyu ve Şablonu Paylaş
+0x7f140c52	Buhar (Fraktal Warp kullanarak)
+0x7f140c53	Depolama
+0x7f140c54	Alight Motion, galeriye kaydetmek için medyanıza erişmeniz gerekir.
+0x7f140c55	İzin Gerekli
+0x7f140c56	Maksimum kotayı aştınız.
+0x7f140c57	Devam etmek için lütfen yükseltin.
+0x7f140c58	Daha fazla alana sahip ol
+0x7f140c59	Şimdi yükselt
+0x7f140c5a	Bulut depolama alanı
+0x7f140c5b	Gelişmiş özel animasyonları kolayca oluşturun.
+0x7f140c5c	Bir sahnenin havasını ifade etmek veya çekimlerdeki renkleri eşleştirmek için fotoğraf ve video renklerinde ince ayar yapın.
+0x7f140c5d	Mobil cihazlarda artık sadece bir dokunuşla masaüstü kalitesinde profesyonel görsel efektler!
+0x7f140c5e	Kareden geniş ekrana her en boy oranında hareketli grafikler!
+0x7f140c5f	Çeşitli katman karıştırma modları ile istediğiniz hissi elde edin!
+0x7f140c60	Hayal edebileceğiniz her şeyi gösterin, ardından hayata geçirin!
+0x7f140c61	Arkadaşlarınızla paylaşın veya profesyonel bir iş akışına geçin. MP4 Video, GIF Animasyonu, PNG Dizisi, XML Proje Paylaşımı ve daha fazlası.
+0x7f140c62	2.000'den fazla yazı tipi dahildir, dilerseniz kendi özel yazı tiplerinizi içe aktarabilirsiniz.
+0x7f140c63	Ana Kare Animasyonu
+0x7f140c64	Renk Ayarı
+0x7f140c65	Görsel efektler
+0x7f140c66	En Boy Oranı
+0x7f140c67	Karıştırma Modları
+0x7f140c68	Vektör Grafikleri
+0x7f140c69	Birçok Fortmatta Dışa Aktarın
+0x7f140c6a	Yazı tipleri
+0x7f140c6b	Kompozisyon Alanına Genişlet
+0x7f140c6c	Ekrana Uzat
+0x7f140c6d	Boş
+0x7f140c6e	Vuruş
+0x7f140c6f	Bitir
+0x7f140c70	Başla
+0x7f140c71	Abonelik otomatik olarak yenilenir. Ödemeler Apple tarafından işlenir. Sonraki yenileme: %1$s
+0x7f140c72	Abonelik otomatik olarak yenilenir. Ödemeler Apple tarafından işlenir. Sipariş Numarası: %1$s.
+0x7f140c73	Abonelik otomatik olarak yenilenir. Ödemeler Apple tarafından işlenir. Sipariş numarası: %1$s. Sonraki yenileme: %2$s.
+0x7f140c74	Abonelik otomatik olarak yenilenir. Ödemeler Google Play tarafından işlenir. Bir sonraki yenileme: %1$s
+0x7f140c75	Abonelik otomatik olarak yenilenir. Ödemeler Google Play tarafından işlenir. Sipariş Numarası: %1$s
+0x7f140c76	Abonelik otomatik olarak yenilenir. Ödemeler Google Play tarafından işlenir. Sipariş numarası: %1$s. Bir sonraki yenileme: %2$s.
+0x7f140c77	Satın almalar Google tarafından gerçekleştirilir. Abonelikler, Google Play Store'da iptal edilinceye kadar otomatik olarak yenilenir. Ayrıntılar için alightmotion.com/sub bölümüne bakın.
+0x7f140c78	Abonelik Üyeliği
+0x7f140c79	Abonelik otomatik olarak yenilenmeyecektir. Abonelik bitiş tarihi: %1$s.
+0x7f140c7a	Abonelik otomatik olarak yenilenmeyecektir. Sipariş numarası: %1$s. Abonelik bitiş tarihi: %2$s.
+0x7f140c7b	Abonelik bilgileri
+0x7f140c7c	Abone olduğunda: 
+
+- Abonelik koşullarına bağlı olarak her yenileme döneminde senden otomatik olarak ücret tahsil edilir.
+- Bir deneme teklifini kabul edersen deneme süresi sona ermek üzereyken bir e-posta alırsın.
+- Deneme süresinin sonunda, abonelik koşullarında yer alan tutar senden otomatik olarak tahsil edilir.
+- Ücret ödememek için deneme süresi sona ermeden aboneliği iptal etmelisin.
+- Yenileme tarihinden 24 saat önce ödeme yönteminde bir ödeme onayı görebilirsin ancak ödeme yalnızca yenileme tarihinde alınır. Ödeme onayını kaldırmak için yenileme tarihinden önce aboneliği iptal etmelisin.
+
+Aboneliğini istediğin zaman {subLink}Google Play'deki Abonelikler bölümünden{/subLink} iptal edebilirsin. Aboneliğini iptal ettiğinde, mevcut fatura döneminin sonunda aboneliğe erişimini kaybedersin. 
+
+Satın alma işleminden sonra hesap ayarlarına gidip aşağıdaki adımları izleyerek aboneliklerini yönetebilir ve otomatik yenilemeyi kapatabilirsin: 
+
+ 1. {playStoreLink}play.google.com{/playStoreLink}'a git.
+ 2. Sağ üstte yer alan profil simgesine tıkla.
+ 3. {bold}Ödemeler ve abonelikler > Abonelikler{/bold}'e tıkla.
+ 4. İptal etmek istediğin aboneliğin yanındaki {bold}Yönet{/bold}'i seç.
+ 5. Onay açılır penceresinde {bold}Aboneliği iptal et{/bold}'e tıkla. 
+
+Uygulamayı kaldırdığında abonelik iptal edilmiş olmaz.
+0x7f140c7d	‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‏‏‏‏‏‏‏‏‏‏‎‎‏‏‏‎‏‎‎‏‏‏‏‎‏‏‎‎‏‎‎‎‏‎‎‏‎‏‎‏‎‎‎‏‎‎‎‎‏‏‎‏‏‏‏‏‏‏‏‎‏‎‏‎‏‎‎‎‏‎‎‏‏‎%1$s‎‏‎‎‏‏‏‎, ‎‏‎‎‏‏‎%2$s‎‏‎‎‏‏‏‎‎‏‎‎‏‎
+0x7f140c7e	Belirt
+0x7f140c7f	Ayarlamak için kaydırın
+0x7f140c80	Katmanı taşımak için buraya kaydırın
+0x7f140c81	Pivot noktasını taşımak için buraya kaydırın
+0x7f140c82	Daha fazlasını görmek için kaydırın
+0x7f140c83	‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‏‏‎‏‎‎‎‏‏‏‎‎‎‏‎‏‏‎‎‏‏‎‎‏‏‎‏‎‏‏‏‏‎‏‏‎‎‏‏‎‎‎‎‎‏‏‏‏‏‏‎‏‏‎‎‏‎‏‏‏‏‏‏‎‏‎Switch‎‏‎‎‏‎
+0x7f140c84	Sistem
+0x7f140c85	Sistem Yazı Tipi Kullanılabilirliği
+0x7f140c86	Sistem Yazı Tipleri
+0x7f140c87	Proje paketleri paylaşılırken sistem yazı tipleri dahil edilmez. Projeler, farklı sistem yazı tiplerine sahip bir aygıta içe aktarıldığında farklı görünebilir.
+0x7f140c88	‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‏‎‏‏‎‏‏‏‎‎‏‏‎‏‎‏‎‏‏‎‎‎‎‎‏‏‎‏‎‏‏‏‏‏‏‎‏‎‏‏‏‏‎‎‎‎‏‏‎‎‎‏‏‎‏‎‎‎‎‎‏‎‏‎‎Tab‎‏‎‎‏‎
+0x7f140c89	İçerik Üreticileri
+0x7f140c8a	Öğeler
+0x7f140c8b	Ana Sayfa
+0x7f140c8c	Projeler
+0x7f140c8d	Şablonlarınız
+0x7f140c8e	Öğreticiler
+0x7f140c8f	Etiket
+0x7f140c90	Kapatmak için dokunun
+0x7f140c91	Daha fazla yüklemek için dokunun
+0x7f140c92	Oturum açmak için dokunun
+0x7f140c93	Şimdi çıkarsanız, şu ana kadar yapılan ilerlemeyi kaybedersiniz.
+
+Kendi medyanızla şablon medyasını kolayca değiştirmek için bu düzenleyicide kalın.
+0x7f140c94	Düzenlemeye devam et
+0x7f140c95	Çık
+0x7f140c96	Editörden çık
+0x7f140c97	Devam ettiğinizde geri dönemezsiniz.
+
+Kendi medyanızla şablon medyasını kolayca değiştirmek için bu düzenleyicide kalın.
+0x7f140c98	Şablon düzenleyicide kal
+0x7f140c99	Zaman çizelgesine devam et
+0x7f140c9a	Medyayı değiştirmeyi bitirdin mi?
+0x7f140c9b	Bitti
+0x7f140c9c	Seçmek için sürükle
+0x7f140c9d	Medya seçmek için dokun
+0x7f140c9e	Değiştirmek için tekrar dokun
+0x7f140c9f	Şablon düzenleyici
+0x7f140ca0	Video çok kısa olduğu için videonun son karesi dondu.
+En iyi sonuçlar için daha uzun bir videoyla değiştir.
+0x7f140ca1	Video dondu
+0x7f140ca2	Medyayı ölçeklendirmek için dokunun: sığdır, germek veya doldur
+0x7f140ca3	Medya değiştirme
+0x7f140ca4	Medyanızla değiştirmek için dokunun
+0x7f140ca5	‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‏‏‏‏‎‏‎‎‏‎‏‎‎‎‎‏‏‏‎‏‎‎‏‎‏‏‏‎‏‏‏‏‏‎‎‎‏‎‏‏‎‏‏‏‎‏‏‏‎‏‏‏‎‎‎‎‎‏‎‎‏‏‎‏‏‏‎‎‏‎‎‏‏‎%1$d‎‏‎‎‏‏‏‎ percent.‎‏‎‎‏‎
+0x7f140ca6	Şablonlar ve Ön ayarları Keşfedin
+0x7f140ca7	Daha Fazla Şablon Keşfedin
+0x7f140ca8	Şablonlar ve Ön ayarlar
+0x7f140ca9	Şablonlar
+0x7f140caa	Şablonların
+0x7f140cab	Kullanım Şartları
+0x7f140cac	Metin
+0x7f140cad	Tayca Yazı Tipleri
+0x7f140cae	Teşekkür ederim!
+0x7f140caf	Bu öğe başka bir projeyle bağlantılı.
+0x7f140cb0	3D Perspektif
+0x7f140cb1	Buluttan sil
+0x7f140cb2	Cihazdan sil
+0x7f140cb3	Projeyi indir
+0x7f140cb4	Üç kere
+0x7f140cb5	Zaman Çizelgesi Küçük Resim Sınırları
+0x7f140cb6	%s
+
+Katmanın görüntüsünün minik resmi tamamen doldurup doldurmayacağını veya proje içindeki gerçek konumuna göre konumlandırılıp konumlandırılmayacağını kontrol eder.
+0x7f140cb7	TikTok
+0x7f140cb8	Süre tükeniyor! Hemen faydalanın!
+0x7f140cb9	Zamanlama
+0x7f140cba	EditActivity
+0x7f140cbb	Şablon olarak da dışa aktar
+0x7f140cbc	Bir Şablonu paylaşmak için Alight Motion hesabında oturum açmış olman gerekir
+0x7f140cbd	Bir yer imi oluşturmak için geçerli saate dokunun. Diğer seçenekleri görmek için uzunca basın.
+0x7f140cbe	‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‏‏‎‏‏‎‏‎‎‎‏‎‎‎‎‎‏‏‏‎‏‏‏‎‎‏‎‎‎‎‏‏‎‏‏‏‎‎‎‎‏‎‏‎‏‎‏‏‎‎‎‏‎‎‎‎‏‏‎‏‎‏‎‏‏‎tooltip‎‏‎‎‏‎
+0x7f140cbf	‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‏‏‎‏‎‏‎‏‏‎‏‎‏‏‏‎‏‎‏‎‎‏‏‏‏‎‎‎‎‎‏‎‎‎‎‏‎‎‏‏‏‎‎‎‏‏‏‏‎‏‏‎‏‎‎‏‏‏‏‏‎‏‎‎‎‎show tooltip‎‏‎‎‏‎
+0x7f140cc0	Albümleri değiştirmek için buraya dokunun.
+0x7f140cc1	Kameranın bakış açısından görmek için bu paneli açın ve Aktif Kamera Görünümü'nü seçin.
+0x7f140cc2	Üst
+0x7f140cc3	Toplam
+0x7f140cc4	Toplam Düzenleme Süresi
+0x7f140cc5	Toplam
+%1$s
+0x7f140cc6	ऐप को सही ढंग से काम करने के लिए Google के Firebase टूल की ज़रूरत होती है। एनालिटिक्स सुविधाएँ चालू होने पर, यह ऐप के ट्रैफ़िक और उसकी परफ़ॉर्मेंस को बेहतर बनाने में हमारी मदद कर सकता है।
+0x7f140cc7	थर्ड-पार्टी की निजता नीति
+0x7f140cc8	Adjust एक मोबाइल एट्रिब्यूशन टूल है। इसकी मदद से हम अपने विज्ञापनों के असर को माप सकते हैं।
+0x7f140cc9	हमारा आंतरिक प्रोफ़ाइलिंग सॉफ़्टवेयर डेवलपमेंट किट (SDK)। इसकी मदद से हम लोगों को उनकी मन मुताबिक सेवाएँ देते हैं।
+0x7f140cca	ऐप को सही ढंग से काम करने के लिए Google के Firebase टूल की ज़रूरत होती है। प्रोफ़ाइलिंग सुविधाएँ चालू होने पर, यह हमारे विज्ञापनों के असर को मापने में हमारी मदद कर सकता है।
+0x7f140ccb	%s हमें आपको विज्ञापन दिखाने की अनुमति देता है। जब प्रोफ़ाइलिंग सुविधाएँ चालू होती हैं, तो आपकी पसंद-नापसंद का ध्यान रखते हुए विज्ञापन दिखाए जाते हैं।
+0x7f140ccc	Özellik: Kamera Katmanları
+0x7f140ccd	Özellik: Gelişmiş Hareket Eğrileri
+0x7f140cce	Özellik: Üyelere Özel Efektler
+0x7f140ccf	Özellik: Üst Katman Oluşturma
+0x7f140cd0	Tüm Projeyi Kırp
+0x7f140cd1	DENEYİN
+0x7f140cd2	Önce Deneyin
+0x7f140cd3	Öğretici
+0x7f140cd4	Başlarken - Bölüm 1
+0x7f140cd5	Başlarken - Bölüm 2
+0x7f140cd6	Twitter
+0x7f140cd7	Aramak için buraya yazın
+0x7f140cd8	Sunucuya erişilemiyor. Lütfen bağlantınızı kontrol edin ve daha sonra tekrar deneyin.
+0x7f140cd9	Üyelik Durumu Alınamadı
+0x7f140cda	Grubu çöz
+0x7f140cdb	Bilinmiyor
+0x7f140cdc	Bağlantıyı kaldır ve düzenle
+0x7f140cdd	Bağlantıyı kaldır
+0x7f140cde	Öğenin bağlantısını kaldır
+0x7f140cdf	Projenin bağlantısını kaldır
+0x7f140ce0	Bu oturum açma seçeneğinin bağlantısı kaldırılsın mı?
+0x7f140ce1	Bir oturum açma seçeneğinin bağlantısını kaldırmadan önce, doğrulanmış bir e-posta adresiniz olmalıdır. E-posta adresinizi ayarlamak veya doğrulamak için lütfen Değiştir düğmesini kullanın.
+0x7f140ce2	Doğrulanmış E-posta Gerekli
+0x7f140ce3	Discard Changes and Exit
+0x7f140ce4	Changes to your username or profile photo have not been saved yet. Do you wish to discard the changes and exit?
+0x7f140ce5	Unsaved Change
+0x7f140ce6	Video formatı desteklenmiyor
+0x7f140ce7	Dosya: %1$s
+Video Formatı: %2$s
+Ses Formatı: %3$s
+Profil: %4$d Seviye: %5$d
+Boyut: %6$dx%7$d
+Kare Hızı: %8$s fps
+Bit Hızı: %9$d
+Süre: %10$s
+0x7f140ce8	%s tarihine kadar
+0x7f140ce9	(Doğrulanmamış)
+0x7f140cea	Güncelle
+0x7f140ceb	Bağlantılı projeler güncelleniyor…
+0x7f140cec	Yükleme tamamlandı
+0x7f140ced	Yükleme başarısız
+0x7f140cee	Projeni buluta yükleyemedik. Bağlantını kontrol edip tekrar dene.
+0x7f140cef	Buluta Yükleme Başarısız
+0x7f140cf0	Yüklemeyi iptal et
+0x7f140cf1	Yükleme devam ediyor...
+Lütfen uygulamayı veya bu ekranı kapatma.
+0x7f140cf2	Buluta Yükle
+0x7f140cf3	Buluttaki projenin üzerine yazmak mı yoksa yeni bir proje oluşturmak mı istiyorsun?
+0x7f140cf4	Bir kopyasını yükle
+0x7f140cf5	Projenin üzerine yaz
+0x7f140cf6	Bu proje zaten buluta kaydedilmiş
+0x7f140cf7	Bu paket %1$s. %2$s üzerindeki paketler yalnızca diğer Alight Motion üyeleri tarafından içe aktarılabilir.
+
+Bunu şablon veya ön ayar olarak kullanmak için yapıyorsanız, lütfen pakette kullanılan herhangi bir yer tutucu medyayı daha küçük medyayla değiştirmeyi düşünün.
+
+Bu paketi yine de yüklemek ve paylaşmak istiyor musunuz?
+0x7f140cf8	Bu paketin boyutu %1$s'dır ve yalnızca diğer Alight Motion üyeleri tarafından içe aktarılabilir.
+0x7f140cf9	Bu paketin diğer kullanıcılar için daha küçük bir versiyonu hazırlanamadı.
+
+Bu paketin tüm kullanıcılar tarafından içe aktarılmasını sağlamak için lütfen boyutu %1$s 'den küçük olacak şekilde azaltın.
+0x7f140cfa	Bu paketin, optimize edilmiş düşük kaliteli medyaya sahip daha küçük bir sürümü, diğer kullanıcılar tarafından içe aktarılabilir.
+0x7f140cfb	Paket %1$s. %2$s üzerindeki paketler yalnızca diğer Alight Motion premium üyeleri tarafından içe aktarılabilir.
+
+Bunu bir şablon veya ön ayar olarak kullanmak için yapıyorsanız, lütfen pakette kullanılan herhangi bir yer tutucu ortamı, proje boyutuna dahil edilmeyen Örnek Ortam klasöründeki ortamla değiştirmeyi deneyin.
+0x7f140cfc	Bunu bir şablon veya ön ayar olarak kullanmak için yapıyorsanız, lütfen pakette kullanılan herhangi bir yer tutucu ortamı, proje boyutuna dahil edilmeyen Örnek Ortam klasöründeki ortamla değiştirmeyi deneyin.
+0x7f140cfd	Bunu bir şablon veya ön ayar olarak kullanmak üzere yapıyorsanız, gelecekte bu uyarıdan kaçınmak için lütfen pakette kullanılan herhangi bir yer tutucu ortamı, proje boyutuna dahil edilmeyen Örnek Ortam klasöründeki ortamla değiştirmeyi deneyin.
+0x7f140cfe	Büyük Paket
+0x7f140cff	XML dosyası yükle
+0x7f140d00	Yükleniyor
+0x7f140d01	%1$s/hafta olarak değiştirin
+0x7f140d02	%1$s/yıl'a geçin
+0x7f140d03	Haftalık %1$s karşılığında yükselt
+0x7f140d04	Yıllık %1$s için yükseltme
+0x7f140d05	Bulut Alanının kilidini aç!
+0x7f140d06	Şablonu kullan
+0x7f140d07	Kullanıcı rehberi
+0x7f140d08	Kullanıcı adı
+0x7f140d09	‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‏‏‎‏‎‏‎‏‏‏‎‎‏‎‏‎‎‎‏‎‏‏‎‎‏‏‎‎‏‎‏‏‏‎‏‎‎‎‏‎‏‎‎‏‏‏‎‏‏‏‏‎‏‏‏‎‏‎‏‏‏‎‎‏‏‎OFF‎‏‎‎‏‎
+0x7f140d0a	‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‎‎‏‏‎‎‏‏‏‏‏‎‎‎‏‎‎‏‏‎‏‎‏‏‎‎‏‏‏‎‏‎‏‎‏‏‎‎‏‏‏‎‎‏‎‎‏‏‎‏‏‎‎‏‏‏‏‎‏‏‎ON‎‏‎‎‏‎
+0x7f140d0b	Son Geçerlilik Tarihi: %1$s.
+0x7f140d0c	Sipariş Numarası: %2$s. Son Geçerlilik Tarihi: %1$s.
+0x7f140d0d	Vektör Çizimi
+0x7f140d0e	Yeniden kimlik doğrulama başarılı
+0x7f140d0f	Bağlantı doğrulanıyor
+0x7f140d10	Bağlantı doğrulanıyor (alternatif deneniyor)
+0x7f140d11	Sürüm
+0x7f140d12	Video
+0x7f140d13	Video çözünürlüğü bu cihazda düzenleme yapmak için çok yüksek
+0x7f140d14	Video çok kısa
+0x7f140d15	Tümünü görüntüle
+0x7f140d16	Tümünü görüntüle Ses
+0x7f140d17	Tümünü görüntüle
+0x7f140d18	Tüm Öğeleri Görüntüle
+0x7f140d19	Tüm Yazı Tiplerini Görüntüle
+0x7f140d1a	Tümünü görüntüle Fotoğraf ve Videolar
+0x7f140d1b	Tüm Gizlilik Politikası'nı görüntüle
+0x7f140d1c	Kullanım Şartları'nı Görüntüle
+0x7f140d1d	Ses
+0x7f140d1e	Onay bekleniyor
+0x7f140d1f	Ödeme için bekleniyor
+0x7f140d20	UYARI! Arıza izleme kimliğinizi Alight Creative ile paylaşmanız, bu cihazın bildirdiği arızaların anonim olmayacağı anlamına gelir.
+
+Arıza raporları, dosya adları gibi özel veriler içerebilir.
+
+Bu seçeneği dikkatli ve yalnızca Alight Creative Support kılavuzluğunda kullanmalısınız.
+0x7f140d21	Dışa aktarmak için bir reklam izle
+0x7f140d22	Filigran
+0x7f140d23	AdMob -
+0x7f140d24	WebP
+0x7f140d25	Başlarken videolarını izlediğinizden emin olun ve daha fazla yardım için YouTube kanalımızı inceleyin.
+0x7f140d26	İpuçları, püf noktaları, öğreticiler ve ilham verici fikirler için bu alanı izleyin.
+0x7f140d27	Akıllı telefon için geliştirilen ilk hareketli grafik uygulaması olan Alight Motion'ı kullandığınız için teşekkür ederiz.
+0x7f140d28	Alight Motion'a Hoş Geldiniz
+0x7f140d29	Genişlik
+0x7f140d2a	Orijinal Medya ile
+0x7f140d2b	(Premium Efektler Olmadan)
+0x7f140d2c	www.AlightCreative.com
+0x7f140d2d	www.AlightCreative.com
+0x7f140d2e	X EĞRİLİĞİ
+0x7f140d2f	XML
+0x7f140d30	XML
+0x7f140d31	Y EĞRİLİĞİ
+0x7f140d32	%1$s / Yıllık
+0x7f140d33	Evet
+0x7f140d34	Evet, Geribildirim Gönder!
+0x7f140d35	Youtube
+0x7f140d36	Youtube kanalı
+0x7f140d37	YouTube'da Alight Motion
+0x7f140d38	Yakınlaştır
+0x7f140d39	Uzaklaştır
+0x7f140d3a	Renders a complex parallax starfield that can be animated in two dimensions.

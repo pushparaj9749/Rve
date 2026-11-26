@@ -386,3 +386,42 @@ Fields: `id`, `effectId`, `label`, `shortCode`, `properties: Map`, `timing`, `ti
 ### Blueprint takeaway
 
 Clean-room version me effect ko **data-driven plugin** ki tarah rakhna: `{id, type, parameter schema, passes/shader refs, presets, affinity}` + alag renderer. Preset timing ko layer duration se map karne wala `adjustForTiming` jaisa layer zaroori hai. `.ta` binaries ya shader code copy mat karna — apna effect registry banana.
+
+---
+
+## 15. Reference UI layout evidence (APK resource inspection)
+
+APK ke `res/layout/*` XML decode karke exact screen skeleton confirm kiya gaya (resource IDs/names `research/res_public.xml`, `research/string_by_id.tsv`, decoded layouts `research/layouts/` me hain). Clean-room reimplementation me yehi structure/flow rakha gaya hai — assets/code copy nahi kiye gaye.
+
+### Launch / project list (`activity_home_screen.xml`, `activity_project_list_main.xml`)
+
+- Root `DrawerLayout`; header `ConstraintLayout` **57dp**, bottom tab space **72dp**.
+- Header: left 50dp hamburger, centered logo, right 40dp account/profile + tutorial buttons.
+- `ComposeView` content area header ke niche, bottom tab space se upar.
+- Navigation drawer: `NavigationView` with menu `project_list_sidemenu.xml` → Settings, About, Open source libraries, My account, Tutorial, Privacy policy, Terms of service.
+- Project list header **140dp**: centered logo, left/right 45dp buttons; bottom me 3 equal tabs with icon + 9sp label:
+  - `tab_bar_home` → **Home**
+  - `tab_bar_projects` → **Projects**
+  - `my_elements` → **My Elements**
+- 2dp selected-tab underline, `ViewPager` white content area, bottom-right add button (`ac_ic_add_element`), multi-select toolbar with cancel/delete/share/menu.
+
+### Create project (`create_project_fragment.xml`)
+
+- Full-screen panel; top segmented control **Project / Element**.
+- "Project title" field; aspect-ratio row: **16:9, 9:16, 4:5, 1:1, 4:3, Custom**.
+- Resolution block: width/height fields with link toggle; Frame rate dropdown; Background color dropdown; centered **Create Project** button; bottom close button.
+
+### Editor (`activity_edit.xml` + includes)
+
+- Top **42dp** navbar (`activity_edit_navbar.xml`): exit icon, editable project title, settings, share, group settings.
+- Optional selection bar overlay **42dp** (`activity_edit_selectbar.xml`) for multi-select/align/group actions.
+- Canvas `FrameLayout` between navbar and timeline, containing `SurfaceView`; right-side vertical tool rail **50dp** with preview/grid/camera/zoom buttons + zoom controls (weight 1.8).
+- Info bar **46dp** (`activity_edit_infobar.xml`): keyframe position, offset, and 6 pairs of value labels.
+- Play bar **46dp** (`activity_edit_playbar.xml`): undo, redo, previous frame, play, next frame, copy/paste menu, bookmark, panel close.
+- Timeline `RecyclerViewEx` pinned to bottom: row height **28dp**, header width `timeline_header_width_expanded`, grip width `timeline_grip_width`, `TimelineLayoutManager`; bottom-left 40dp add-layer button and bottom-right overflow.
+- Add-layer popup (`activity_edit_addpopup.xml`) items: **Media, Text, Shape, Camera, Audio, Freehand Drawing, Vector Drawing, Empty Group, Element / Project, Object / Element, Template**.
+- Property panel `edit_panel_height` occupies bottom when a layer is selected; the 1,120-effect browser is a separate dialog/search surface.
+
+### Interpretation for Ankit motion+
+
+Home tab order, 140dp header, editor top bar/canvas rail/info/play/timeline stacking, 28dp timeline rows, and the 11-item Add menu are treated as the fixed Phase-A UI contract. Re-skinning or extras must preserve this arrangement until the user explicitly approves a redesign.
