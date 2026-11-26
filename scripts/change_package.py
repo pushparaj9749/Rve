@@ -9,10 +9,12 @@ classes and XML resources.
 Usage: python3 scripts/change_package.py <decoded_dir>
 """
 import pathlib
+import re
 import shutil
 import sys
 
 OLD = "com.alightcreative.motion"
+OLD_CODE = "com.alightcreative.app.motion"
 OLD_PATH = "com/alightcreative/motion"
 NEW = "com.ankitmotion.plus"
 NEW_PATH = "com/ankitmotion/plus"
@@ -57,6 +59,20 @@ def main() -> None:
     manifest_count = replace_in_file(manifest, OLD, NEW)
     if manifest_count == 0:
         raise SystemExit(f"package {OLD} not found in manifest")
+
+    # The file provider authority uses the code package, not the application
+    # id. Leaving it unchanged conflicts with an installed reference app.
+    authority_pattern = re.compile(r'(android:authorities=")([^"]*)(")')
+    text = manifest.read_text(encoding="utf-8")
+    def fix_authority(match: re.Match) -> str:
+        return match.group(1) + match.group(2).replace(OLD_CODE, NEW) + match.group(3)
+    patched = authority_pattern.sub(fix_authority, text)
+    if patched != text:
+        manifest.write_text(patched, encoding="utf-8")
+
+    remaining = re.findall(r'android:authorities="([^"]*alightcreative[^"]*)"', manifest.read_text(encoding="utf-8"))
+    if remaining:
+        raise SystemExit(f"old authorities still present: {remaining}")
 
     xml_count = 0
     for path in root.glob("res/**/*.xml"):
