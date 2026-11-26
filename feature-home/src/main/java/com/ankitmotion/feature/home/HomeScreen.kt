@@ -47,8 +47,8 @@ import java.text.SimpleDateFormat
 import java.util.Date
 import java.util.Locale
 
-private val headerColor = Color(0xFF16161B)
-private val accentColor = Color(0xFFF5C518)
+private val headerColor = Color(0xFF111A2E)
+private val accentColor = Color(0xFF4DA3FF)
 private val tabLabels = listOf("Home", "Projects", "My Elements")
 
 /**
@@ -226,7 +226,7 @@ private fun ProjectList(projects: List<ProjectMeta>, onOpen: (String) -> Unit) {
             modifier = Modifier.fillMaxSize().padding(24.dp),
             contentAlignment = Alignment.Center
         ) {
-            Text("No projects yet. Tap + to create one.", color = Color(0xFF666666))
+            Text("No projects yet. Tap + to create one.", color = Color(0xFF5F6B82))
         }
         return
     }
@@ -258,12 +258,12 @@ private fun ProjectList(projects: List<ProjectMeta>, onOpen: (String) -> Unit) {
                         Text(
                             "${project.width} x ${project.height}  ·  ${project.fps} fps",
                             style = MaterialTheme.typography.bodySmall,
-                            color = Color(0xFF666666)
+                            color = Color(0xFF5F6B82)
                         )
                         Text(
                             "Edited ${formatDate(project.modifiedAt)}",
                             style = MaterialTheme.typography.bodySmall,
-                            color = Color(0xFF888888)
+                            color = Color(0xFF8492AC)
                         )
                     }
                 }
@@ -282,7 +282,7 @@ private fun MyElementsTab() {
         Text("Media, audio and fonts are picked locally from the device inside the editor.")
         Text(
             "Open a project and use the Add menu to import photos, videos, audio, shapes, text or drawings.",
-            color = Color(0xFF666666)
+            color = Color(0xFF5F6B82)
         )
     }
 }
@@ -316,7 +316,7 @@ private fun CreateProjectScreen(
             Text("New Project", color = Color.White, fontWeight = FontWeight.Bold, modifier = Modifier.weight(1f))
         }
         Row(
-            modifier = Modifier.fillMaxWidth().height(44.dp).background(Color(0xFF24242B)),
+            modifier = Modifier.fillMaxWidth().height(44.dp).background(Color(0xFF1B2740)),
             verticalAlignment = Alignment.CenterVertically
         ) {
             listOf("Project", "Element").forEachIndexed { index, label ->

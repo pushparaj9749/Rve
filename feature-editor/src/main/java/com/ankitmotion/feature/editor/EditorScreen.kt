@@ -106,10 +106,10 @@ import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.delay
 import kotlinx.coroutines.withContext
 
-private val editorBg = Color(0xFF101014)
-private val chromeBg = Color(0xFF1B1B21)
-private val timelineBg = Color(0xFF15151A)
-private val accent = Color(0xFFF5C518)
+private val editorBg = Color(0xFF0B1020)
+private val chromeBg = Color(0xFF111A2E)
+private val timelineBg = Color(0xFF0F1830)
+private val accent = Color(0xFF4DA3FF)
 
 private fun currentDuration(elements: List<SceneElement>, scene: Scene?): Long =
     scene?.durationMs?.coerceAtLeast(500L) ?: 2_000L
@@ -282,7 +282,7 @@ fun EditorScreen(
         // Canvas and the vertical preview tool rail.
         Box(modifier = Modifier.weight(1f).fillMaxWidth()) {
             Box(
-                modifier = Modifier.fillMaxSize().background(Color(0xFF0B0B0E)),
+                modifier = Modifier.fillMaxSize().background(Color(0xFF070B16)),
                 contentAlignment = Alignment.Center
             ) {
                 val ratio = current.width.toFloat() / current.height.toFloat().coerceAtLeast(1f)
@@ -340,7 +340,7 @@ fun EditorScreen(
                     .align(Alignment.CenterEnd)
                     .width(50.dp)
                     .fillMaxHeight()
-                    .background(Color(0xFF17171C)),
+                    .background(Color(0xFF16203A)),
                 verticalArrangement = Arrangement.Top
             ) {
                 RailButton(Icons.Filled.Image, "Preview mode") { showGrid.value = !showGrid.value }
@@ -552,7 +552,7 @@ fun EditorScreen(
                 }
             }
             Row(
-                modifier = Modifier.fillMaxWidth().height(36.dp).background(Color(0xFF202026)),
+                modifier = Modifier.fillMaxWidth().height(36.dp).background(Color(0xFF1B2740)),
                 verticalAlignment = Alignment.CenterVertically
             ) {
                 IconButton(onClick = { showAddMenu.value = !showAddMenu.value }) {
@@ -572,15 +572,15 @@ fun EditorScreen(
                 modifier = Modifier
                     .fillMaxWidth()
                     .height(220.dp)
-                    .background(Color(0xFFFFFFFF))
+                    .background(Color(0xFFF4F7FF))
                     .verticalScroll(rememberScrollState())
                     .padding(12.dp)
             ) {
                 if (selected == null) {
-                    Text("Select a layer to edit its properties", color = Color(0xFF666666))
+                    Text("Select a layer to edit its properties", color = Color(0xFF5F6B82))
                 } else {
                     Text("${selected.label} · ${selected.type}", fontWeight = FontWeight.Bold, color = Color.Black)
-                    Text("Source: ${selected.sourceUri ?: "generated"}", color = Color(0xFF666666), fontSize = 11.sp)
+                    Text("Source: ${selected.sourceUri ?: "generated"}", color = Color(0xFF5F6B82), fontSize = 11.sp)
 
                     Row(verticalAlignment = Alignment.CenterVertically) {
                         Text("Hidden", color = Color.Black, modifier = Modifier.weight(1f))
@@ -635,7 +635,7 @@ fun EditorScreen(
                         TextButton(onClick = { showEffectBrowser.value = true }) { Text("Effects") }
                         TextButton(onClick = { showPath.value = true }) { Text("Motion path") }
                     }
-                    Text("Speed keys: ${selected.speedMap.size}", color = Color(0xFF666666), fontSize = 11.sp)
+                    Text("Speed keys: ${selected.speedMap.size}", color = Color(0xFF5F6B82), fontSize = 11.sp)
                     if (selected.type == ElementType.TEXT) {
                         TextButton(onClick = {
                             editingText.value = selected.text ?: StyledText()
