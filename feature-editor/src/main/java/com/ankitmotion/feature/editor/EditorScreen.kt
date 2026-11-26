@@ -223,7 +223,7 @@ fun EditorScreen(
                                 android.graphics.Color.parseColor(selected.text?.color ?: "#FFFFFF")
                             )
                         }.getOrDefault(androidx.compose.ui.graphics.Color.White),
-                        fontSize = selected.text?.fontSize?.let { androidx.compose.ui.unit.sp(it) }
+                        fontSize = selected.text?.fontSize?.let { it.sp }
                             ?: androidx.compose.ui.unit.TextUnit.Unspecified,
                         fontWeight = if (selected.text?.bold == true) androidx.compose.ui.text.font.FontWeight.Bold
                         else androidx.compose.ui.text.font.FontWeight.Normal,
