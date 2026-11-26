@@ -34,9 +34,9 @@ Implemented:
 
 Har push par debug APK banta hai:
 
-- **Latest successful run:** https://github.com/pushparaj9749/Rve/actions/runs/45776957155
+- **Latest successful run:** https://github.com/pushparaj9749/Rve/actions/runs/45824177959
 - **APK artifact:** `AnkitMotion-plus-debug` (run page → Artifacts section)
-- Direct: https://github.com/pushparaj9749/Rve/actions/runs/45776957155/artifacts/15096348152
+- Direct: https://github.com/pushparaj9749/Rve/actions/runs/45824177959/artifacts/15118698989
 
 Artifact download karke zip unlock karein → `app-debug.apk` → phone me install karein (unknown sources allow karna hoga).
 
