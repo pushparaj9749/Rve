@@ -9,6 +9,7 @@ on:
       - scripts/apply_branding.py
       - scripts/change_package.py
       - scripts/replace_brand_text.py
+      - scripts/replace_brand_logos.py
       - scripts/make_opening_animation.py
       - brand/**
       - .github/workflows/recolor-apk.yml
@@ -22,6 +23,14 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install image patch dependency
+        run: python -m pip install Pillow
 
       - name: Set up JDK 17
         uses: actions/setup-java@v4
@@ -51,6 +60,9 @@ jobs:
 
       - name: Replace old brand names
         run: python3 scripts/replace_brand_text.py apk_out
+
+      - name: Replace remaining logos and export marks
+        run: python3 scripts/replace_brand_logos.py apk_out
 
       - name: Install our opening animation
         run: cp brand/lottie_loading_spinner.json apk_out/res/raw/lottie_loading_spinner.json
