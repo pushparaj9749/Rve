@@ -29,8 +29,8 @@ jobs:
         with:
           python-version: '3.12'
 
-      - name: Install image patch dependency
-        run: python -m pip install Pillow
+      - name: Install image patch dependencies
+        run: python -m pip install Pillow resvg-py==0.5.0
 
       - name: Set up JDK 17
         uses: actions/setup-java@v4

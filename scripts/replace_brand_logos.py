@@ -1,8 +1,9 @@
 #!/usr/bin/env python3
 """Replace in-app Alight Motion artwork in an apktool-decoded APK.
 
-The original resource names and drawable intrinsic sizes are retained. New
-bitmaps are generated only from the supplied Ankit Motion+ launcher artwork.
+Original resource names remain unchanged. New brand pixels come from the
+supplied Ankit Motion+ artwork; vector templates are rasterized only where
+Compose requires a PNG-compatible drawable.
 Usage: python3 scripts/replace_brand_logos.py <decoded_dir>
 """
 from __future__ import annotations
@@ -18,6 +19,7 @@ from pathlib import Path
 from typing import Callable
 
 from PIL import Image, ImageDraw
+from resvg_py import svg_to_bytes
 
 ROOT = Path(__file__).resolve().parent.parent
 BRAND = ROOT / "brand"
@@ -318,14 +320,18 @@ def pill_watermark(
     return canvas
 
 
-def png_density_dir(root: Path) -> Path:
-    directory = root / "res" / "drawable-xxxhdpi"
+def png_density_dir(root: Path, density: str = "xxxhdpi") -> Path:
+    directory = root / "res" / f"drawable-{density}"
     directory.mkdir(parents=True, exist_ok=True)
     return directory
 
 
-def save_png_resource(root: Path, name: str, image: Image.Image) -> None:
-    image.convert("RGBA").save(png_density_dir(root) / f"{name}.png", format="PNG", optimize=True)
+def save_png_resource(
+    root: Path, name: str, image: Image.Image, *, density: str = "xxxhdpi"
+) -> Path:
+    path = png_density_dir(root, density) / f"{name}.png"
+    image.convert("RGBA").save(path, format="PNG", optimize=True)
+    return path
 
 
 def find_unique(root: Path, filename: str) -> Path:
@@ -364,16 +370,22 @@ def replace_vector_logos(root: Path) -> int:
     }
     changed = 0
     for filename, (dp_w, dp_h, make_image) in vector_specs.items():
-        path = find_unique(root, filename)
-        resource = f"ankit_brand_overlay_{Path(filename).stem}"
+        path = root / "res" / "drawable" / filename
+        resource_name = Path(filename).stem
+        raster_path = root / "res" / "drawable-xxxhdpi" / f"{resource_name}.png"
+        if not path.exists():
+            # A second run is safe after the original vector was replaced.
+            if raster_path.is_file():
+                changed += 1
+                continue
+            raise RuntimeError(f"missing vector drawable: {path}")
+
         image = make_image(dp_w * PNG_DENSITY, dp_h * PNG_DENSITY)
-        save_png_resource(root, resource, image)
-        path.write_text(
-            '<?xml version="1.0" encoding="utf-8"?>\n'
-            '<bitmap xmlns:android="http://schemas.android.com/apk/res/android"\n'
-            f'    android:src="@drawable/{resource}" android:gravity="fill" />\n',
-            encoding="utf-8",
-        )
+        save_png_resource(root, resource_name, image)
+        # Keep Compose painterResource compatible: its XML loader accepts
+        # VectorDrawable XML, not <bitmap> or <layer-list> wrappers. A real PNG
+        # with the same resource name is a supported rasterized asset.
+        path.unlink()
         changed += 1
     return changed
 
@@ -483,67 +495,156 @@ QR_LOGO_BOXES = {
 }
 
 
-def _dp(value: int) -> str:
-    return f"{value}dp"
+def _android_color(value: str) -> tuple[str, float]:
+    color = value.strip()
+    if not color.startswith("#"):
+        raise RuntimeError(f"QR vector uses an unsupported color reference: {value}")
+    digits = color[1:]
+    if len(digits) == 8:  # Android AARRGGBB -> SVG #RRGGBB + opacity.
+        alpha = int(digits[:2], 16) / 255
+        rgb = digits[2:]
+    elif len(digits) == 6:
+        alpha, rgb = 1.0, digits
+    else:
+        raise RuntimeError(f"QR vector uses an unsupported color: {value}")
+    return f"#{rgb}", alpha
+
+
+def _vector_to_svg(root_element: ET.Element) -> tuple[str, int]:
+    """Render the small Android vector subset used by the four QR templates."""
+
+    def android_attr(element: ET.Element, name: str, default: str = "") -> str:
+        return element.get(f"{{{ANDROID_NS}}}{name}", default)
+
+    viewport_w = float(android_attr(root_element, "viewportWidth"))
+    viewport_h = float(android_attr(root_element, "viewportHeight"))
+    definitions: list[str] = []
+    removed_brand_paths = 0
+    clip_index = 0
+
+    def render_path(element: ET.Element, *, clip: bool = False) -> str:
+        nonlocal removed_brand_paths
+        path_data = android_attr(element, "pathData")
+        if not path_data:
+            return ""
+        fill_value = android_attr(element, "fillColor")
+        if not clip and fill_value.upper() in {"#FF01FFA8", "#01FFA8"}:
+            removed_brand_paths += 1
+            return ""
+        attrs = [f'd="{path_data}"']
+        if clip:
+            attrs.append('fill="white"')
+        elif fill_value:
+            fill, alpha = _android_color(fill_value)
+            fill_alpha = alpha * float(android_attr(element, "fillAlpha", "1"))
+            attrs.extend((f'fill="{fill}"', f'fill-opacity="{fill_alpha:.6g}"'))
+            if android_attr(element, "fillType") == "1":
+                attrs.append('fill-rule="evenodd"')
+        else:
+            attrs.append('fill="none"')
+        stroke_value = android_attr(element, "strokeColor")
+        if stroke_value:
+            stroke, alpha = _android_color(stroke_value)
+            stroke_alpha = alpha * float(android_attr(element, "strokeAlpha", "1"))
+            attrs.extend((
+                f'stroke="{stroke}"',
+                f'stroke-opacity="{stroke_alpha:.6g}"',
+                f'stroke-width="{android_attr(element, "strokeWidth", "1")}"',
+            ))
+        return "<path " + " ".join(attrs) + "/>"
+
+    def render_children(parent: ET.Element, *, is_group: bool = False) -> str:
+        nonlocal clip_index
+        pieces: list[str] = []
+        local_clip: str | None = None
+        for child in list(parent):
+            tag = child.tag.rsplit("}", 1)[-1]
+            if tag == "clip-path":
+                clip_index += 1
+                local_clip = f"qr_clip_{clip_index}"
+                definitions.append(
+                    f'<clipPath id="{local_clip}">{render_path(child, clip=True)}</clipPath>'
+                )
+            elif tag == "path":
+                pieces.append(render_path(child))
+            elif tag == "group":
+                pieces.append(render_children(child, is_group=True))
+            else:
+                raise RuntimeError(f"unsupported QR vector element: {tag}")
+
+        content = "".join(pieces)
+        if not content:
+            return ""
+        group_attrs: list[str] = []
+        if local_clip:
+            group_attrs.append(f'clip-path="url(#{local_clip})"')
+        if is_group:
+            rotation = float(android_attr(parent, "rotation", "0"))
+            pivot_x = float(android_attr(parent, "pivotX", "0"))
+            pivot_y = float(android_attr(parent, "pivotY", "0"))
+            scale_x = float(android_attr(parent, "scaleX", "1"))
+            scale_y = float(android_attr(parent, "scaleY", "1"))
+            trans_x = float(android_attr(parent, "translateX", "0"))
+            trans_y = float(android_attr(parent, "translateY", "0"))
+            if any((rotation, pivot_x, pivot_y, trans_x, trans_y, scale_x != 1, scale_y != 1)):
+                transform = (
+                    f"translate({trans_x + pivot_x:g} {trans_y + pivot_y:g}) "
+                    f"rotate({rotation:g}) scale({scale_x:g} {scale_y:g}) "
+                    f"translate({-pivot_x:g} {-pivot_y:g})"
+                )
+                group_attrs.append(f'transform="{transform}"')
+        if group_attrs:
+            return f"<g {' '.join(group_attrs)}>{content}</g>"
+        return content
+
+    body = render_children(root_element)
+    if removed_brand_paths < 1:
+        raise RuntimeError("Alight Motion paths not found in QR template vector")
+    defs = f"<defs>{''.join(definitions)}</defs>" if definitions else ""
+    svg = (
+        f'<svg xmlns="http://www.w3.org/2000/svg" width="{viewport_w:g}" '
+        f'height="{viewport_h:g}" viewBox="0 0 {viewport_w:g} {viewport_h:g}">'
+        f"{defs}{body}</svg>"
+    )
+    return svg, removed_brand_paths
 
 
 def replace_qr_header_logos(root: Path) -> int:
     drawable = root / "res" / "drawable"
+    raster_dir = root / "res" / "drawable-nodpi"
     changed = 0
+    render_scale = 2
     for name, (canvas_w, canvas_h, left, top, box_w, box_h) in QR_LOGO_BOXES.items():
         path = drawable / f"{name}.xml"
+        raster_path = raster_dir / f"{name}.png"
         if not path.exists():
+            # A second run is safe after the vector has been rasterized.
+            if raster_path.is_file():
+                changed += 1
+                continue
             raise RuntimeError(f"missing QR drawable: {path}")
-        art_name = f"{name}_ankit_base"
-        art_path = drawable / f"{art_name}.xml"
-        current_text = path.read_text(encoding="utf-8", errors="strict")
-        if art_path.exists() and "<layer-list" in current_text and art_name in current_text:
-            changed += 1
-            continue
-        if art_path.exists():
-            raise RuntimeError(f"refusing to overwrite existing QR source resource: {art_path}")
 
-        image_name = f"ankit_brand_overlay_{name}"
+        vector_root = ET.parse(path).getroot()
+        svg, _ = _vector_to_svg(vector_root)
+        png_bytes = svg_to_bytes(
+            svg_string=svg,
+            width=canvas_w * render_scale,
+            height=canvas_h * render_scale,
+            skip_system_fonts=True,
+        )
+        with Image.open(io.BytesIO(png_bytes)) as source:
+            image = source.convert("RGBA")
+
         logo = horizontal_lockup(
-            box_w * PNG_DENSITY,
-            box_h * PNG_DENSITY,
+            box_w * render_scale,
+            box_h * render_scale,
             mode="silver",
             pad_ratio=0.06,
         )
-        save_png_resource(root, image_name, logo)
-        path.rename(art_path)
-
-        # The mint paths in these four vectors are the embedded Alight Motion
-        # wordmark and swirl. Remove them rather than merely painting over them.
-        ET.register_namespace("android", ANDROID_NS)
-        tree = ET.parse(art_path)
-        root_element = tree.getroot()
-        removed_brand_paths = 0
-        for parent in root_element.iter():
-            for child in list(parent):
-                fill = child.get(f"{{{ANDROID_NS}}}fillColor", "").upper()
-                if child.tag.rsplit("}", 1)[-1] == "path" and fill == "#FF01FFA8":
-                    parent.remove(child)
-                    removed_brand_paths += 1
-        if removed_brand_paths < 1:
-            raise RuntimeError(f"Alight Motion mark paths not found in {art_path}")
-        tree.write(art_path, encoding="utf-8", xml_declaration=True)
-
-        right = canvas_w - left - box_w
-        bottom = canvas_h - top - box_h
-        insets = (
-            f'android:left="{_dp(left)}" android:top="{_dp(top)}" '
-            f'android:right="{_dp(right)}" android:bottom="{_dp(bottom)}"'
-        )
-        wrapper = f'''<?xml version="1.0" encoding="utf-8"?>
-<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
-    <item android:drawable="@drawable/{art_name}" />
-    <item {insets}>
-        <bitmap android:src="@drawable/{image_name}" android:gravity="fill" />
-    </item>
-</layer-list>
-'''
-        path.write_text(wrapper, encoding="utf-8")
+        image.alpha_composite(logo, (left * render_scale, top * render_scale))
+        raster_dir.mkdir(parents=True, exist_ok=True)
+        image.save(raster_path, format="PNG", optimize=True)
+        path.unlink()
         changed += 1
     return changed
 
